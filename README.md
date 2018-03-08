@@ -10,7 +10,7 @@
 
 > ### Day 1 March 8th 2018 - Mastering Markdown
 
-> Last year I coded every day, nearly four rounds of one hundred days of code. As well as tweeting my progress as I followed tutorials, got stuck, found answers, read manuals, read code, read blogs, signed up for email newsletters, did MOOCs ... and made this 
+> Last year I coded every day, nearly four rounds of one hundred days of code. As well as tweeting my progress I followed tutorials, got stuck, found answers, read manuals, read code, read blogs, signed up for email newsletters, did MOOCs ... and made this 
 website of my own [gipsi.itbit.me blog](http://gipsi.itbit.me)
 
 > Today I'm reviewing what I did, tinkering a bit, fixing broken links and setting up some new things for a another round of [#100DaysOfCode](http://www.100daysofcode.com/)
