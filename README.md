@@ -5,8 +5,8 @@
 
 > Partly due to working on:
 
-- [Creative Programming for Digital Media & Mobile Apps](https://www.mooc-list.com/course/creative-programming-digital-media-mobile-apps-coursera)
-- [#100DaysOfVolunteering]() as a thing after thinking about "Doing the Opposite" [#100DaysofX](http://www.100daysofx.com/)
+- Setting up the tools for [Creative Programming for Digital Media & Mobile Apps](https://www.mooc-list.com/course/creative-programming-digital-media-mobile-apps-coursera)
+- "Doing the Opposite" [#100DaysOfVolunteering]() as a thing after thinking about [#100DaysofX](http://www.100daysofx.com/)
 - A MOOC about mental health and wellbeing [Psychology and Mental Health: Beyond Nature and Nurture](https://www.futurelearn.com/courses/mental-health-and-well-being)
 
 > ### Day 1 March 8th 2018 - Mastering Markdown
