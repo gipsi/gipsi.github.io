@@ -1,5 +1,5 @@
 > ## Welcome to my GitHub Pages hosted [#100DaysOfCode](http://www.100daysofcode.com/) Blog
-> [@gipsitana](https://twitter.com/gipsitana)
+> [@gipsitana](https://twitter.com/gipsitana) on Twitter
 
 > ### Day 1 February 1st 2018 - delayed start
 
