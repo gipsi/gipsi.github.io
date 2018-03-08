@@ -1,5 +1,8 @@
 > ## Day 1 February 1st 2018  Welcome to GitHub Pages
 
+http://github.com - automatic!
+[GitHub](http://github.com)
+
 > You can use the [editor on GitHub](https://github.com/gipsi/gipsi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
