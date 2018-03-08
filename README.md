@@ -6,7 +6,7 @@
 > Partly due to working on:
 
 - Setting up the tools for [Creative Programming for Digital Media & Mobile Apps](https://www.mooc-list.com/course/creative-programming-digital-media-mobile-apps-coursera)
-- "Doing the Opposite" [#100DaysOfVolunteering](gipsi.github.io/snowtrees_20180227.jpg)
+- "Doing the Opposite" which has meant being outside in the woods in winter for [#100DaysOfVolunteering](gipsi.github.io/snowtrees_20180227.jpg)
  as a thing after thinking about [#100DaysofX](http://www.100daysofx.com/)
 - A MOOC about mental health and wellbeing [Psychology and Mental Health: Beyond Nature and Nurture](https://www.futurelearn.com/courses/mental-health-and-well-being)
 
