@@ -1,11 +1,24 @@
-> ## Welcome to my GitHub Pages hosted 100 Days of Code Blog
+> ## Welcome to my <a id="github_pages">Github Pages</a> hosted 100 Days of Code Blog
 
-> ### Day 1 February 1st 2018 - delayed start 
+> ### Day 1 February 1st 2018 - delayed start
+
+> Partly due to working on:
+
+- [Creative Programming for Digital Media & Mobile Apps](https://www.mooc-list.com/course/creative-programming-digital-media-mobile-apps-coursera)
+- 100 days of volunteering and developing it as a thing after thinking about "Doing the Opposite" [100DaysofX](http://www.100daysofx.com/)
+- A MOOC about mental health and wellbeing [Psychology and Mental Health: Beyond Nature and Nurture](https://www.futurelearn.com/courses/mental-health-and-well-being)
 
 > ### Day 1 March 8th 2018 - Mastering Markdown
 
+> Last year I coded every day, nearly four rounds of one hundred days of code. As well as tweeting my progress as I followed tutorials, got stuck, found answers, read manuals, read code, read blogs, signed up for email newsletters, did MOOCs ... and I made this 
+website of my own [gipsi.itbit.me blog](http://gipsi.itbit.me)
 
-[gipsi.itbit.me blog](http://gipsi.itbit.me)
+> Today I'm reviewing what I did, tinkering a bit, fixing broken links and setting up some new things for a another round.
+
+> I'm participating in the CodeNewbie Challenge [**Start Coding** #CNC2018](http://2018.codenewbie.org/) which is encouraging me to think more clearly about and be more specific with my coding goals.
+
+> ## Welcome to [GitHub Pages](#github_pages)
+
 
 > You can use the [editor on GitHub](https://github.com/gipsi/gipsi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
