@@ -1,4 +1,8 @@
-> ## Day 1 February 1st 2018  Welcome to GitHub Pages
+> ## Welcome to my GitHub Pages hosted 100 Days of Code Blog
+
+> ### Day 1 February 1st 2018 - delayed start 
+
+> ### Day 1 March 8th 2018 - Mastering Markdown
 
 
 [gipsi.itbit.me blog](http://gipsi.itbit.me)
