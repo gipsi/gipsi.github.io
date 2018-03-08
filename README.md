@@ -1,4 +1,5 @@
 > ## Welcome to my GitHub Pages hosted [#100DaysOfCode](http://www.100daysofcode.com/) Blog
+> [@gipsitana](https://twitter.com/gipsitana)
 
 > ### Day 1 February 1st 2018 - delayed start
 
@@ -16,6 +17,7 @@ website of my own [gipsi.itbit.me blog](http://gipsi.itbit.me)
 > Today I'm reviewing what I did, tinkering a bit, fixing broken links and setting up some new things for a another round of [#100DaysOfCode](http://www.100daysofcode.com/)
 
 > I'm participating in the CodeNewbie Challenge [**Start Coding** #CNC2018](http://2018.codenewbie.org/) which is encouraging me to think more clearly about and be more specific with my coding goals.
+>
 
 > _*I am developing this coding blog from a template and have left the following section for reference._
 
