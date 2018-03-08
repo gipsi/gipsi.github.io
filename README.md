@@ -1,7 +1,7 @@
 > ## Day 1 February 1st 2018  Welcome to GitHub Pages
 
 http://github.com - automatic!
-[blog](http://gipsi.itbit.me)
+[gipsi.itbit.me blog](http://gipsi.itbit.me)
 
 > You can use the [editor on GitHub](https://github.com/gipsi/gipsi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
