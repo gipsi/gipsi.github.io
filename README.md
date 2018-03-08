@@ -19,7 +19,7 @@ website of my own [gipsi.itbit.me blog](http://gipsi.itbit.me)
 > I'm participating in the CodeNewbie Challenge [**Start Coding** #CNC2018](http://2018.codenewbie.org/) which is encouraging me to think more clearly about and be more specific with my coding goals.
 >
 
-> _*I am developing this coding blog from a template and have left the following section for reference._
+ _*I am developing this coding blog from a template and have left the following section for reference:_
 
 > ## *Welcome to GitHub Pages
  
