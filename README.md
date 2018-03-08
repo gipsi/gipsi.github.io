@@ -1,4 +1,4 @@
-> ## Welcome to my <a id="github_pages">Github Pages</a> hosted 100 Days of Code Blog
+> ## Welcome to my <a href="github_pages">Github Pages</a> hosted 100 Days of Code Blog
 
 > ### Day 1 February 1st 2018 - delayed start
 
@@ -17,7 +17,7 @@ website of my own [gipsi.itbit.me blog](http://gipsi.itbit.me)
 
 > I'm participating in the CodeNewbie Challenge [**Start Coding** #CNC2018](http://2018.codenewbie.org/) which is encouraging me to think more clearly about and be more specific with my coding goals.
 
-> ## Welcome to [GitHub Pages](#github_pages)
+> ## GitHub Pages
 
 
 > You can use the [editor on GitHub](https://github.com/gipsi/gipsi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
