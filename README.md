@@ -5,22 +5,21 @@
 
 > Partly due to working on:
 
-- Setting up the tools for [Creative Programming for Digital Media & Mobile Apps](https://www.mooc-list.com/course/creative-programming-digital-media-mobile-apps-coursera)
-- "Doing the Opposite" which has meant being outside in the woods in winter for [#100DaysOfVolunteering](gipsi.github.io/snowtrees_20180227.jpg)
- as a thing after thinking about [#100DaysofX](http://www.100daysofx.com/)
-- A MOOC about mental health and wellbeing [Psychology and Mental Health: Beyond Nature and Nurture](https://www.futurelearn.com/courses/mental-health-and-well-being)
+- Setting up the tools for [Creative Programming for Digital Media & Mobile Apps](https://www.mooc-list.com/course/creative-programming-digital-media-mobile-apps-coursera).
+- "Doing the Opposite" [#100DaysOfVolunteering](gipsi.github.io/snowtrees_20180227.jpg), as a thing after thinking about [#100DaysofX](http://www.100daysofx.com/).
+- A MOOC about mental health and wellbeing [Psychology and Mental Health: Beyond Nature and Nurture](https://www.futurelearn.com/courses/mental-health-and-well-being).
 
 > ### Day 1 March 8th 2018 - Mastering Markdown
 
 > Last year I coded every day, nearly four rounds of one hundred days of code. As well as tweeting my progress I followed tutorials, got stuck, found answers, read manuals, read code, read blogs, signed up for email newsletters, did MOOCs ... and made this 
-website of my own [gipsi.itbit.me blog](http://gipsi.itbit.me)
+website of my own [gipsi.itbit.me blog](http://gipsi.itbit.me).
 
-> Today I'm reviewing what I did, tinkering a bit, fixing broken links and setting up some new things for a another round of [#100DaysOfCode](http://www.100daysofcode.com/)
+> Today I'm reviewing what I did, tinkering a bit, fixing broken links and setting up some new things for a another round of [#100DaysOfCode](http://www.100daysofcode.com/).
 
 > I'm participating in the CodeNewbie Challenge [**Start Coding** #CNC2018](http://2018.codenewbie.org/) which is encouraging me to think more clearly about and be more specific with my coding goals.
 >
 
- _*I am developing this coding blog from a template and have left the following section for reference:_
+ _I am developing this coding blog from a template and intend to keep following section here for reference:_
 
 > ## *Welcome to GitHub Pages
  
