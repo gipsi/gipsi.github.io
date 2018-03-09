@@ -10,9 +10,9 @@ After a quick review of last year's coding efforts I decided that I need to impr
 
 >No catch! A huge thanks to Mozilla Firefox who has sponsored my time to create this course and offer it up for free. Firefox packs >some of the best dev tools and in particular their CSS Grid Dev tools make understanding, debugging and visualizing complex grid >layouts a snap.
 
-###
+### Starter Files and Tooling Setup
 
-After the welcome video the first tutorial video **Starter Files and Tooling Setup** is only a little over 10 minutes, but there is a lot to do!
+After the welcome video the first tutorial is only a little over 10 minutes, but there is a lot to do!
 - Install Firefox Quantum: Developer Edition
 - Download and install Node.js
 - Download starter files from GitHub
