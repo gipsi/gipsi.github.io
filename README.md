@@ -3,7 +3,7 @@
 
 ### Day 3 March 10th 2018 -  Fun with CSS Grid Fundamentals
 
-Second day of the @wesbos [CSS GRID](https://cssgrid.io/) course dives right into making and sizing grid items.
+Second day of the [Wes Bos ](http://wesbos.com/) [CSS GRID](https://cssgrid.io/) course dives right into making and sizing grid items.
 
 ![GriddyUp](griddyup.jpg)
 
