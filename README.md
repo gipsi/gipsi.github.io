@@ -1,6 +1,39 @@
 ## Welcome to my GitHub Pages hosted [#100DaysOfCode](http://www.100daysofcode.com/) Blog
 [@gipsitana](https://twitter.com/gipsitana) on Twitter
 
+### Day 3 March 10th 2018 -  Fun with CSS Grid Fundamentals
+
+Second day of the Wes Bos CSS Grid course dives right into making and sizing grid items.
+
+![GriddyUp](griddyup.jpg)
+
+
+This piece of code demonstrates how ```display: grid;```  works on all the container items,  
+```grid-template-columns: 200px 500px;``` and ```grid-template-rows: 200px 100px 400px;``` explicitly sizes the items and 
+```grid-gap: 20px;``` sets the tracks, which are like margins between the items.
+   
+
+```
+    .container {
+      display: grid;
+      grid-template-columns: 200px auto 500px 50px;
+      grid-template-rows: 200px 100px 400px;
+      grid-gap: 20px;
+    }
+``` 
+  
+The ```auto``` keyword made things fluid and the values are pixels or rems rather than percentages as the new ```fr``` value is going to be introduced instead later on.
+
+### Not everything has to be square!
+
+Sometimes it seems like everything on the Web is a box - it doesn't have to be.
+
+>Use the Clip Path property to alter elements in your layouts to be polygons, circles, triangles, and more. ~ Jen Simmons
+
+In this great video  [Jen Simmons](https://www.youtube.com/watch?v=3kncTIpc4Q4) explains.  There's a whole bunch more about layout on her YouTube Channel [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag) - just what I need right now.
+
+
+
 ### Day 2 March 9th 2018 - Griddy Up
 
 After a quick review of last year's coding efforts I decided that I need to improve my CSS skills.  So today I started  
@@ -18,7 +51,7 @@ After the welcome video the first tutorial is only a little over 10 minutes, but
 - Download starter files from GitHub
 - Download and install VS Code
 
-I already have the Firefox Quantum Developer Browser but I did need to install Node.js.  I followed along with the video pausing it to get through each of the steps required complete the setup.  I used Windows Powershell to check for the Node.js installation. Next was downloading the starter files from GitHub, I also forked the repo, noting that I should take care not to do a pull request. 
+I already have the Firefox Quantum Developer Browser but I did need to install Node.js.  I followed along with the video pausing it to get through each of the steps required to complete the setup.  I used Windows Powershell to check for the Node.js installation. Next was downloading the starter files from GitHub, I also forked the repo, noting that I should take care not to do a pull request. 
 
 I got VS code up and running and read the opened JSON lock file.  Although this seemed a bit obscure to start with the reason is to have the```"browser-sync"``` tool update the results of coding in the browser without refreshing.
 
