@@ -12,7 +12,7 @@ On 1st February 2014 Chris Coyer of CSS Tricks declared  [**International box-si
 The origin of the concept being a post by Paul Irish on 1st February 2012 
 [* { Box-sizing: Border-box }FTW](https://www.paulirish.com/2012/box-sizing-border-box-ftw/)
 
-There's a [fascinating history](https://css-tricks.com/box-sizing/) and it's interesting to discover how width has interpreted differently between the W3C and Internet Explorer.
+There's a [fascinating history](https://css-tricks.com/box-sizing/) and it's interesting to discover how width has been interpreted differently between the W3C and Internet Explorer.
 
 The Box Model
 
