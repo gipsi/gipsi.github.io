@@ -3,7 +3,7 @@
 
 ### Day 4 March 11th 2018 - box-sizing
 
-### The CSS property with its own day.
+#### The CSS property with its own day.
 
 On 1st February 2014 Chris Coyer of CSS Tricks declared  [**International box-sizing Awareness Day**.](https://css-tricks.com/international-box-sizing-awareness-day/) 
 
@@ -14,17 +14,15 @@ The origin of the concept being a post by Paul Irish on 1st February 2012
 
 There's a [fascinating history](https://css-tricks.com/box-sizing/) and it's interesting to discover how width has been interpreted differently between the W3C and Internet Explorer.
 
-The Box Model
+#### The Box Model
 
 ![BoxModel](299px-W3C_and_Internet_Explorer_box_models.jpg)
 
-### Introduction to Modern Web Technologies
+#### Introduction to Modern Web Technologies
 
 [Lea Verou](http://lea.verou.me/2018/02/free-intro-to-web-development-slides-with-demos/) has shared the slides from her MIT labs introducing students to Web development technologies. A great set of slides plus  useful resource selection to go with them.  Lots more good stuff on her wonderfully absorbing Website too.
 
-### CSS Grid
-
-#### Dev-tools and Implicit vs Explicit Tracks
+#### CSS Grid Dev-tools and Implicit vs Explicit Tracks
 
 Two more of Wes Bos [CSS GRID](https://cssgrid.io/) videos.  I'm getting the hang of using npm through Powershell for ```browser-sync```.  Quite a bit of shuffling windows around the desktop and rearranging the dev tools panes, resizing things.
 
