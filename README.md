@@ -3,7 +3,7 @@
 
 ### Day 4 March 11th 2018 - box-sizing
 
-### The CSS property that has its own day.
+### The CSS property with its own day.
 
 On 1st February 2014 Chris Coyer of CSS Tricks declared  [**International box-sizing Awareness Day**.](https://css-tricks.com/international-box-sizing-awareness-day/) 
 
