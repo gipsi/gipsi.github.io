@@ -1,7 +1,7 @@
 ## Welcome to my GitHub Pages hosted [#100DaysOfCode](http://www.100daysofcode.com/) Blog
 [@gipsitana](https://twitter.com/gipsitana) on Twitter
 
-### Day 6 March 13th 2018 - CSS Grid auto-flow and Fractional Unit
+### Day 6 March 13th 2018 - CSS grid-auto-flow, Fractional Unit (free space) and "The Curse of Knowledge".
 
 #### auto-flow
 
@@ -17,7 +17,7 @@ By default CSS grid places items in rows, with auto-flow this can be changed to 
     }
 ```
 
-#### Free Space
+#### Fractional Unit (free space)
 
 In CSS Grid fr = fractional unit = (free space!) represents the amount of space left after all the elements are laid out.
 
@@ -31,6 +31,11 @@ In CSS Grid fr = fractional unit = (free space!) represents the amount of space 
 
     }
 ```
+
+#### The Curse of Knowledge
+
+[Adactio](https://adactio.com/journal/13521) on "[the curse of Knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge)" and why it's  a good idea to blog about stuff when you're learning.
+
 ### Day 5 March 12th 2018 - Talks over Coffee
 
 #### Heartfelt dev talks for humans
