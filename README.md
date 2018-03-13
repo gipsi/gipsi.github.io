@@ -1,6 +1,21 @@
 ## Welcome to my GitHub Pages hosted [#100DaysOfCode](http://www.100daysofcode.com/) Blog
 [@gipsitana](https://twitter.com/gipsitana) on Twitter
 
+### Day 5 March 12th 2018 - Talks over Coffee
+
+#### Heartfelt dev talks for humans
+
+Is a [Glitch.com remix](https://glitch.com/) a collection of videos. 
+
+- Watching: [I Have No Idea What The Hell I'm Doing](https://coffee-talks.glitch.me/)  by Brad Frost
+
+- Reading: 
+    - [The Little Book of HTML/CSS Coding Guidelines](http://www.oreilly.com/web-platform/free/little-book-html-css-coding-guidelines.csp?download=true) on writing code for humans.
+
+    - [The V6 Blog Archive of Rob Weychert](http://v6.robweychert.com/blog/2017/09/v6-the-archive/) on the ephemeral nature of third party services.
+
+- Learning: [Transmedia Storytelling with FutureLearn](https://www.futurelearn.com/courses/transmedia-storytelling) Transition in common usage from the term narrative to storytelling in the 1990s. The basic elements of background, character and plot.
+
 ### Day 4 March 11th 2018 - box-sizing
 
 #### The CSS property with its own day.
