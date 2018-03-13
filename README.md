@@ -5,7 +5,7 @@
 
 #### auto-flow
 
-By default CSS grid places items in rows, with auto-flow this can be changed to column for horizontal scrolling.
+By default CSS grid places items in rows, with auto-flow this can be changed to columns for horizontal scrolling.
 
 ```
     .container {
