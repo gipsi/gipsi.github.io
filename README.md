@@ -1,6 +1,22 @@
 ## Welcome to my GitHub Pages hosted [#100DaysOfCode](http://www.100daysofcode.com/) Blog
 [@gipsitana](https://twitter.com/gipsitana) on Twitter
 
+### Day 6 March 13th 2018 - Fractional Unit
+
+#### Free Space
+
+In CSS Grid fr = fractional unit = (free space!) represents the amount of space left after all the elements are laid out.
+
+```   
+   .container {
+      display: grid;
+      grid-gap: 20px;
+      border: 10px solid var(--yellow);
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+     
+
+    }
+```
 ### Day 5 March 12th 2018 - Talks over Coffee
 
 #### Heartfelt dev talks for humans
