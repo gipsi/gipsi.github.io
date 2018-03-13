@@ -1,7 +1,21 @@
 ## Welcome to my GitHub Pages hosted [#100DaysOfCode](http://www.100daysofcode.com/) Blog
 [@gipsitana](https://twitter.com/gipsitana) on Twitter
 
-### Day 6 March 13th 2018 - Fractional Unit
+### Day 6 March 13th 2018 - CSS Grid auto-flow and Fractional Unit
+
+#### auto-flow
+
+By default CSS grid places items in rows, with auto-flow this can be changed to column for horizontal scrolling.
+
+```
+    .container {
+      display: grid;
+      grid-gap: 20px;
+      grid-template-columns: 400px 200px;
+      grid-auto-flow: column;
+      grid-auto-columns: 200px;
+    }
+```
 
 #### Free Space
 
