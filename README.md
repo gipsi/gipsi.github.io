@@ -36,6 +36,10 @@ In CSS Grid fr = fractional unit = (free space!) represents the amount of space 
 
 [Adactio](https://adactio.com/journal/13521) on "[the curse of Knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge)" and why it's  a good idea to blog about stuff when you're learning.
 
+#### Fact and Fiction 
+
+An exercise in [writing](https://docs.google.com/document/d/1Sv50x-1YjEL43rOpk_nJTaEsZ1YM0JmBpUlbyJE2DDk/edit?usp=drivesdki) for the Futurelearn Course [Start Writing Fiction](https://www.futurelearn.com/courses/start-writing-fiction).
+
 ### Day 5 March 12th 2018 - Talks over Coffee
 
 #### Heartfelt dev talks for humans
