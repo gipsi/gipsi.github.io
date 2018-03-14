@@ -3,7 +3,7 @@
 
 ### Day 6 March 13th 2018 - CSS grid-auto-flow, Fractional Unit (free space) and "The Curse of Knowledge".
 
-#### auto-flow
+#### grid-auto-flow
 
 By default CSS grid places items in rows, with auto-flow this can be changed to columns for horizontal scrolling.
 
