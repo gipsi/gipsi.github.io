@@ -53,6 +53,8 @@
     }
 ```
 
+ [Wes Bos ](http://wesbos.com/) [CSS GRID](https://cssgrid.io/)
+
 ### Day 6 March 13th 2018 - CSS grid-auto-flow, Fractional Unit (free space) and "The Curse of Knowledge".
 
 #### grid-auto-flow
