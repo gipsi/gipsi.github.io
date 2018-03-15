@@ -1,7 +1,13 @@
-# HTML/CSS/JavaScript
 
-##  [#100DaysOfCode](http://www.100daysofcode.com/) Blog
-[@gipsitana](https://twitter.com/gipsitana) on Twitter
+# [#100DaysOfCode](http://www.100daysofcode.com/) Blog
+
+**[@gipsitana](https://twitter.com/gipsitana) on Twitter**
+
+_Learning_
+
+## HTML/CSS/JavaScript
+
+_For Frontend Web Development_
 
 
 ### Day 7 March 14th 2018 - CSS grid workout
