@@ -1,4 +1,6 @@
-## Welcome to my GitHub Pages hosted [#100DaysOfCode](http://www.100daysofcode.com/) Blog
+# HTML/CSS/JavaScript
+
+##  [#100DaysOfCode](http://www.100daysofcode.com/) Blog
 [@gipsitana](https://twitter.com/gipsitana) on Twitter
 
 
