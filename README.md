@@ -9,7 +9,20 @@ _Learning_
 
 _For Frontend Web Development_
 
+### Day 8 March 15th 2018 - CSS grid Responsive by default (no more media queries?) 
 
+#### auto-fit, auto-fill and minmax().
+
+```
+ .container {
+      display: grid;
+      grid-gap: 20px;
+      border: 10px solid var(--yellow);
+      grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+```
+- [Wes Bos ](http://wesbos.com/) [CSS GRID](https://cssgrid.io/)
+- [Smashing Magazine Using Media Queries For Responsive Design In 2018](https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/)
+- [Smashing Magazine Understanding CSS Layout And The Block Formatting Context](https://www.smashingmagazine.com/2017/12/understanding-css-layout-block-formatting-context/)
 ### Day 7 March 14th 2018 - CSS grid workout
 
 #### Sizing tracks, repeat function, sizing and placing items
