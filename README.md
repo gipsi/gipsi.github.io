@@ -23,6 +23,7 @@ _For Frontend Web Development_
 - [Wes Bos ](http://wesbos.com/) [CSS GRID](https://cssgrid.io/)
 - [Smashing Magazine Using Media Queries For Responsive Design In 2018](https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/)
 - [Smashing Magazine Understanding CSS Layout And The Block Formatting Context](https://www.smashingmagazine.com/2017/12/understanding-css-layout-block-formatting-context/)
+
 ### Day 7 March 14th 2018 - CSS grid workout
 
 #### Sizing tracks, repeat function, sizing and placing items
