@@ -7,7 +7,7 @@
 
 _For Frontend Web Development_
 
-### Day 9/10 March 15th/16th 2018 - CSS grid template area and Poop Emoji
+### Day 9/10 March 16th/17th 2018 - CSS grid template area and Poop Emoji
 
 Stuck on how to put emoji into html.
 
