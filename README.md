@@ -7,6 +7,10 @@
 
 _For Frontend Web Development_
 
+### Day 9/10 March 15th/16th 2018 - CSS grid template area and Poop Emoji
+
+Stuck on how to put emoji into html.
+
 ### Day 8 March 15th 2018 - CSS grid Responsive by default (no more media queries?) 
 
 #### auto-fit, auto-fill and minmax().
