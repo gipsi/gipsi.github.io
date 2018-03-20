@@ -7,6 +7,91 @@
 
 _For Frontend Web Development_
 
+### Day 11/12 March 18th/19th - CSS Grid
+
+#### Notes on: Naming Lines, Block Fitting and Centering 
+
+For horizontal scrolling: grid-auto-flow: column;
+
+
+#### Naming Lines
+
+(Doesn't show up in dev tools yet)
+
+The lines between the boxes can be named by putting the names inside square brackets in front of the value of the boxes, e.g.
+```
+.container {
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns: [site-left] 1fr [content-start] 500 px [content-end] 1fr [site-right];
+  /* Can be multiple names too: grid-template-columns: [sidebar-start site-left] 1fr [sidebar-end content-start] 500 px [content-end] 1fr [site-right]; */
+  grid-template-rows; [content-top] repeat(10, auto) [content-bottom];
+
+.item3 {
+  background: slateblue;
+  grid-column: content-start;
+  grid-row: content-top / content-bottom;
+```
+
+
+
+#### Block fitting 
+
+grid-auto-flow: dense;
+
+An alternative for the grid-autoflow property. 
+
+If the order of different size boxes is not too important this is useful for filling the page without leaving holes or gaps.
+```
+.container {
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns: repeat(10, 1fr);
+  grid-auto-flow: dense;
+}
+
+.item:nth-child(6n) {
+  background: cornflowerblue;
+  grid-column: span 6;
+}
+
+.item:nthchild(8n) {
+  background: tomato;
+  grid-column: span 2;
+}
+
+.item:nth-child(9n) {
+  grid-row: span 2;
+}
+
+.item18 {
+  background: greenyellow !important; /* Have to have the !important because nth-child is more specific than the item number. */
+/* Then if you want to anchor this item at the end */
+  grid-column-end: -1 !important;
+```
+For horizontal scrolling: grid-auto-flow: column;
+
+
+
+#### Centering
+
+6 items come with justify:
+
+justify = row axis
+align = column axis
+
+justify-items:
+align-items:
+
+justify-content:
+align-content:
+
+align-self:
+justify-self:
+
+For reference see:
+CSS-TRICKS [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
 ### Day 9/10 March 16th/17th 2018 - CSS grid template area and Poop Emoji
 
 Stuck on how to put emoji into html.
