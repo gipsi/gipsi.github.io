@@ -77,8 +77,8 @@ For horizontal scrolling: grid-auto-flow: column;
 
 6 items come with justify:
 
-justify = row axis
-align = column axis
+(justify = row axis
+align = column axis)
 
 justify-items:
 align-items:
