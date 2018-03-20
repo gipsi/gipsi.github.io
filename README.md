@@ -5,7 +5,7 @@
 
 ## HTML/CSS/JavaScript
 
-_For Frontend Web Development_
+_Frontend Web Development_
 
 ### Day 11/12 March 18th/19th - CSS Grid
 
