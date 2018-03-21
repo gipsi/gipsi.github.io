@@ -1,11 +1,88 @@
 
-#  Blog about learning to code
+# A Blog about learning to code
 
 **[@gipsitana on Twitter](https://twitter.com/gipsitana)** **[#100DaysOfCode Website](http://www.100daysofcode.com/)**
 
 ## HTML/CSS/JavaScript
 
 _Frontend Web Development_
+
+### Day 13/14 March 20th/21st
+
+#### How I put a poop emoji in my  HTML
+
+Here's a comprehensive [encyclopedia of emoji! 😀](https://emojipedia.org/)
+
+Hello 💩 
+
+Well that was easy!  No not really. 
+
+Do I want an [emoji domain name?](https://blog.farrant.me/getting-an-emoji-domain-in-2015/)
+
+Actually no, that was interesting but a distraction.  I want to put emoji's in CSS Grid boxes in an HTML5 document.
+
+Ah!  This looks helpful. [How to Insert Emojis in HTML](https://linuxwebdevelopment.com/how-to-insert-emojis-in-html/)
+
+And another [emoji list ](https://unicode.org/emoji/charts/full-emoji-list.html)
+
+I'll try  a [unicorn face](https://emojipedia.org/unicorn-face/) 
+
+Get to the the [code point](https://codepoints.net/).
+
+U+1F984
+
+Change it to this.
+
+&#1F984;
+
+Nope that doesn't work.
+
+[Handling character encodings in HTML and CSS (tutorial)](https://www.w3.org/International/tutorials/tutorial-char-enc/) 
+
+ [In a nutshell](https://www.w3.org/International/tutorials/tutorial-char-enc/#quicksummary)
+
+Save your pages as UTF-8.  Yep did that right from the start.
+
+How about  W3School - try an [HTML5 entity](https://www.w3schools.com/charsets/ref_html_entities_u.asp).  
+
+**uhblack - a black box** &uhblk;
+
+Yep that works with this code: ```&#9600;```, or this, ```&#x2580;```, or this, ```&uhblk;```.
+
+But I don't really want an **entity** I want an **emoji**.😒 
+
+
+
+Sooo, back to the [pile of poo.](https://emojipedia.org/pile-of-poo/)
+
+OK some [history of the poop emoji](https://www.fastcompany.com/3037803/the-oral-history-of-the-poop-emoji-or-how-google-brought-poop-to-america) and stuff about [code points](https://codepoints.net/U+1F4A9.)
+
+When I copy and paste the emoji code point code it just transfers a two question marks, like this:``` <div class="item item10">??</div>``` which then both appear in my CSS Grid box. No emoji.
+
+
+
+But there is an [Embed this codepoint] button.  A pop up box appears.
+
+> Embed this codepoint in your own website by simply copy-and-pasting the following HTML snippet:
+
+```
+<iframe src="https://codepoints.net/U+1F984?embed"
+        style="width: 200px; height: 26px;
+        border: 1px solid #444;">
+</iframe>
+```
+
+> If you want, you can freely change width and height to meet your needs. The layout will adapt accordingly.
+
+
+
+This is alright, I have got the unicorn face, but also the code point and the name of the emoji written beside it.  I'd really rather just have the emoji.
+
+Looking at the iframe code and wondering how to ditch the surplus info went to the codepoints link in the code. [This unicorn page](https://codepoints.net/U+1F984?embed)  has at the bottom an [HTML-Escape code](https://www.w3.org/International/questions/qa-escapes ), same as the one I tried earlier but with an x ```&#x1F984;```  It works! 🦄
+
+
+
+
 
 ### Day 11/12 March 18th/19th - CSS Grid
 
