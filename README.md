@@ -15,7 +15,7 @@ Here's a comprehensive [encyclopedia of emoji! 😀](https://emojipedia.org/)
 
 Hello 💩 
 
-Well that was easy!  No not really. 
+Well that was easy!  No not really. This is Markdown and copy paste is working fine.  Not so in HTML Markup.
 
 Do I want an [emoji domain name?](https://blog.farrant.me/getting-an-emoji-domain-in-2015/)
 
