@@ -261,7 +261,7 @@ By default CSS grid places items in rows, with auto-flow this can be changed to 
 
 #### Fractional Unit (free space)
 
-In CSS Grid fr = fractional unit = (free space!) represents the amount of space left after all the elements are laid out.
+In CSS Grid fr = fractional unit = (free space!) represents the amount of space left after all the elements are laid out. 
 
 ```   
    .container {
