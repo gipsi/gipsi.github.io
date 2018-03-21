@@ -45,7 +45,7 @@ Save your pages as UTF-8.  Yep did that right from the start.
 
 How about  W3School - try an [HTML5 entity](https://www.w3schools.com/charsets/ref_html_entities_u.asp).  
 
-**uhblack - a black box** &uhblk;
+**uhblack - a black box** &uhblk; alt="waving black flag" 🏴
 
 Yep that works with this code: ```&#9600;```, or this, ```&#x2580;```, or this, ```&uhblk;```.
 
