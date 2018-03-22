@@ -7,6 +7,12 @@
 
 _Frontend Web Development_
 
+### Day 15 March 22nd
+
+Practicing what I learnt yesterday by placing empoji items in CSS Grid boxes.
+![emojigrid](emojigrid.jpg)
+
+
 ### Day 13/14 March 20th/21st
 
 #### How I put a poop emoji in my  HTML
