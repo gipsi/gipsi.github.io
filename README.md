@@ -21,6 +21,12 @@ Found out you can change the skin colour of people emojis. 🧜🏿‍♂️ .  
 
 Emoji modifiers were added based on the [Fitzpatrick scale](https://en.wikipedia.org/wiki/Fitzpatrick_scale) of skin tones in 2015.
 
+I made a CodePen pen too: [CSS Grid Playground - placing items        ](https://codepen.io/gipsi/pen/BrZGRP)
+
+
+
+Using [Typora](https://typora.io/) for Markdown - Lovely to use now I'm getting the hang of it.
+
 
 ### Day 15 March 22nd
 
