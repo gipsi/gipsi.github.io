@@ -9,7 +9,7 @@ _Frontend Web Development_
 
 ### Day 15 March 22nd
 
-Practicing what I learnt yesterday by placing empoji items in CSS Grid boxes.
+Practicing what I learnt yesterday by placing emoji items in CSS Grid boxes.
 ![emojigrid](emojigrid.jpg)
 
 
