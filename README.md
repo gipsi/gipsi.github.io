@@ -7,6 +7,21 @@
 
 _Frontend Web Development_
 
+### Day 16 March 23rd
+
+I made an [emojigrid](https://gipsi.github.io/emojigrid/) repo last night but fogot how to set the url for it.
+
+Sorted that out: go to settings>scroll down to gh-pages section>publish default is **None**, change that to Master or gh-pages.
+
+Filled in the most popular from a list on [emojipedia](https://emojipedia.org/). Then used the randomise button and picking ones I like.  
+
+Found out you can change the skin colour of people emojis. 🧜🏿‍♂️ .  The code for that in HTML is 
+
+```&#x1F9DC&#x1F3FF``` This is  the two code point numbers that represents the emoji plus a modifier in Unicode with  the prefix U+ changed to a character escape &#x.  Some more on [character escapes in css and markup](https://www.w3.org/International/questions/qa-escapes)
+
+Emoji modifiers were added based on the [Fitzpatrick scale](https://en.wikipedia.org/wiki/Fitzpatrick_scale) of skin tones in 2015.
+
+
 ### Day 15 March 22nd
 
 Practicing what I learnt yesterday by placing emoji items in CSS Grid boxes.
