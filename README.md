@@ -7,6 +7,13 @@
 
 _Frontend Web Development_
 
+### Day 18 March 25th
+
+#### [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+
+Emoji homework! ... on unicode and character sets.
+
+
 ### Day 17 March 24th
 
 Whilst exploring tumblr I found you can edit the html.
