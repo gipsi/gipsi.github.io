@@ -23,7 +23,7 @@ Whilst exploring tumblr I found you can edit the html.
 
 ### Day 16 March 23rd
 
-I made an [emojigrid](https://gipsi.github.io/emojigrid/) repo last night but fogot how to set the url for it.
+I made an [emojigrid](https://gipsi.github.io/emojigrid/) GitHub repo last night but fogot how to set the url for it.
 
 Sorted that out: go to settings>scroll down to gh-pages section>publish default is **None**, change that to Master or gh-pages.
 
