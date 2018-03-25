@@ -7,6 +7,13 @@
 
 _Frontend Web Development_
 
+### Day 17 March 24th
+
+Whilst exploring tumblr I found you can edit the html.
+
+![tumblrhtml](tumblr_html.jpg)
+
+
 ### Day 16 March 23rd
 
 I made an [emojigrid](https://gipsi.github.io/emojigrid/) repo last night but fogot how to set the url for it.
