@@ -7,6 +7,20 @@
 
 _Frontend Web Development_
 
+### Day 19
+
+I set up  new blog on Blogger for creative writing and called it [Bio](https://gipsitana.blogspot.co.uk/2018/). 
+
+Importing the writing I'd put a Google Docs template  into blogger and editing the HTML there went OK. Although the copiuos amounts of code in a great block  in the head tag was a surprise (there are widows and orphans in there too 😮) . I did proceed and edit in HTML.  It took a bit of fiddling about to get the title photo in the right place.  The backgound photo of the blog looked alright to begin with on the laptop. only later on the phone I noticed the picture repeating, that wont do! 
+
+
+
+Learnt some basic use of google analytics watching their tutorial videos then installed it by adding a script tag they gave me to paste in.  Now it's all about learning how to read and use the analytics software.
+
+ 
+
+
+
 ### Day 18 March 25th
 
 #### [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
