@@ -17,6 +17,8 @@ Importing the writing I'd put a Google Docs template  into Blogger and editing t
 
 Learnt some basic use of google analytics watching their tutorial videos then installed it by adding a script tag they gave me to paste in.  Now it's all about learning how to read and use the analytics software.
 
+The code looks quite different.  Much easier to read in the browser with 'view source'.
+
  
 
 
