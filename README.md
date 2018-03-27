@@ -1,7 +1,7 @@
 
 # A Blog about learning to code
 
-**[@gipsitana on Twitter](https://twitter.com/gipsitana)** **[#100DaysOfCode Website](http://www.100daysofcode.com/)**
+**[@gipsitana on Twitter](https://twitter.com/gipsitana)** 
 
 ## HTML/CSS/JavaScript
 
