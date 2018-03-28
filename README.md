@@ -7,6 +7,52 @@
 
 _Frontend Web Development_
 
+A Blog about learning to code
+
+
+
+@gipsitana on Twitter 
+
+HTML/CSS/JavaScript
+
+Frontend Web Development
+
+
+> "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
+> 
+### Day 20
+
+More than an hour fixing the volume button on the taskbar of Windows 10.  The button was there but doing nothing.  Quite a few suggestions I visited started with right click on the button but this didn't work either.
+
+Eventually this [Windows 10 skills](https://windows10skill.com/windows-10-volume-control-is-not-working/) site had the solution:  Change Audio Services, which was basically switch the audio manager off then on again and reboot.
+
+
+
+So I was wondering if I could add a YouTube video to this page.  No, but I can link to one with an image like this:
+
+```
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+```
+
+
+
+I watched this [DevTips video](https://www.youtube.com/watch?v=hExwnLlj2xk&index=44&list=PL940Wy-AWgfaSihpsvZ3rSkvS0Djs00FY&t=0s) about making a splash page yesterday and had planned to make one myself today.  Tried code from link on CodePen but it didn't work.  The syntax wasn't complete, I tried filling it in but gave up as IDK [SASS](http://sass-lang.com/) (or [LESS](http://lesscss.org/))! ... just yet.
+
+Brad Traversy put the code for a [full screen landing page](https://codepen.io/bradtraversy/pen/XerXYV)  on CodePen so I used that instead.  
+
+I also looked at his site to check out some video tutorials at        [ ![img](http://www.traversymedia.com/assets/images/logo.png)](http://www.traversymedia.com/#page-top)
+
+Linked to another site called [EduOnix](https://www.eduonix.com/) where I started a short video tutorial on making an[] HTML5 distance meter](https://www.eduonix.com/courses/Web-Development/Learn-HTML5-Distance-Meter) I watched about a third then needed to switch to reading about [XAMMP](https://en.wikipedia.org/wiki/XAMPP) a [free and open source](https://en.wikipedia.org/wiki/Free_software) [cross-platform](https://en.wikipedia.org/wiki/Cross-platform) [web server](https://en.wikipedia.org/wiki/Web_server) [solution stack](https://en.wikipedia.org/wiki/Solution_stack) package developed by Apache Friends.
+
+
+
+Back to the landing page.  I like to use [web safe colors](https://html-color-codes.info/web-safe-colors/) as often using color-picker chosen ones doesn't work.  The [HTML Color Names](https://html-color-codes.info/color-names/) has more choice though and I used the hex for lavender E6E6FA for the title.
+
+[Bio splash landing](https://gipsi.github.io/bio/#)
+
+
 ### Day 19
 
 I set up  new blog on Blogger for creative writing and called it [Bio](https://gipsitana.blogspot.co.uk/2018/). 
