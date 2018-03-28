@@ -11,11 +11,8 @@ A Blog about learning to code
 
 HTML/CSS/JavaScript
 
-Frontend Web Development
-
-
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
-> 
+ 
 ### Day 20 March 27th
 
 More than an hour fixing the volume button on the taskbar of Windows 10.  The button was there but doing nothing.  Quite a few suggestions I visited started with right click on the button but this didn't work either.
