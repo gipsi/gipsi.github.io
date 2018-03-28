@@ -9,10 +9,6 @@ _Frontend Web Development_
 
 A Blog about learning to code
 
-
-
-@gipsitana on Twitter 
-
 HTML/CSS/JavaScript
 
 Frontend Web Development
@@ -20,7 +16,7 @@ Frontend Web Development
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 > 
-### Day 20
+### Day 20 March 27th
 
 More than an hour fixing the volume button on the taskbar of Windows 10.  The button was there but doing nothing.  Quite a few suggestions I visited started with right click on the button but this didn't work either.
 
@@ -44,7 +40,7 @@ Brad Traversy put the code for a [full screen landing page](https://codepen.io/b
 
 I also looked at his site to check out some video tutorials at        [ ![img](http://www.traversymedia.com/assets/images/logo.png)](http://www.traversymedia.com/#page-top)
 
-Linked to another site called [EduOnix](https://www.eduonix.com/) where I started a short video tutorial on making an[] HTML5 distance meter](https://www.eduonix.com/courses/Web-Development/Learn-HTML5-Distance-Meter) I watched about a third then needed to switch to reading about [XAMMP](https://en.wikipedia.org/wiki/XAMPP) a [free and open source](https://en.wikipedia.org/wiki/Free_software) [cross-platform](https://en.wikipedia.org/wiki/Cross-platform) [web server](https://en.wikipedia.org/wiki/Web_server) [solution stack](https://en.wikipedia.org/wiki/Solution_stack) package developed by Apache Friends.
+Linked to another site called [EduOnix](https://www.eduonix.com/) where I started a short video tutorial on making an[HTML5 distance meter](https://www.eduonix.com/courses/Web-Development/Learn-HTML5-Distance-Meter) I watched about a third then needed to switch to reading about [XAMMP](https://en.wikipedia.org/wiki/XAMPP) a [free and open source](https://en.wikipedia.org/wiki/Free_software) [cross-platform](https://en.wikipedia.org/wiki/Cross-platform) [web server](https://en.wikipedia.org/wiki/Web_server) [solution stack](https://en.wikipedia.org/wiki/Solution_stack) package developed by Apache Friends.
 
 
 
@@ -53,7 +49,7 @@ Back to the landing page.  I like to use [web safe colors](https://html-color-co
 [Bio splash landing](https://gipsi.github.io/bio/#)
 
 
-### Day 19
+### Day 19 March 26th
 
 I set up  new blog on Blogger for creative writing and called it [Bio](https://gipsitana.blogspot.co.uk/2018/). 
 
