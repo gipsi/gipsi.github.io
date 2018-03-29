@@ -12,6 +12,15 @@ A Blog about learning to code
 HTML/CSS/JavaScript
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
+
+### Day 22 March 29th
+
+Remixed and played with a basic website starter kit.  Really enjoyed the setup and speed it renders great fun.  
+
+### Day 21 March 28th
+
+I watched the introduction and the first four videos on this Eduonix site. [Become a certified Web Developer](https://www.eduonix.com/freebies) 
+
  
 ### Day 20 March 27th
 
