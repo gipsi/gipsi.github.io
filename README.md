@@ -14,7 +14,7 @@ HTML/CSS/JavaScript
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 
 ### Day 24 March 31st
-More time (many hours) learning about APIs in general, the Met Office datapoint in particular.  Very frustrated by this.  I got to the 'make a weather app' stage of FreeCodeCamp last year and hit a wall.  So much I don't know.  
+More time (many hours) learning about APIs in general, the [Met Office datapoint](https://www.metoffice.gov.uk/datapoint) in particular.  Very frustrated by this.  I got to the 'make a weather app' stage of FreeCodeCamp last year and hit a wall.  So much I don't know.  
 
 Following MDN basic tutorials they're thorough which is good I'm picking up little things which I've missed like in file naming using a dash instead of an underscore.
 
@@ -22,7 +22,7 @@ Following MDN basic tutorials they're thorough which is good I'm picking up litt
 
 >`<!DOCTYPE html>` — the doctype. In the mists of time, when HTML was young (about 1991/2), doctypes were meant to act as links to a set of rules that the HTML page had to follow to be considered good HTML, which could mean automatic error checking and other useful things. However, these days no one really cares about them, and they are really just a historical artefact that needs to be included for everything to work right.  [So whay is html really? MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics) 
 
-
+Writing in Markdown is gently reminding me of the importance of practice in learning to be any good at things.
 
 ### Day 23  March 30th
 
