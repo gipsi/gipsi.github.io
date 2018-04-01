@@ -7,9 +7,6 @@
 
 _Frontend Web Development_
 
-A Blog about learning to code
-
-HTML/CSS/JavaScript
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 
