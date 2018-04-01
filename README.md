@@ -26,9 +26,9 @@ Writing in Markdown is gently reminding me of the importance of practice in lear
 
 ### Day 23  March 30th
 
-A very long time figuring how to use [Met Office datapoint]https://www.metoffice.gov.uk/datapoint) with a view to making a weather app.  Presently unfathomable.
+A very long time figuring how to use [Met Office datapoint](https://www.metoffice.gov.uk/datapoint) with a view to making a weather app.  Presently unfathomable.
 
-Today was my 99th day of 100DaysofX which I started on the winter solstice, 21st December '17, as a personal challenge so I began putting together some files for a web document as a record.
+Today was my 99th day of [#100DaysofX](http://www.100daysofx.com/) which I started on the winter solstice, 21st December '17, as a personal challenge so I began putting together some files for a web document as a record.
 
 ### Day 22 March 29th
 
