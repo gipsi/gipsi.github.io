@@ -10,6 +10,21 @@ _Frontend Web Development_
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 
+### Day 25 April 1st
+I'm starting to view and read the source code of websites more often  and today I noticed  a back button at the bottom of a page I was viewing.
+
+```<a href="#" class="btn-to-top" title="Back to top">
+			<i class="fa fa-lg fa-chevron-up"></i>
+			<span>Back to top</span>
+		</a>```
+
+I read a bit about the Font Awesome icons and put one on a page I'm making that I'd made a mental note of needing one.
+
+I read a few things on MDN that I wanted to be clearer about.  Increasingly I find it the best place to go for reference and learning and such a pleasant experience to use that I plan make a habit of visiting more frequently.  One thing I looked up was the [Line Break element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/br).  I didn't know why it is often written  ```<br />``` rather than ```<br>``` and MDN had the answer:
+
+>  In XHTML documents, write this element as ```<br />```
+
+
 ### Day 24 March 31st
 More time (many hours) learning about APIs in general, the [Met Office datapoint](https://www.metoffice.gov.uk/datapoint) in particular.  Very frustrated by this.  I got to the 'make a weather app' stage of FreeCodeCamp last year and hit a wall.  So much I don't know.  
 
