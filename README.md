@@ -26,6 +26,8 @@ I read a few things on MDN that I wanted to be clearer about.  Increasingly I fi
 
 >  In XHTML documents, write this element as ```<br />```
 
+I investigated [HTML5 Boilerplate](http://h5bp.net/) and became a member of [The Internet Defence League](https://www.internetdefenseleague.org/) and displayed some badges,
+
 
 ### Day 24 March 31st
 More time (many hours) learning about APIs in general, the [Met Office datapoint](https://www.metoffice.gov.uk/datapoint) in particular.  Very frustrated by this.  I got to the 'make a weather app' stage of FreeCodeCamp last year and hit a wall.  So much I don't know.  
