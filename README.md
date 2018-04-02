@@ -13,10 +13,12 @@ _Frontend Web Development_
 ### Day 25 April 1st
 I'm starting to view and read the source code of websites more often  and today I noticed  a back button at the bottom of a page I was viewing.
 
-```<a href="#" class="btn-to-top" title="Back to top">
+               ```
+               <a href="#" class="btn-to-top" title="Back to top">
 			<i class="fa fa-lg fa-chevron-up"></i>
 			<span>Back to top</span>
-		</a>```
+		</a>
+		```
 
 I read a bit about the Font Awesome icons and put one on a page I'm making that I'd made a mental note of needing one.
 
