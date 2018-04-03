@@ -10,14 +10,19 @@ _Frontend Web Development
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 
->>"There is no problem so bad that you can't make it worse." Chris Hadfield
 
 Day 27 April 3rd
 
-A new landing page for my website!  gipsi.itbit.me/#bornwildgipsi.itbit.me/#bornwild</a>
+A new landing page for my website! 
+
+What is this!?! 👇
+```
+gipsi.itbit.me/#bornwildgipsi.itbit.me/#bornwild</a>
 
       <img src="gipsi.itbit.me(250).jpg alt="my horse-logo">
-    
+```  
+
+[gipsi.itbit.me/#bornwild](http://gipsi.itbit.me/#born-wild)
    
 Day 26 April 2nd
 
