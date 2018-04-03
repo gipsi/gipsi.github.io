@@ -5,7 +5,7 @@
 
 ## HTML/CSS/JavaScript
 
-_Frontend Web Development
+Frontend Web Development
 
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
@@ -31,9 +31,17 @@ First I wrote this regular link.
 
 [gipsi.itbit.me/#bornwild](http://gipsi.itbit.me/#born-wild)
 
-Then I wrote it like this with the image I want to use as the link wrapped in an ```<a>``` tag.
+Then I wrote it like this with the image I want to use in an html ```<img>``` tag as the link wrapped in an ```<a>``` tag.
 
 <a href="http://gipsi.itbit.me/#born-wild" target="_blank">
+  <img src="gipsi.itbit.me(250).jpg"alt="my horse-logo">	
+</a>
+
+Better. but going to the wrong part of the page.  And it does work here, but not on the GitHub Pages Jekyll version.
+
+[gipsi.itbit.me](http://gipsi.itbit.me/)
+
+<a href="http://gipsi.itbit.me/" target="_blank">
   <img src="gipsi.itbit.me(250).jpg"alt="my horse-logo">	
 </a>
 
