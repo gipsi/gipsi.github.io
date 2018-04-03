@@ -16,11 +16,9 @@ Day 27 April 3rd
 
 A new landing page for my website!  gipsi.itbit.me/#bornwildgipsi.itbit.me/#bornwild</a>
 
-    <button>
       <img src="gipsi.itbit.me(250).jpg alt="my horse-logo">
-      Submit
-    </button>
-
+    
+   
 Day 26 April 2nd
 
 Making an html/css web page - a new homepage for my projects site.
