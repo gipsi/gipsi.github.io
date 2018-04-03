@@ -28,10 +28,15 @@ I was very determined and didn't want to give up.  It seemed like such a simple 
 After a sleep and some food I came back to the problem.  Much more alert and awake.
 
 First I wrote this regular link.
+```[gipsi.itbit.me/#bornwild](http://gipsi.itbit.me/#born-wild)```
 
 [gipsi.itbit.me/#bornwild](http://gipsi.itbit.me/#born-wild)
 
 Then I wrote it like this with the image I want to use in an html ```<img>``` tag as the link wrapped in an ```<a>``` tag.
+
+```<a href="http://gipsi.itbit.me/#born-wild" target="_blank">
+  <img src="gipsi.itbit.me(250).jpg"alt="my horse-logo">	
+</a>```
 
 <a href="http://gipsi.itbit.me/#born-wild" target="_blank">
   <img src="gipsi.itbit.me(250).jpg"alt="my horse-logo">	
@@ -42,7 +47,7 @@ Better. but going to the wrong part of the page.  And it does work here, but not
 [gipsi.itbit.me](http://gipsi.itbit.me/)
 
 <a href="http://gipsi.itbit.me/" target="_blank">
-  <img src="gipsi.itbit.me(250).jpg"alt="my horse-logo">	
+  <img src="me(1).jpg"alt="my colourful horse-logo">	
 </a>
 
 
