@@ -5,10 +5,38 @@
 
 ## HTML/CSS/JavaScript
 
-_Frontend Web Development_
+_Frontend Web Development
 
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
+
+>>"There is no problem so bad that you can't make it worse." Chris Hadfield
+
+Day 27 April 3rd
+
+A new landing page for my website!  gipsi.itbit.me/#bornwildgipsi.itbit.me/#bornwild</a>
+
+    <button>
+      <img src="gipsi.itbit.me(250).jpg alt="my horse-logo">
+      Submit
+    </button>
+
+Day 26 April 2nd
+
+Making an html/css web page - a new homepage for my projects site.
+
+Day 25 April 1st
+
+I'm starting to view and read the source code of websites more often  and today I noticed  a back button at the bottom of a page I was viewing.
+
+                ```<a href="#" class="btn-to-top" title="Back to top">
+
+			<i class="fa fa-lg fa-chevron-up"></i>
+
+			<span>Back to top</span>
+
+		</a>```
+
 
 ### Day 25 April 1st
 I'm starting to view and read the source code of websites more often  and today I noticed  a back button at the bottom of a page I was viewing.
