@@ -22,11 +22,22 @@ gipsi.itbit.me/#bornwildgipsi.itbit.me/#bornwild</a>
       <img src="gipsi.itbit.me(250).jpg alt="my horse-logo">
 ```  
 
+This is where I'm trying to make a clickable image link to my new web page in markdown (when falling asleep).
+I was very determined and didn't want to give up.  It seemed like such a simple task.  I kept phasing in and out of conciousness as I persisted.  Stack Exchange had most suggestions and using markup seemed the only solution, even getting this to work proved completely beyond me.  In the end I did give up and went to sleep feeling dismayed and frustrated.
+
+After a sleep and some food I came back to the problem.  Much more alert and awake.
+
+First I wrote this regular link.
+
 [gipsi.itbit.me/#bornwild](http://gipsi.itbit.me/#born-wild)
+
+Then I wrote it like this with the image I want to use as the link wrapped in an ```<a>``` tag.
 
 <a href="http://gipsi.itbit.me/#born-wild" target="_blank">
   <img src="gipsi.itbit.me(250).jpg"alt="my horse-logo">	
 </a>
+
+
 Day 26 April 2nd
 
 Making an html/css web page - a new homepage for my projects site.
