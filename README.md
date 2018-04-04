@@ -48,7 +48,7 @@ Better. but going to the wrong part of the page.  And it does work here, but not
 
 [gipsi.itbit.me](http://gipsi.itbit.me/)
 
-[![me(1).jpg](me(1).jpg)](http://gipsi.itbit.me/)
+
 
 <a href="http://gipsi.itbit.me/" target="_blank">
   <img src="me(1).jpg"alt="my colourful horse-logo">	
@@ -62,7 +62,11 @@ Next I had a go with [figma](https://www.figma.com/) an in browser design tool w
 
 Also looked at [Surge.sh](surge.sh)where you can build and host apps from the command line.
 
+I just figured out how to do the image that links in markdown. 🎆 That exclamation mark at the after the first angle bracket is the code to display the image, I knew there was a way.
 
+``` [![me(1).jpg](me(1).jpg)](http://gipsi.itbit.me/) ```
+
+[![me(1).jpg](me(1).jpg)](http://gipsi.itbit.me/)
 
 
 ### Day 26 April 2nd
