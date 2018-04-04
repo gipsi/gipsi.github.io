@@ -48,6 +48,8 @@ Better. but going to the wrong part of the page.  And it does work here, but not
 
 [gipsi.itbit.me](http://gipsi.itbit.me/)
 
+[![me(1).jpg](me(1).jpg)](http://gipsi.itbit.me/)
+
 <a href="http://gipsi.itbit.me/" target="_blank">
   <img src="me(1).jpg"alt="my colourful horse-logo">	
 </a>
