@@ -58,7 +58,7 @@ After reading about [writing style guidelines](https://developer.mozilla.org/en-
 
 Next I had a go with [figma](https://www.figma.com/) an in browser design tool with a styleguide API. I watched some YouTube channels to learn how to use it.
 
-Also looked at [Surge.sh](where you can build and host apps from the command line.)
+Also looked at [Surge.sh](surge.sh)where you can build and host apps from the command line.
 
 
 
