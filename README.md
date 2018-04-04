@@ -11,7 +11,7 @@ Frontend Web Development
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 
 
-Day 27 April 3rd
+### Day 27 April 3rd
 
 A new landing page for my website! 
 
@@ -44,7 +44,7 @@ Then I wrote it like this with the image I want to use in an html ```<img>``` ta
   <img src="gipsi.itbit.me(250).jpg"alt="my horse-logo">	
 </a>
 
-Better. but going to the wrong part of the page.  And it does work here, but not on the GitHub Pages Jekyll version.
+Better. but going to the wrong part of the page.  And it does work here, but not on the GitHub Pages Jekyll version. This is always a problem I eventually come up against with templates, if something doesn't work it's another opaque layer to peel away and try to understand and fix.
 
 [gipsi.itbit.me](http://gipsi.itbit.me/)
 
@@ -52,23 +52,20 @@ Better. but going to the wrong part of the page.  And it does work here, but not
   <img src="me(1).jpg"alt="my colourful horse-logo">	
 </a>
 
+The images are experiments with logo design that I made on the [Canva](https://www.canva.com/design/DACz5SjGNq8/Upc5kqrUYvTiUkqMGA1p7Q/edit) website. These are made before I spotted the tutorials.  I'll do the tutorials and see if they improves my technique and aesthetic sensibilities.
 
-Day 26 April 2nd
+After reading about [writing style guidelines](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Writing_style_guide) on the MDN wiki I've been pondering style and layout and the itersection between coding and design so I was interested to read this blog post about the [SEEK styleguide](https://medium.com/seek-blog/sketching-in-the-browser-33a7b7aa0526)
+
+Next I had a go with [figma](https://www.figma.com/) an in browser design tool with a styleguide API. I watched some YouTube channels to learn how to use it.
+
+Also looked at [Surge.sh](where you can build and host apps from the command line.)
+
+
+
+
+### Day 26 April 2nd
 
 Making an html/css web page - a new homepage for my projects site.
-
-Day 25 April 1st
-
-I'm starting to view and read the source code of websites more often  and today I noticed  a back button at the bottom of a page I was viewing.
-
-                ```<a href="#" class="btn-to-top" title="Back to top">
-
-			<i class="fa fa-lg fa-chevron-up"></i>
-
-			<span>Back to top</span>
-
-		</a>```
-
 
 ### Day 25 April 1st
 I'm starting to view and read the source code of websites more often  and today I noticed  a back button at the bottom of a page I was viewing.
