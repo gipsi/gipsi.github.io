@@ -68,6 +68,8 @@ I just figured out how to do the image that links in markdown. 🎆 That exclama
 
 [![me(1).jpg](me(1).jpg)](http://gipsi.itbit.me/)
 
+And now it works in the Jekyll too - phew! For all the frustrations it's a great feeling when stuff does work.
+
 
 ### Day 26 April 2nd
 
