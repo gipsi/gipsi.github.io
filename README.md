@@ -13,7 +13,7 @@ Frontend Web Development
 ### Day 28 April 4th
 Code session today began with putting the directional chevrons back on my current live web page project, they had gone missing!  Not sure why but they were still all fine in my offline version so I updated with that.  That led on to making another image link, sorting out files and other routes for linking. Then I started another page on the [Glitch Bio](https://noisy-month.glitch.me/) site 
 So some buttons and links and badges in html.  Connecting things.
-Understanding the [z-index](https://developer.mozilla(http://s.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index) CSS with MDN.
+Understanding the [z-index](https://developer.mozilla.org/en-US/docs/Web/CSS/z-index) CSS with MDN.
 Looking at different ways to resize and make images responsive. 
 And I found this useful tool that quickly generates a website style guide with colours, fonts, sizing and spacing [Stylify Me](http://stylifyme.com/?stylify=gipsi.itbit.me)
 
