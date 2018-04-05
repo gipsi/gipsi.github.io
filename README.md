@@ -10,6 +10,12 @@ Frontend Web Development
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 
+### Day 28 April 4th
+Buttons and links and badges in html.  Connecting things.
+Understanding the [z-index](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index) CSS with MDN.
+Looking at different ways to resize and make images responsive. 
+And I found this useful tool that quickly generates a website style guide with colours, fonts, sizing and spacing [Stylify Me](http://stylifyme.com/?stylify=gipsi.itbit.me)
+
 
 ### Day 27 April 3rd
 
