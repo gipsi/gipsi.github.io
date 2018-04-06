@@ -10,6 +10,69 @@ Frontend Web Development
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 
+### Day 29 April 5th
+
+#### Dev tools and Grid
+
+Today I did some more of the Wes Bos CSS Grid course.  
+
+I went over the setup and the basics again.  
+
+Lots of  tips and  as well as Grid tutorials.  
+
+He walks through how to use the tools swiftly, concisely and thoroughly, and so far I haven't got stuck. 
+
+ - VS Code with Emmet 
+
+ - Command line terminal (I used Powershell)
+
+ - Node.js and npm
+
+ - Firefox developer tools for Grid
+
+ - Browserify updates straight into the browser from VS code, especially helpful for front end dev.
+
+   I made a copy of the code folders and spent some time with the regular stylesheet, changing the colours and image and explored how to adjust the opacity of the
+
+   - image 
+
+
+   - items
+
+   - fonts
+
+     over the two colour gradient background. 
+
+     #### CSS Grid the starter code:
+
+
+    
+   ``` 
+     <body>
+       <div class="container">
+        <div class="item">1</div>
+        <div class="item">2</div>
+        <div class="item">3</div>
+        <div class="item">4</div>
+        <div class="item">5</div>
+        <div class="item">6</div>
+        <div class="item">7</div>
+        <div class="item">8</div>
+        <div class="item">9</div>
+        <div class="item">10</div> 
+       </div>
+       <style>
+    
+         .container {
+           display: grid;
+           grid-template-columns: 200px 500px;
+           grid-template-rows: 200px 100px 400px;
+           grid-gap: 20px;
+         }
+        
+       </style>
+     </body>
+
 ### Day 28 April 4th
 Code session today began with putting the directional chevrons back on my current live web page project, they had gone missing!  Not sure why but they were still all fine in my offline version so I updated with that.  That led on to making another image link, sorting out files and other routes for linking. Then I started another page on the [Glitch Bio](https://noisy-month.glitch.me/) site 
 So some buttons and links and badges in html.  Connecting things.
