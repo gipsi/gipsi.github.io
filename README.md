@@ -48,7 +48,7 @@ He walks through how to use the tools swiftly, concisely and thoroughly, and so 
 
     
    ``` 
-     <body>
+
        <div class="container">
         <div class="item">1</div>
         <div class="item">2</div>
@@ -63,16 +63,14 @@ He walks through how to use the tools swiftly, concisely and thoroughly, and so 
        </div>
        <style>
     
-         .container {
+        .container {
            display: grid;
            grid-template-columns: 200px 500px;
            grid-template-rows: 200px 100px 400px;
            grid-gap: 20px;
-         }
-        
-       </style>
-     </body>
-
+         }      
+   
+```
 ### Day 28 April 4th
 Code session today began with putting the directional chevrons back on my current live web page project, they had gone missing!  Not sure why but they were still all fine in my offline version so I updated with that.  That led on to making another image link, sorting out files and other routes for linking. Then I started another page on the [Glitch Bio](https://noisy-month.glitch.me/) site 
 So some buttons and links and badges in html.  Connecting things.
