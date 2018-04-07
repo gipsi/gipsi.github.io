@@ -11,7 +11,8 @@ Frontend Web Development
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 
 ### Day 30 April 6th
-#### Html in the shell
+#### Yak shaving and  some html in the shell
+
 Hello Firefox Notes! I'm pleased to meet you.
 
 
@@ -22,80 +23,52 @@ I just spent half an hour trying to work out how to write a note.
 
 And then ... some ...
 
-[Yak Shaving](https://projects.csail.mit.edu/gsb/old-archive/gsb-archive/gsb2000-02-11.html)
+- [Yak Shaving](https://projects.csail.mit.edu/gsb/old-archive/gsb-archive/gsb2000-02-11.html)
 
 
 
 My searching led to this Moz://a HACKS post (love the falling K in HaCKS title when it's moused over) by Lin Clark:
 
-[Inside-a-super-fast-css-engine](https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/)
+- [Inside-a-super-fast-css-engine](https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/)
 
 and ...
 
-A new word!  [Deleuzional](https://www.steveklabnik.com/deleuzional.html) about the philosoper
+A new word! 
+- [Deleuzional](https://www.steveklabnik.com/deleuzional.html) about the philosoper
 
-[Gilles Deleuze](https://plato.stanford.edu/entries/deleuze/)
+- [Gilles Deleuze](https://plato.stanford.edu/entries/deleuze/)
 
+- [JavaScript to Rust and Back Again: A wasm-bindgen Tale By Alex Crichton](https://hacks.mozilla.org/2018/04/javascript-to-rust-and-back-again-a-wasm-bindgen-tale/)
 
+- [emojidex/emojidex-web-samplepage](https://github.com/emojidex/emojidex-web-samplepage/blob/master/index.html)
 
-[JavaScript to Rust and Back Again: A wasm-bindgen Tale
+- [Writing an x86 “Hello world” boot loader with assembly Martin Splitt](https://medium.com/@g33konaut/writing-an-x86-hello-world-boot-loader-with-assembly-3e4c5bdd96cf)
 
-By Alex Crichton](https://hacks.mozilla.org/2018/04/javascript-to-rust-and-back-again-a-wasm-bindgen-tale/)
+- [Latency Numbers Every Programmer Should Know](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
 
+- [nchain](https://nchain.com/en/)
 
+- [The Rust Programming Language](https://doc.rust-lang.org/book/)
 
-[emojidex/emojidex-web-samplepage](https://github.com/emojidex/emojidex-web-samplepage/blob/master/index.html)
+- [What's the best book for learning to program?](https://www.quora.com/Whats-the-best-book-for-learning-to-program)
 
-
-
-[Writing an x86 “Hello world” boot loader with assembly
-
-Martin Splitt](https://medium.com/@g33konaut/writing-an-x86-hello-world-boot-loader-with-assembly-3e4c5bdd96cf)
-
-
-
-[Latency Numbers Every Programmer Should Know](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
-
-
-
-[nchain](https://nchain.com/en/)
-
-
-
-[The Rust Programming Language](https://doc.rust-lang.org/book/)
-
-
-
-[What's the best book for learning to program?](https://www.quora.com/Whats-the-best-book-for-learning-to-program)
-
-
-
-[Nodeschool](https://nodeschool.io/)
-
-
+- [Nodeschool](https://nodeschool.io/)
 
 had a go with
 
-
 "Try any Node.js package right in your browser".
 
-[Runkit+npm stream-adventure](https://npm.runkit.com/stream-adventure)
+- [Runkit+npm stream-adventure](https://npm.runkit.com/stream-adventure)
 
 using Powershell
 
-
-
 Got stuck on making a js file with a console. log in it.
-
-
 
 So read this:
 
-[powertip-use-powershell-to-create-new-file](https://blogs.technet.microsoft.com/heyscriptingguy/2015/06/07/powertip-use-powershell-to-create-new-file/)
+- [powertip-use-powershell-to-create-new-file](https://blogs.technet.microsoft.com/heyscriptingguy/2015/06/07/powertip-use-powershell-to-create-new-file/)
 
-
-
-[Build simple HTML with PowerShell](https://blogs.technet.microsoft.com/heyscriptingguy/2018/03/15/powertip-build-simple-html-with-powershell/)
+- [Build simple HTML with PowerShell](https://blogs.technet.microsoft.com/heyscriptingguy/2018/03/15/powertip-build-simple-html-with-powershell/)
 
 Some Code!  Html in PowerShell.
 
@@ -103,15 +76,14 @@ Some Code!  Html in PowerShell.
 
 
 
-...and a bit about[npm naming rules](http://blog.npmjs.org/post/168978377570/new-package-moniker-rules)
-
+...and a bit about
+- [npm naming rules](http://blog.npmjs.org/post/168978377570/new-package-moniker-rules)
 
 
 So there we have it.  Yes, I like the notes in Firefox.
 
-
-
 P.S. Just had to click return to start taking notes.
+
 
 ### Day 29 April 5th
 
