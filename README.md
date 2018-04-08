@@ -10,6 +10,82 @@ Frontend Web Development
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 
+###Day 31 April 7th
+#### User testing, the difference between UX and UI, low-fidelity-resolution wireframing-prototyping,  
+the intersection of code and design.
+Today I was looking into user testing and watched some videos by Steve Krug and explored his website [Advanced Common Sense(http://sensible.com/dmmt.html)
+
+
+I am interested in the intersection of coding (for web development) and design and did some tutorials with Udacity's 
+[UX Design for Mobile Developers](https://eu.udacity.com/course/ux-design-for-mobile-developers--ud849)
+
+It involved some reading:
+
+-  [The Skeptic’s Guide To Low-Fidelity Prototyping](https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/)
+-  [A walk through the wireframing process](https://medium.com/@kelliblum/a-walk-through-the-wireframing-process-25ea85c399c6)
+- [How to design a low-fi wireframe](https://www.creativebloq.com/wireframes/how-design-low-fi-wireframe-91516934)
+
+
+and some new tools:
+
+- [Prezi](https://prezi.com/) for presentation (*of low resolution wireframe flow.*)
+[colorful nature](my first presentation template](https://prezi.com/view/djGBBv9hXQeSZLNH7Bdm/)
+
+- [Infogram](https://infogram.com/) for a quick infographic.
+- 
+- [Notion](https://www.notion.so/) All-in-one workspace (to try). *May cause lag.*
+
+Next ...
+
+ 
+
+My answer in the quiz about the sign in form was to enlarge the entry boxes.  This was not looking at the bigger picture. The advisory for this was: *"It's easy to forget the big picture. Especially if detailed thinking is something you really love (which is the case with many developers).*
+
+*It takes some discipline to keep your thoughts at a high-level when that's what's best for your product and users, but by the end of this course, you'll have plenty of techniques to help you do just that!"*
+
+ 
+
+- Google checkout or PayPal checkout for payments.
+
+ 
+
+- Don't use a sign in form use a button to sign in with Google or Facebook.
+
+ 
+
+- The difference between UX and UI is that UX involves the backend code that you can't see as well as the frontend code, while UI  is just the frontend code.
+
+ 
+
+*"The question with technology is no longer how, but why? In a world of endless connectivity and limitless computing, we need to ask why we are doing whatever it is we are doing, before it is too late."*
+
+*"Thus, we should focus on the skills that are inherently human – critical thinking, creativity, emotional intelligence and cognitive flexibility. Non-routine, cognitive work is the future."*
+
+ - [Technology vs. Humanity](https://tomorrowaugmented.com/insights/technology-vs-humanity/)
+
+ 
+
+ - [4 Myths About Apple Design, From An Ex-Apple Designer](https://www.fastcodesign.com/3030923/4-myths-about-apple-design-from-an-ex-apple-designer)
+
+- [Design-minded development](https://classroom.udacity.com/courses/ud849/lessons/1613818915/concepts/16394390140923)
+
+ 
+
+ - [Rocket Surgery Made Easy by Steve Krug: Usability Demo](https://www.youtube.com/watch?v=QckIzHC99Xc)
+
+ 
+
+- [DIY user](https://www.youtube.com/watch?v=VTW1yYUqBm8 -testinghttps://www.youtube.com)
+
+ 
+
+21.30 - Developers like complicated stuff (releases endorphins).
+
+23.30 - It's very hard for us to remember that they don't know what we know.
+
+- [Fat finger syndrome and the "lose-lose-win design".](https://marketoonist.com/2016/05/fatfinger.html)
+
+
 ### Day 30 April 6th
 #### Yak shaving and  some html in the shell
 
