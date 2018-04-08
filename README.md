@@ -10,9 +10,10 @@ Frontend Web Development
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 
-###Day 31 April 7th
+### Day 31 April 7th
 #### User testing, the difference between UX and UI, low-fidelity-resolution wireframing-prototyping,  
 the intersection of code and design.
+
 Today I was looking into user testing and watched some videos by Steve Krug and explored his website [Advanced Common Sense(http://sensible.com/dmmt.html)
 
 
@@ -29,7 +30,7 @@ It involved some reading:
 and some new tools:
 
 - [Prezi](https://prezi.com/) for presentation (*of low resolution wireframe flow.*)
-[colorful nature](my first presentation template](https://prezi.com/view/djGBBv9hXQeSZLNH7Bdm/)
+[colorful nature my first presentation template](https://prezi.com/view/djGBBv9hXQeSZLNH7Bdm/)
 
 - [Infogram](https://infogram.com/) for a quick infographic.
 - 
@@ -75,7 +76,7 @@ My answer in the quiz about the sign in form was to enlarge the entry boxes.  Th
 
  
 
-- [DIY user](https://www.youtube.com/watch?v=VTW1yYUqBm8 -testinghttps://www.youtube.com)
+- [DIY user](https://www.youtube.com/watch?v=VTW1yYUqBm8)
 
  
 
