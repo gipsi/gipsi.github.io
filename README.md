@@ -14,7 +14,7 @@ Frontend Web Development
 #### User testing, the difference between UX and UI, low-fidelity-resolution wireframing-prototyping,  
 the intersection of code and design.
 
-Today I was looking into user testing and watched some videos by Steve Krug and explored his website [Advanced Common Sense(http://sensible.com/dmmt.html)
+Today I was looking into user testing and watched some videos by Steve Krug and explored his website [Advanced Common Sense](http://sensible.com/dmmt.html)
 
 
 I am interested in the intersection of coding (for web development) and design and did some tutorials with Udacity's 
