@@ -10,9 +10,27 @@ Frontend Web Development
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 
+### Day 32 April 8th
+#### CSS Grid, Flexbox and transform.
+- Grid and flexbox Variable widths and responsiveness with Wes Bos. 
+- Skewing box shapes with transform.
+- Some experimental css styling, colour themes and background images.
+
+- Logical and critical thinking with Futurelearn. Arguments and statements. 
+> - P1 Premise 1
+> - P2 Premise 2
+> - P3 And so on for as many premises as there are in the argument.
+> Therefore.
+> - C conclusion
+> I included this here because I think it helps with the way I think about coding.
+
+I also did some of a mindfulness course which is good for clarity, awareness and focus. 
+
+
 ### Day 31 April 7th
-#### User testing, the difference between UX and UI, low-fidelity-resolution wireframing-prototyping,  
-the intersection of code and design.
+#### The intersection of code and design.
+##### User testing, the difference between UX and UI, low-fidelity-resolution wireframing-prototyping,  
+
 
 Today I was looking into user testing and watched some videos by Steve Krug and explored his website [Advanced Common Sense](http://sensible.com/dmmt.html)
 
