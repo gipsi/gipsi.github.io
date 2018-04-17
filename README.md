@@ -10,6 +10,14 @@ Frontend Web Development
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 
+### Days 33 - 39 April 9th to 16th
+#### UX, baking, grid and nets
+
+- Udacity Android UX
+- Making a baking website on Glitch - [complete-baker](https://complete-baker.glitch.me/)
+- CSS grid practice with Wes Bos '#Griddyup'.  He covers a lot quite quickly for me but without timed limits to viewing the course I can pause and repeat things for practice.
+- Deep learning - neural nets and algorithms the basics.  
+
 ### Day 32 April 8th
 #### CSS Grid, Flexbox and transform.
 - Grid and flexbox Variable widths and responsiveness with Wes Bos. 
