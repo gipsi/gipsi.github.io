@@ -14,6 +14,8 @@ Frontend Web Development
 ###  R5D1 28th April 201
 A restart after falling behind last week.  Learning some CSS grid then tried out the css writing mode after reading this [Jen Simmons](https://24ways.org/2016/css-writing-modes/) post. 
 
+![baker](baker.jpg)
+
 ### Days 33 - 39 April 9th to 16th
 #### UX, baking, grid and nets
 
