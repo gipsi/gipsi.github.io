@@ -13,7 +13,7 @@ Frontend Web Development
 
 ### R5D2 29th April 2018
 
-Went for some adventures in [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag) the seven part YouTube series on resilient CSS by Jen Simmoms.  I have a much clearer picture of how CSS works or not in different browsers and devices and whether it matters.  
+Went for some adventures in [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag) the seven part YouTube series on Resilient CSS by Jen Simmoms.  I have a much clearer picture of how CSS works or not in different browsers and devices and whether it matters.  
 
 The most significant thing for me is understanding that the resilience and robustness of HTML and CSS is because they are declarative languages so mistakes are generally skipped over and ignored by browsers.  This is different to imperative programming languages languages which may fail if there is an error in syntax and such.  There's a concise explanation of the difference in Jeremy Keith's book [Resilient Web Design](https://resilientwebdesign.com/chapter4/#Robustness%20Principle%2C%20also%20known%20as%20Postel%E2%80%99s%20Law%3A%0D%0A%0D%0A%20%20%20%20Be%20conservative%20in%20what%20you%20send%3B%20be%20liberal%20in%20what%20you%20accept.) 
 
@@ -33,13 +33,7 @@ The seven videos are about 10-15 minutes each:
   
 Very much enjoyed this excursion and have come away with some better ideas on how to consider the variety of formats that the content can be transformed into.
 
-
-
-
-  
-
-
-
+> ![design](douglas-adams-quote-design.jpg)
 
 ###  R5D1 28th April 2018
 A restart after falling behind last week.  Learning some CSS grid then tried out the css writing mode after reading this [Jen Simmons](https://24ways.org/2016/css-writing-modes/) post. 
