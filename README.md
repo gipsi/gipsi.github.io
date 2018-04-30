@@ -11,6 +11,64 @@ Frontend Web Development
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 
+### R5D3 30th April 2018
+#### CSS simplified with Grid
+
+Just sixteen lines of CSS for a [responsive page of photos](https://inquisitive-hose.glitch.me/).
+
+```
+* {
+  box-sizing: border-box;
+}
+body {
+  background: linear-gradient(to bottom, #1e5799 0%,#2989d8 50%,#207cca 51%,#7db9e8 100%);
+  margin: 0;
+}
+main {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
+img {
+  display: grid;
+  box-shadow: -1px 0px 0px rgba(0,0,0,0.6);
+  width: 90%
+} 
+```
+Two Layout Land videos today:
+  - [Basics of CSS Grid: The Big Picture](https://www.youtube.com/watch?v=FEnRpy9Xfes&list=PLbSquHt1VCf18lllS0C5quAaOcsuMAC70)
+  - [Incredibly Easy Layouts with CSS Grid ](https://www.youtube.com/watch?v=tFKrK4eAiUQ&list=PLbSquHt1VCf18lllS0C5quAaOcsuMAC70&index=2)
+
+Notes:
+  - _explicit v implicit_ you define the explicit, the browser defines the implicit
+  - _autoplacement algorithm_
+  
+Here's the **HTML** the _essence of the content_ with white space, photo links and alt texts removed from the Glitch version.
+
+```
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main role="main">  
+  <img src="" alt="">
+  <img src="" alt="">
+  <img src="" alt="">
+  <img src="" alt="">
+  <img src="" alt="">
+  <img src="" alt="">
+  <img src="" alt="">
+  <img src="" alt="">
+</main>  
+</body>
+</html>
+```
+
 ### R5D2 29th April 2018
 
 Went for some adventures in [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag) the seven part YouTube series on Resilient CSS by Jen Simmons.  I have a much clearer picture of how CSS works or not in different browsers and devices and whether it matters.  
