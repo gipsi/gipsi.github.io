@@ -21,15 +21,15 @@ Robustness Principle, also known as Postel’s Law:
 
 > "Be conservative in what you send; be liberal in what you accept."
 
-The seven videos are about 10-15 minutes each:
+The seven Layout Land videos are about 10-15 minutes each.  This list is from the notes I took whilst watching them:
 
-  - Web-no-matter-what.
-  - Superpowers 
-  - Ignoring weird
-  - Overrides
-  - Featurequeries-1
-  - Featurequeries-2
-  - Featurefail
+  - Web-no-matter-what, original concept and progressive enhancement.
+  - Superpowers, statuses, statistics and analytics.
+  - Ignoring weird, robust and resilient. 
+  - Overrides, tweaks, details and craftsmanship. 
+  - Featurequeries-1, media query type conditional wrap `@supports (foo: value) {// some code here}`.
+  - Featurequeries-2, to not or not to not and why flexbox doesnt need them anyway.
+  - Featurefail, ask how well does this feature fail.
   
 Very much enjoyed this excursion and have come away with some better ideas on how to consider the variety of formats that the content can be transformed into.
 
