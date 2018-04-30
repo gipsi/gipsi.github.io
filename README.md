@@ -39,7 +39,7 @@ Very much enjoyed this excursion and have come away with some better ideas on ho
 
 A restart after falling behind last week.  Learning some CSS grid then tried out the css writing mode after reading this [Jen Simmons](https://24ways.org/2016/css-writing-modes/) post. 
 
-My [complete-baker](https://complete-baker.glitch.me/) website  on Glitch.
+Progressive enhancement practice website [complete-baker](https://complete-baker.glitch.me/) on Glitch.
 
 ![baker](baker.jpg)
 
