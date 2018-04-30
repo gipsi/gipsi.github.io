@@ -36,8 +36,11 @@ Very much enjoyed this excursion and have come away with some better ideas on ho
 > ![design](douglas-adams-quote-design.jpg)
 
 ###  R5D1 28th April 2018
+
 A restart after falling behind last week.  Learning some CSS grid then tried out the css writing mode after reading this [Jen Simmons](https://24ways.org/2016/css-writing-modes/) post. 
- video
+
+My [complete-baker](https://complete-baker.glitch.me/) website  on Glitch.
+
 ![baker](baker.jpg)
 
 ---
