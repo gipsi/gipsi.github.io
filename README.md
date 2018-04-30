@@ -1,4 +1,4 @@
-
+> ![universe](douglas_adams_quote_universe.jpg)
 # A Blog about learning to code
 ## #100DaysofCode Journal - Restart - Round Five
 
