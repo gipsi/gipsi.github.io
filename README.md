@@ -18,6 +18,8 @@ Various size numbered boxes with drop shadows for the #mermay challenge where fo
 
 I am working through [Layout Lab of Jen Simmons](http://labs.jensimmons.com/), inspired after watching [Layout Land videos](https://www.youtube.com/playlist?list=PLbSquHt1VCf18lllS0C5quAaOcsuMAC70) and have borrowed code from there to adapt and play around with for [#mermay2018 project](https://gipsi.github.io/mermay2018/). 
 
+**Tip:** You can post to Instagram on desktop with Firefox DevTools responsive mode.
+
 Version 1
 
 ![mayday](mermay2018-grid1.jpg)
