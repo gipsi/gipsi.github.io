@@ -11,6 +11,18 @@ Frontend Web Development
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 
+### R5D4 1st May 2018
+#### #mermay2018 - Css grid responsive image gallery
+
+Various size numbered boxes with drop shadows for the #mermay challenge where for the month of may I make a piece of digital art every day with the theme of mermaids.  
+
+I am working through [Layout Lab of Jen Simmons](http://labs.jensimmons.com/), inspired after watching [Layout Land videos](https://www.youtube.com/playlist?list=PLbSquHt1VCf18lllS0C5quAaOcsuMAC70) and have borrowed code from there to adapt and play around with for [#mermay2018 project](https://gipsi.github.io/mermay2018/). 
+
+Version 1
+
+![mayday](mermay2018-grid1.jpg)
+
+
 ### R5D3 30th April 2018
 #### CSS simplified with Grid
 
