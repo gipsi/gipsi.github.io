@@ -11,6 +11,16 @@ Frontend Web Development
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 
+### R5D6 3rd May 2018
+#### GitHub and paint.net
+
+Rather minimal coding as I got involved in learning to use layers with [paint.net](https://www.getpaint.net/index.html) for the mermay challenge but I am updating the image gallery and using dev tools and GitHub so practicing with html and markdown for this log.
+
+### R5D5 2nd May 2018
+#### Chrome dev tools
+
+Today posting to Instagram with Firefoxdev tools didn't work. It's bit of a workaround but easier than using phone so I persisted and it did work with Chrome.
+
 ### R5D4 1st May 2018
 #### #mermay2018 - Css grid responsive image gallery
 
