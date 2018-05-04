@@ -22,7 +22,7 @@ Some attention to fonts.  I was wondering why it wasn't changing to the one I wa
 
 There's a lot to know about fonts and [typography](https://en.wikipedia.org/wiki/Typography) and I've spent quite some time reading about it.
 
->_'...at a time when scientific techniques can support the proven traditions (e.g., greater legibility with the use of serifs, upper and lower case, contrast, etc.) through understanding the limitations of human vision, typography as often encountered may fail to achieve its principal objective: effective communication.'_
+>_'...at a time when scientific techniques can support the proven traditions (e.g., greater legibility with the use of serifs, upper and lower case, contrast, etc.) through understanding the limitations of human vision, typography as often encountered may fail to achieve its principal objective: effective communication. Wikipedia'_
 
 Do serifs make text more readable?  I find sans-serif less cluttered.
 
@@ -32,7 +32,7 @@ I was tinkering about on Glitch with the font links and copy /pasted a great blo
 
 Colour gradient backgound and title bar [colorzilla](http://www.colorzilla.com/gradient-editor/) seems to be a useful tool for the css codes.
 
-Bit of a moment when the link I put on twitter didn't display correctly from the code I'd put on GitHub.  Relieved to find it worked on my desktop files. Very difficult to find where the problem was, tried isolating defferent files and bits of code with no joy. So in the end I deleted the GitHub files and replaced with the ones that work on my machine.
+Bit of a moment when the link I put on twitter didn't display correctly from the code I'd put on GitHub.  Relieved to find it worked on my desktop files. Very difficult to find where the problem was, tried isolating different files and bits of code with no joy. So in the end I deleted the GitHub files and replaced with the ones that work on my machine.
 
 I get the need for version control.  And folder trees with sensible file names.
 
