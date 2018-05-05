@@ -12,6 +12,9 @@ Frontend Web Development
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 
 ### R5D7 4th May 2018
+#### May the 4th be with you!
+Mermaid dreaming the Eagle Nebula
+![Starwars](media/mermay.5)
 #### Rewind, undo and version control
 
 ![css-grid](mermaygrid3.jpg)
