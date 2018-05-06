@@ -11,10 +11,25 @@ Frontend Web Development
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 
+### R5D8 5th May 2018
+#### Skins, themes and view>page style
+
+Having created a new colour scheme for the photo gallery page it occurred to me that it would be nice to offer the viewer the option of changing the theme.  I remembered Jeremy Keith's [adactio](https://adactio.com/about/site/?skin=seaside) site has a theme chooser so went to have a rummage around his source code for some clues.  There's a theme chooser form on the site which is just the kind of thing I'd like to be able to do.
+
+ ####  Alternative stylesheets
+
+[*Web Style Sheets* CSS tips & tricks](https://www.w3.org/Style/Examples/007/alternatives.en.html) was the next stop and explained succinctly how to offer alternative style sheets.
+
+The gist of it is to add alternate stylesheets. `<link rel="alternate stylesheet" title="16 line css grid" href="css/style.css">` which show up in the view menu on the top toolbar.  I added the 16 line css stylesheet with the link in the head and it worked! There are now three themes to choose from .
+
+Am now going to try it out on different browsers and devices.  Not sure how many people know you can do this.  I only just found out so I'll be checking to see if sites have **alternative stylesheets** in future.
+
+
 ### R5D7 4th May 2018
 #### May the 4th be with you!
 Mermaid dreaming the Eagle Nebula
-![Starwars](media/mermay.5)
+![Starwars](media/mermay4.jpg)
+
 #### Rewind, undo and version control
 
 ![css-grid](mermaygrid3.jpg)
