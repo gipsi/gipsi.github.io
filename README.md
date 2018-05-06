@@ -22,6 +22,8 @@ Having created a new colour scheme for the photo gallery page it occurred to me 
 
 The gist of it is to add alternate stylesheets. `<link rel="alternate stylesheet" title="16 line css grid" href="css/style.css">` which show up in the view menu on the top toolbar.  I added the 16 line css stylesheet with the link in the head and it worked! There are now three themes to choose from .
 
+![Skins!](media/16linecssgrid.jpg)
+
 Am now going to try it out on different browsers and devices.  Not sure how many people know you can do this.  I only just found out so I'll be checking to see if sites have **alternative stylesheets** in future.
 
 
