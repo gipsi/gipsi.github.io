@@ -11,6 +11,15 @@ Frontend Web Development
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 
+### R5D9 6th May 2018
+#### How to be a digital nomad and 12 things to consider before setting off.
+
+>"Technology isn’t an industry, it’s a method of transforming the culture and economics of existing systems and institutions ~ Anil Dash" 
+
+[12 Things Everyone Should Understand About Tech](https://anildash.com/2018/04/07/12-things-everyone-should-understand-about-tech/)
+
+Some tips from the BBC on [How to be a digital nomad](http://www.bbc.co.uk/programmes/articles/LYKjnLMVJ557Xq21pPY1z7/how-to-be-a-digital-nomad)
+
 ### R5D8 5th May 2018
 #### Skins, themes and view>page style
 
