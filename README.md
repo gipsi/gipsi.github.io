@@ -27,7 +27,9 @@ First version:
 ### R5D10 7th May 2018
 #### Darkstyle for the responsive grid gallery
 
-Made an alternative stylesheet darkstyle.  Investigating how this can be accessed on different devices and through various browsers showed that not many seem to support this option.
+Made an alternative stylesheet darkstyle.  Investigating how this can be accessed on different devices and through various browsers showed that not many seem to support this option.  
+
+I didn't manage to access any of the options on an Android device and Chrome browser required an extension which I couldnt get to work.
 
 ### R5D9 6th May 2018
 #### How to be a digital nomad and 12 things to consider before setting off.
