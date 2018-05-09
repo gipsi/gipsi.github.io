@@ -11,6 +11,17 @@ Frontend Web Development
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 
+### R5D12 9th May 2018
+#### Styling buttons
+
+Found a neat pack of css buttons to play with at [Codrops](https://tympanus.net/codrops/2009/09/02/20-fresh-and-colorful-css3-buttons/) 
+
+Learning more about HTML `<form>, <span>, <option> and <select>` tags.  Trying out dropdown menu's and buttons for switching stylesheets and some Flexbox and Grid. [MDN Forms](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms)
+
+Playing with [Grid boxes from Codrops reference section](https://tympanus.net/codrops/css_reference/grid/)
+
+And reading Shaye Howe on [Semantics and accessability in HTML](https://tympanus.net/codrops/css_reference/grid/) 
+
 ### R5D11 8th May 2018
 #### Styleswitching buttons
 
