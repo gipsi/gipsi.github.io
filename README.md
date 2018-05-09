@@ -16,7 +16,7 @@ Frontend Web Development
 
 Making buttons as an styleswitcher seems a good plan to offer the viewer a choice of background styles when visiting a website.
 [Alternative Style: Working With Alternate Style Sheets](https://alistapart.com/article/alternate#) Gave me a deeper understanding of 
-The three different relationships external style sheets can have with the document: persistent, preferred, and alternate. I spent a while thinking about using JavaScript for dynamic style switching and followed along with this article but got stuck on how to get the button to make the function work.
+The three different relationships external style sheets can have with the document: persistent, preferred, and alternate. I tpent a while thinking about using JavaScript for dynamic style switching and followed along with this article but got stuck on how to get the button to make the function work.
 
 Eventually I made some HTML button links with `onclick` and `href` using the `<form>` tag as suggested by [Hyperlink Code](http://www.hyperlinkcode.com/button-links.php) 
 
