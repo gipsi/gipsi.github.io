@@ -11,6 +11,24 @@ Frontend Web Development
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 
+### R5D11 8th May 2018
+#### Styleswitching buttons
+
+Making buttons as an styleswitcher seems a good plan to offer the viewer a choice of background styles when visiting a website.
+[Alternative Style: Working With Alternate Style Sheets](https://alistapart.com/article/alternate#) Gave me a deeper understanding of 
+The three different relationships external style sheets can have with the document: persistent, preferred, and alternate. I spent a while thinking about using JavaScript for dynamic style switching and followed along with this article but got stuck on how to get the button to make the function work.
+
+Eventually I made some HTML button links with `onclick` and `href` using the `<form>` tag as suggested by [Hyperlink Code](http://www.hyperlinkcode.com/button-links.php) 
+
+First version:
+![stylebuttons](media/stylebuttons.jpg)
+
+
+### R5D10 7th May 2018
+#### Darkstyle for the responsive grid gallery
+
+Made an alternative stylesheet darkstyle.  Investigating how this can be accessed on different devices and through various browsers showed that not many seem to support this option.
+
 ### R5D9 6th May 2018
 #### How to be a digital nomad and 12 things to consider before setting off.
 
