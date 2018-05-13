@@ -11,6 +11,33 @@ Frontend Web Development
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 
+
+### R5D14 13th May 2018
+#### Zoom on hover with CSS
+
+Research ... http://www.sevensignature.com/blog/code/pure-css-popup-without-javascript/
+
+Interesting ... https://meyerweb.com/eric/css/edge/complexspiral/demo.html
+
+Try things.
+
+This works, sort of - but I want the image itself bigger. https://www.w3schools.com/howto/howto_css_zoom_hover.asp
+
+
+Firefox asked if I wanted to stop this site ... https://cssreset.com/zoom-images-inside-the-container-on-mouse-over-using-css/
+
+
+### R5D14 12th May 2018
+#### Alternative styles
+
+Image gallery. Each different skin has a separate HTML page for the moment.
+
+### R5D14 11th May 2018
+#### CSS Grid
+
+### R5D13 10th May 2018
+#### Styling buttons
+
 ### R5D12 9th May 2018
 #### Styling buttons
 
