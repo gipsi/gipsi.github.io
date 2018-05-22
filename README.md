@@ -22,6 +22,10 @@ Frontend Web Development
 ### R5D19  18th May 2018
 
 ### R5D18  17th May 2018
+#### CSS Grid - Resizing and opacity
+
+Resizing and overlapping images with fractional units and opacity for interesting layouts.
+Jen Simmons CSS Grid [exercise 8](https://codepen.io/jensimmons/pen/xqJKdK)
 
 ### R5D17  16th May 2018
 #### CSS Grid - One element
