@@ -24,6 +24,11 @@ Frontend Web Development
 ### R5D18  17th May 2018
 
 ### R5D17  16th May 2018
+#### CSS Grid - One element
+
+> Let go of idea that your grid framework effects every part of the page. A CSS Grid only effects one element + children. Jen Simmons, 16th May on Twitter
+
+Learning [CSS Grid](http://jensimmons.com/post/feb-27-2017/learn-css-grid)
 
 ### R5D16  15th May 2018
 #### CSS Grid children
