@@ -11,7 +11,23 @@ Frontend Web Development
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 
-### R5D15
+### R5D23 22nd May 2018
+
+### R5D22  21st May 2018
+
+### R5D21  20th May 2018
+
+### R5D20  19th May 2018
+
+### R5D19  18th May 2018
+
+### R5D18  17th May 2018
+
+### R5D17  16th May 2018
+
+### R5D16  15th May 2018
+
+### R5D15 14th May 2018 
 #### CSS Grid exercises
 
 This awesome set of exercises [Here's a Super Quick Way to Try out CSS Grid by Jen Simmons](http://jensimmons.com/post/aug-15-2017/heres-super-quick-way-try-out-css-grid)
