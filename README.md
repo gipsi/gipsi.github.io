@@ -22,6 +22,9 @@ Frontend Web Development
 ### R5D20  19th May 2018
 
 ### R5D19  18th May 2018
+#### Firefox developer tools
+
+Getting to know Firefox developer tools better for layouts with [Dev tools and CSS Grid](https://www.mozilla.org/en-GB/firefox/61.0a2/whatsnew/#devtools)
 
 ### R5D18  17th May 2018
 #### CSS Grid - Resizing and opacity
