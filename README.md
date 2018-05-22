@@ -11,6 +11,8 @@ Frontend Web Development
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 
+### Link of the day [A super quick way to try out CSS Grid](http://jensimmons.com/post/aug-15-2017/heres-super-quick-way-try-out-css-grid)
+
 ### R5D23 22nd May 2018
 
 ### R5D22  21st May 2018
