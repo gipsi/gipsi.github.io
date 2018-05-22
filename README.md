@@ -26,6 +26,108 @@ Frontend Web Development
 ### R5D17  16th May 2018
 
 ### R5D16  15th May 2018
+#### CSS Grid children
+
+Placing list children with grid-row and grid-column then resizing the browser is mesmerising.
+
+```
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<title>grid</title>
+<link href="https://fonts.googleapis.com/css?family=Gruppo" rel="stylesheet">
+
+<style>
+html {
+  font-family: 'Gruppo', cursive, lato, sans-serif;
+  font-size: 12px;
+  background: #6699cc;
+  background: linear-gradient(to bottom, #f6e6b4 0%,#ed9017 100%);  }
+
+ul {
+  font-family: 'Gruppo', cursive, lato, sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+  color: #fff;
+  margin: 0;
+  padding: 10px;
+  background: #26558b;
+  list-style-type: none;
+  background: linear-gradient(to bottom, #cedbe9 0%,#aac5de 17%,#6199c7 50%,#3a84c3 51%,#419ad6 59%,#4bb8f0 71%,#3a8bc2 84%,#26558b 100%); 
+  }
+  
+  li {
+  padding: 1em;
+  background: #F9423A;
+}
+  li:nth-child(3),
+  li:nth-child(4),
+  li:nth-child(7), 
+  li:nth-child(10),
+  li:nth-child(14),
+  li:nth-child(16),
+  li:nth-child(32){
+  background: #FF9124;
+}
+  li:nth-child(3) {
+	grid-column: span 2;  
+}
+  li:nth-child(4) {
+	grid-row: span 2;  
+  }	
+  li:nth-child(7) {
+	grid-column: span 2;
+    grid-row: span 2;	
+  }
+    li:nth-child(10) {
+	grid-column: span 2;  
+}
+  li:nth-child(14) {
+    grid-row: span 2;	
+  }
+    li:nth-child(16) {
+	grid-column: span 2;	
+    grid-row: span 2;	
+  }
+      li:nth-child(32) {
+	grid-column: span 3;  
+}
+  
+  .grid-container {
+ 
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px,2fr));
+  grid-gap: 2rem;
+}
+</style>
+ 	
+</head>
+
+<body>
+<ul class="grid-container">
+
+  <li>One <img src="" alt="" /></li> 
+  <li>Two <img src="" alt="" /></li>
+  <li>Three<img src="" alt="" /></li> 
+  <li>Four <img src="" alt="" /></li>
+  <li>Five <img src="" alt="" /></li> 
+  <li>Six <img src="" alt="" /></li>
+  <li>Seven <img src="" alt="" /></li> 
+  <li>Eight <img src="" alt="" /></li>
+  <li>Nine<img src="" alt="" /></li> 
+  <li>Ten <img src="" alt="" /></li>
+  <li>Eleven <img src="" alt="" /></li> 
+  <li>Twelve <img src="" alt="" /></li>
+  <li>Thirteen <img src="" alt="" /></li>
+</ul>
+<footer>  
+</footer>
+</body>
+</html>
+```
 
 ### R5D15 14th May 2018 
 #### CSS Grid exercises
