@@ -20,6 +20,9 @@ Frontend Web Development
 ### R5D21  20th May 2018
 
 ### R5D20  19th May 2018
+#### Grid containers and images
+
+Working on my Mermay gallery to fit images into  CSS grid containers.
 
 ### R5D19  18th May 2018
 #### Firefox developer tools
