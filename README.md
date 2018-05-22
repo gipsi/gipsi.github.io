@@ -11,20 +11,25 @@ Frontend Web Development
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 
+### R5D15
+#### CSS Grid exercises
+
+This awesome set of exercises [Here's a Super Quick Way to Try out CSS Grid by Jen Simmons](http://jensimmons.com/post/aug-15-2017/heres-super-quick-way-try-out-css-grid)
+
 
 ### R5D14 13th May 2018
 #### Zoom on hover with CSS
 
-Research ... http://www.sevensignature.com/blog/code/pure-css-popup-without-javascript/
+Research ... [a pure css popup without JavaScript](http://www.sevensignature.com/blog/code/pure-css-popup-without-javascript/)
 
-Interesting ... https://meyerweb.com/eric/css/edge/complexspiral/demo.html
+Interesting ... [comlex spiral](https://meyerweb.com/eric/css/edge/complexspiral/demo.html)
 
 Try things.
 
-This works, sort of - but I want the image itself bigger. https://www.w3schools.com/howto/howto_css_zoom_hover.asp
+This works, sort of - but I want the image itself bigger ... [zoom hover](https://www.w3schools.com/howto/howto_css_zoom_hover.asp)
 
 
-Firefox asked if I wanted to stop this site ... https://cssreset.com/zoom-images-inside-the-container-on-mouse-over-using-css/
+Firefox asked if I wanted to stop this site ... [zoom imagesinside the container using mouse over](https://cssreset.com/zoom-images-inside-the-container-on-mouse-over-using-css/)
 
 
 ### R5D14 12th May 2018
