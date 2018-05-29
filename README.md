@@ -13,19 +13,20 @@ Frontend Web Development
 
 ### Link of the month [A super quick way to try out CSS Grid](http://jensimmons.com/post/aug-15-2017/heres-super-quick-way-try-out-css-grid)
 
-### [Mermay Gallery](https://gipsi.github.io/mermay2018/responsivegrid.html)
+### Currently working on [Mermay Gallery](https://gipsi.github.io/mermay2018/responsivegrid.html)
 
 ### R5D32 29th May 2018
+#### Updating stylesheets and media content
 
 ### R5D31 28th May 2018
-#### Accessible
+#### Accessible?
 Helping access websites on an iPad - frustrating.  A lot of waiting staring at a blank white screen.
 
 ### R5D30 27th May 2018
 #### Validators and checkers
 EdX CSS course Friday May 25th 2018
 
-
+##### Some notes
 
 Generally, it is a good idea to put a comment at the top of each CSS 
 
