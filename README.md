@@ -422,7 +422,7 @@ The seven Layout Land videos are about 10-15 minutes each.  This list is from th
   
 Very much enjoyed this excursion and have come away with some better ideas on how to consider the variety of formats that the content can be transformed into.
 
-> ![design](douglas-adams-quote-design.jpg)
+> ![design](media/douglas-adams-quote-design.jpg)
 
 ###  R5D1 28th April 2018
 
@@ -430,7 +430,7 @@ A restart after falling behind last week.  Learning some CSS grid then tried out
 
 Progressive enhancement practice website [complete-baker](https://complete-baker.glitch.me/) on Glitch.
 
-![baker](baker.jpg)
+![baker](media/baker.jpg)
 
 ---
 
@@ -599,7 +599,7 @@ So read this:
 
 Some Code!  Html in PowerShell.
 
-![shell-html](shell-html.jpg)
+![shell-html](media/shell-html.jpg)
 
 
 
@@ -702,12 +702,12 @@ Then I wrote it like this with the image I want to use in an html ```<img>``` ta
 
 ```
 <a href="http://gipsi.itbit.me/#born-wild" target="_blank">
-  <img src="gipsi.itbit.me(250).jpg"alt="my horse-logo">	
+  <img src="media/gipsi.itbit.me(250).jpg"alt="my horse-logo">	
 </a>
 ```
 
 <a href="http://gipsi.itbit.me/#born-wild" target="_blank">
-  <img src="gipsi.itbit.me(250).jpg"alt="my horse-logo">	
+  <img src="media/gipsi.itbit.me(250).jpg"alt="my horse-logo">	
 </a>
 
 Better. but going to the wrong part of the page.  And it does work here, but not on the GitHub Pages Jekyll version. This is always a problem I eventually come up against with templates, if something doesn't work it's another opaque layer to peel away and try to understand and fix.
@@ -717,7 +717,7 @@ Better. but going to the wrong part of the page.  And it does work here, but not
 
 
 <a href="http://gipsi.itbit.me/" target="_blank">
-  <img src="me(1).jpg"alt="my colourful horse-logo">	
+  <img src="media/me(1).jpg"alt="my colourful horse-logo">	
 </a>
 
 The images are experiments with logo design that I made on the [Canva](https://www.canva.com/design/DACz5SjGNq8/Upc5kqrUYvTiUkqMGA1p7Q/edit) website. These are made before I spotted the tutorials.  I'll do the tutorials and see if they improves my technique and aesthetic sensibilities.
@@ -730,9 +730,9 @@ Also looked at [Surge.sh](surge.sh)where you can build and host apps from the co
 
 I just figured out how to do the image that links in markdown. 🎆 That exclamation mark at the after the first angle bracket is the code to display the image, I knew there was a way.
 
-``` [![me(1).jpg](me(1).jpg)](http://gipsi.itbit.me/) ```
+``` [![me(1).jpg](media/me(1).jpg)](http://gipsi.itbit.me/) ```
 
-[![me(1).jpg](me(1).jpg)](http://gipsi.itbit.me/)
+[![me(1).jpg](media/me(1).jpg)](http://gipsi.itbit.me/)
 
 And now it works in the Jekyll too - phew! For all the frustrations it's a great feeling when stuff does work.
 
@@ -846,7 +846,7 @@ Emoji homework! ... on unicode and character sets.
 
 Whilst exploring tumblr I found you can edit the html.
 
-![tumblrhtml](tumblr_html.jpg)
+![tumblrhtml](media/tumblr_html.jpg)
 
 
 ### Day 16 March 23rd
@@ -873,7 +873,7 @@ Using [Typora](https://typora.io/) for Markdown - Lovely to use now I'm getting 
 ### Day 15 March 22nd
 
 Practicing what I learnt yesterday by placing emoji items in CSS Grid boxes.
-![emojigrid](emojigrid.jpg)
+![emojigrid](media/emojigrid.jpg)
 
 
 ### Day 13/14 March 20th/21st
@@ -1181,7 +1181,7 @@ There's a [fascinating history](https://css-tricks.com/box-sizing/) and it's int
 
 #### The Box Model
 
-![BoxModel](299px-W3C_and_Internet_Explorer_box_models.jpg)
+![BoxModel](media/299px-W3C_and_Internet_Explorer_box_models.jpg)
 
 #### Introduction to Modern Web Technologies
 
@@ -1197,7 +1197,7 @@ Outlining and changing the colour the lines around items in _web developer>inspe
 
 Second day of the [Wes Bos ](http://wesbos.com/) [CSS GRID](https://cssgrid.io/) course dives right into making and sizing grid items.
 
-![GriddyUp](griddyup.jpg)
+![GriddyUp](media/griddyup.jpg)
 
 
 This piece of code demonstrates how ```display: grid;```  works on all the container items,  
