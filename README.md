@@ -13,36 +13,89 @@ Frontend Web Development
 
 ### Link of the month [A super quick way to try out CSS Grid](http://jensimmons.com/post/aug-15-2017/heres-super-quick-way-try-out-css-grid)
 
-### R5D23 22nd May 2018
+### [Mermay Gallery](https://gipsi.github.io/mermay2018/responsivegrid.html)
 
-### R5D22  21st May 2018
+### R5D32 29th May 2018
 
-### R5D21  20th May 2018
+### R5D31 28th May 2018
+#### Accessible
+Helping access websites on an iPad - frustrating.  A lot of waiting staring at a blank white screen.
 
-### R5D20  19th May 2018
+### R5D30 27th May 2018
+#### Validators and checkers
+EdX CSS course Friday May 25th 2018
+
+
+
+Generally, it is a good idea to put a comment at the top of each CSS 
+
+rule, or at the very least at the top of sets of rules that apply to a 
+
+single category or section of your Web page. 
+
+
+
+dark cyan  #008B8B  0, 139, 139
+
+Results of Nu html checker on https://gipsi.github.io
+
+1. Warning: Consider avoiding viewport values that prevent users from resizing documents.
+   From line 23, column 5; to line 23, column 90
+   ript>↩    **<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">**↩    <
+2. Warning: Consider using the h1 element as a top-level heading only (all h1 elements are treated as top-level headings by many screen readers and other tools).
+   From line 51, column 3; to line 51, column 41
+   /></p>↩  **<h1 id="a-blog-about-learning-to-code">**A Blog
+
+
+### R5D29 26th May 2018
+#### CSS Zen garden and quiz
+Finished Module 1, started module 2, W3C EdX CSS course - happy I got all the questions in the quiz right.
+
+### R5D28 25th May 2018
+#### Advanced HTML5 course on EdX
+Skimmed through all six weeks of the course in a couple of hours so hopefully will have access to it once archived on May 31st
+
+### R5D27 24th May 2018
+#### CSS course on EdX
+Started W3c CSS course on EdX Some history looking at websites on Wayback machine from 1996, useful validator and checker links, different styles for the same markup on Zen Garden site.
+
+### R5D26 23rd May 2018
+#### Grid containers and images
+[Repurposing of content](https://www.w3.org/People/Bos/DesignGuide/repurposing)
+
+### R5D25 22nd May 2018
+#### Grid containers and images
+
+### R5D24  21st May 2018
+#### Grid containers and images
+
+### R5D23  20th May 2018
+#### Grid containers and images
+
+### R5D22  19th May 2018
 #### Grid containers and images
 
 Working on my Mermay gallery to fit images into  CSS grid containers.
 
-### R5D19  18th May 2018
+### R5D21  18th May 2018
 #### Firefox developer tools
 
 Getting to know Firefox developer tools better for layouts with [Dev tools and CSS Grid](https://www.mozilla.org/en-GB/firefox/61.0a2/whatsnew/#devtools)
 
-### R5D18  17th May 2018
+### R5D20  17th May 2018
 #### CSS Grid - Resizing and opacity
 
 Resizing and overlapping images with fractional units and opacity for interesting layouts.
 Jen Simmons CSS Grid [exercise 8](https://codepen.io/jensimmons/pen/xqJKdK)
 
-### R5D17  16th May 2018
+### R5D19  16th May 2018
 #### CSS Grid - One element
 
 > Let go of idea that your grid framework effects every part of the page. A CSS Grid only effects one element + children. Jen Simmons, 16th May on Twitter
 
 Learning [CSS Grid](http://jensimmons.com/post/feb-27-2017/learn-css-grid)
 
-### R5D16  15th May 2018
+### R5D18  15th May 2018
 #### CSS Grid children
 
 Placing list children with grid-row and grid-column then resizing the browser is mesmerising.
@@ -146,13 +199,13 @@ ul {
 </html>
 ```
 
-### R5D15 14th May 2018 
+### R5D17 14th May 2018 
 #### CSS Grid exercises
 
 This awesome set of exercises [Here's a Super Quick Way to Try out CSS Grid by Jen Simmons](http://jensimmons.com/post/aug-15-2017/heres-super-quick-way-try-out-css-grid)
 
 
-### R5D14 13th May 2018
+### R5D16 13th May 2018
 #### Zoom on hover with CSS
 
 Research ... [a pure css popup without JavaScript](http://www.sevensignature.com/blog/code/pure-css-popup-without-javascript/)
@@ -167,7 +220,7 @@ This works, sort of - but I want the image itself bigger ... [zoom hover](https:
 Firefox asked if I wanted to stop this site ... [zoom imagesinside the container using mouse over](https://cssreset.com/zoom-images-inside-the-container-on-mouse-over-using-css/)
 
 
-### R5D14 12th May 2018
+### R5D15 12th May 2018
 #### Alternative styles
 
 Image gallery. Each different skin has a separate HTML page for the moment.
