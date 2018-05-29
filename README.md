@@ -15,8 +15,13 @@ Frontend Web Development
 
 ### Currently working on [Mermay Gallery](https://gipsi.github.io/mermay2018/responsivegrid.html)
 
+### Improving designs with [tactics](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
+
 ### R5D32 29th May 2018
 #### Updating stylesheets and media content
+"That everyone has downloaded the same fundamental knowledge on any topic is becoming less and less probable."
+
+"The beauty of hypertext is that we’re able to quickly add much-needed context helpful for n00bs but easy enough for those already in-the-know to scan over. And making documentation more human-readable benefits everyone." - [Brad Frost](http://bradfrost.com/blog/post/just/)
 
 ### R5D31 28th May 2018
 #### Accessible?
