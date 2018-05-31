@@ -17,6 +17,13 @@ Frontend Web Development
 
 ### Improving designs with [tactics](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 
+### R5D33 30th May 2018
+#### Zoom, hover, onclick and opacity.
+
+I watched some [Layout land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag) videos on youtube then had some fun with CSS gid on the beach style image gallery page.  
+
+https://gipsi.github.io/mermay2018/
+
 ### R5D32 29th May 2018
 #### Updating stylesheets and media content
 "That everyone has downloaded the same fundamental knowledge on any topic is becoming less and less probable."
