@@ -1,7 +1,10 @@
 > ![design](media/douglas-adams-quote-design.jpg)
 
-> I think when you have a lot of jumbled up ideas they come together slowly over a period of several years - Tim Berners-Lee
+
 # A Blog about learning to code
+
+> I think when you have a lot of jumbled up ideas they come together slowly over a period of several years - Tim Berners-Lee
+
 ## #100DaysofCode Journal - Restart - Round Five
 
 **[@gipsitana on Twitter](https://twitter.com/gipsitana)** 
