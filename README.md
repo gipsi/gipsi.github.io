@@ -38,12 +38,12 @@ Put all the folders and images accumulated on the virtual desktop into a May fol
 
 And here's the really good list apart of CSS Grid links: 
 
-    - [Getting Started with CSS Layout—Rachel Andrew, Smashing Magazine](https://www.smashingmagazine.com/2018/05/guide-css-layout/)
-    - [Learn CSS Grid—Jen Simmons](http://jensimmons.com/post/feb-27-2017/learn-css-grid)
-    - [CSS Grid Layout—MDN web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
-    - [Grid by Example—Rachel Andrew](https://gridbyexample.com/examples/)
-    - [A Complete Guide to Grid—Chris House, CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
-    - [Practical CSS Grid: Adding Grid to an Existing Design—Eric Meyer, A List Apart](https://alistapart.com/article/practical-grid)
+     - [Getting Started with CSS Layout—Rachel Andrew, Smashing Magazine](https://www.smashingmagazine.com/2018/05/guide-css-layout/)
+     - [Learn CSS Grid—Jen Simmons](http://jensimmons.com/post/feb-27-2017/learn-css-grid)
+     - [CSS Grid Layout—MDN web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+     - [Grid by Example—Rachel Andrew](https://gridbyexample.com/examples/)
+     - [A Complete Guide to Grid—Chris House, CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
+     - [Practical CSS Grid: Adding Grid to an Existing Design—Eric Meyer, A List Apart](https://alistapart.com/article/practical-grid)
     - [Jen Simmons Labs](http://labs.jensimmons.com/)
     - [Layout Land—YouTube](https://www.youtube.com/layoutland)
     - [A Book Apart: The New CSS Layout, by Rachel Andrew](https://alistapart.com/article/the-story-of-css-grid-from-its-creators)
