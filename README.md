@@ -22,6 +22,35 @@ Frontend Web Development
 
 ### Improving designs with [tactics](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 
+### R5D35 1st June 2018
+#### digitalart
+The end of the Mermay challenge 2018. I practiced digital image manipulation by making a digital image of a mermaid and posting it on Instagram every day.  I was a couple of days behind at the start so caught up today and made four images.  Three for 29/30/31st of May and one for the first day of the Junicorn challenge.
+
+Tidying and finishing up the Mermay CSS Grid gallery and making making a new one for Junicorn.
+
+Put all the folders and images accumulated on the virtual desktop into a May folder and made a new one for June.
+
+
+### R5D34 31st May 2018
+#### simplicity over complexity
+
+> "CSS Grid is here; it’s logical and fairly easy to learn. You can use it to accomplish all kinds of layouts that used to require JavaScript and frameworks, plus new kinds of layout nobody’s even tried yet." [The Cult of the Complex](https://alistapart.com/article/cult-of-the-complex)
+
+And here's the really good list apart of CSS Grid links: 
+
+    - [Getting Started with CSS Layout—Rachel Andrew, Smashing Magazine](https://www.smashingmagazine.com/2018/05/guide-css-layout/)
+    - [Learn CSS Grid—Jen Simmons](http://jensimmons.com/post/feb-27-2017/learn-css-grid)
+    - [CSS Grid Layout—MDN web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+    - [Grid by Example—Rachel Andrew](https://gridbyexample.com/examples/)
+    - [A Complete Guide to Grid—Chris House, CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
+    - [Practical CSS Grid: Adding Grid to an Existing Design—Eric Meyer, A List Apart](https://alistapart.com/article/practical-grid)
+    - [Jen Simmons Labs](http://labs.jensimmons.com/)
+    - [Layout Land—YouTube](https://www.youtube.com/layoutland)
+    - [A Book Apart: The New CSS Layout, by Rachel Andrew](https://alistapart.com/article/the-story-of-css-grid-from-its-creators)
+    - [The Story of CSS Grid, from its Creators—Aaron Gustafson, A List Apart](https://alistapart.com/article/the-story-of-css-grid-from-its-creators)
+    - [Transcript: Intrinsic Web Design with Jen Simmons (The Big Web Show)](http://www.zeldman.com/2018/05/02/transcript-intrinsic-web-design-with-jen-simmons-the-big-web-show/)
+
+
 ### R5D33 30th May 2018
 #### Zoom, hover, onclick and opacity.
 
