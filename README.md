@@ -18,9 +18,73 @@ Frontend Web Development
 
 ### Link of the month [A super quick way to try out CSS Grid](http://jensimmons.com/post/aug-15-2017/heres-super-quick-way-try-out-css-grid)
 
-### Currently working on [Mermay Gallery](https://gipsi.github.io/mermay2018/responsivegrid.html)
+### Currently working on [Mermay Gallery](https://gipsi.github.io/mermay2018/responsivegrid.html) and [#Junicorn2018 Gallery](https://gipsi.github.io/junicorn2018/freestyle.html)
 
 ### Improving designs with [tactics](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
+
+### [FreeCodeCamp](https://www.freecodecamp.org/)
+
+### [edX W3Cx Front-end web developer](https://courses.edx.org/dashboard/programs/98b7344e-cd44-4a99-9542-09dfdb11d31b/)
+
+### R5D39  5thJune 2018
+
+### R5D38 4th June 2018
+
+####  Notes from edX Home Page
+W3Cx: HTML5.0x HTML5 and CSS Fundamentals
+
+#### 1900 A vague but exciting idea from CERN
+
+- HyperText Transfer Protocol (HTTP) is the foundation of data communication for the Web.
+- HyperText Markup Language (HTML) is the main mark-up language for creating Web pages and information that can be displayed on a Web browser.
+- Web addresses or a Uniform Resource Locator (URL) are used to reference a Web page.
+
+# Hypertext
+
+A fundamental key to the World Wide Web is the concept of "*Hypertext*".   Hypertext is built on the idea of linking information together, not  unlike using footnotes, except much easier and more flexible. The idea  was to "Mark Up" your document with links and define how to break it  down into different segments (chapters, sections, paragraphs, tables,  figures, etc.)
+
+
+
+- HTML5 5th version of the HTML standard published in October 2014
+
+- Markup Language system for annotating documents based on for paper printing.  Editors would use blue pencil on authors manuscripts.
+
+- World Wide Web (WWW or W3) Information space where docs are 
+
+- - identified by URLs
+  - interlinked by hypertext
+  - accessed via the Internet
+
+  > - [ ] The World Wide Web was invented by Tim Berners-Lee at CERN in Switzerland in 1989.  He wrote the first web browser in 1990. - The W3Cx team. 
+
+  - [ ] World Wide Web Consortium (W3C) International standards organisation for the Web abbreviated WWW or W3C.
+
+  > - [ ] Tim Berners-Lee imagined a "Web" of interconnected documents.
+  >
+  > > - [ ] He used the metaphor of a Web to emphasize the importance of  connections between documents. It was not just a long list of details,  but rather a sea of information stretching out in all directions. This  sea of information was navigated by a new tool called a "Browser".
+  > >
+  > > 
+
+- Knowledge check
+
+- - - [ ] True or False: The primary purpose of HTML is to assist formatting of text.
+
+      
+
+      Some history at the Wayback machine.
+
+      [Cryptical Envelopment](https://archive.org/details/gd85-06-24.sbd.miller.25315.sbeok.shnf/gd85-06-24d2t05.shn)                       
+
+
+
+### R5D37 3rd June 2018
+#### More unicorns
+The placeholder unicorns don't work on iPad or Android.  iPad has a little document icon and Android a page full of strange code.
+Only on Instagram! []()
+
+### R5D36 2nd June 2018
+#### Unicorns
+[#Junicorn2018](https://gipsi.github.io/junicorn2018/index.html) CSSGrid full of [placehoder unicorns]().
 
 ### R5D35 1st June 2018
 #### digitalart
