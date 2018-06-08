@@ -1,12 +1,12 @@
 > ![programming](media/programming1.jpg)
 
-[@codewisdom](https://twitter.com/CodeWisdom)
-[Nicholas Negroponte](https://en.wikipedia.org/wiki/Nicholas_Negroponte)
+Links: to [@codewisdom](https://twitter.com/CodeWisdom) on Twitter, and about
+[Nicholas Negroponte](https://en.wikipedia.org/wiki/Nicholas_Negroponte) at Wikipedia.
 
 
 # A Blog about learning to code
 
-> I think when you have a lot of jumbled up ideas they come together slowly over a period of several years - Tim Berners-Lee
+> I think when you have a lot of jumbled up ideas they come together slowly over a period of several years ~ [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee)
 
 ## #100DaysofCode Journal - Restart - Round Five
 
@@ -25,14 +25,101 @@ Frontend Web Development
 
 ### Improving designs with [tactics](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 
-### [FreeCodeCamp](https://www.freecodecamp.org/)
+### Revisiting the updated [FreeCodeCamp](https://www.freecodecamp.org/)
 
-### [edX W3Cx Front-end web developer](https://courses.edx.org/dashboard/programs/98b7344e-cd44-4a99-9542-09dfdb11d31b/)
+### Learning lots of new things with the free (minus certificate) [W3Cx Front-end web developer](https://www.w3.org/developers/) course.
 
-### R5D41
-#### Don't use my Grid
+### R5D42 8th June 2018
+#### Notes on HTML basics - HTML5 includes CSS3(and Javascript)
+
+##### HTML and CSS fundamentals W3C edX
 
 
+
+> ... through the 80's, the Internet was used for file transfers, newsgroups (a kind of open forum), email and other conveniences.
+There were a number of different programs like ['fetch']
+(https://en.wikipedia.org/wiki/Fetch_(FTP_client)), ['gopher'](http://www.yourdictionary.com/gopher#Noun-3) and ['archie'](http://www.yourdictionary.com/gopher#Noun-3) that were used to download, browse and search for files.
+[archive.org](https://archive.org/)
+
+> [Marc Andreesen](https://en.wikipedia.org/wiki/Marc_Andreessen) conceived of a solution that would put all the pieces together in one app, making it easy for users to browse all the different sorts of information and data on the World Wide Web.  Together with others, he started the "Mosaic" project.
+
+---
+
+> He envisioned a technology that would facilitate thoroughly interconnected documents. He wanted authors to be able to connect an idea in one document to the source of the idea in another, or connect a statement with the data that backs up that statement. Traditionally, this kind of thing was done with footnotes and bibliographies, which can be cumbersome. This information should be easily transferable from one place to another, so that in reading one document, it is easy to access everything related (linked) to it. Tim Berners-Lee imagined a "Web" of interconnected documents.
+
+He used the metaphor of a Web to emphasize the importance of connections between documents. It was not just a long list of details, but rather a sea of information stretching out in all directions. This sea of information was navigated by a new tool called a "Browser".
+
+Let's meet the words 'charset' and 'lang', soon to become your favorite markup ;)
+---
+Check #1 There is a character encoding declaration near the start of your source code, and its value is UTF-8.
+```
+    <head>
+    <meta charset="utf-8"/>
+    ...
+    </head>
+```
+check #2 The HTML tag has a lang attribute which correctly indicates the language of your content.
+```
+<!doctype html>
+<html lang="fr">
+<head>
+```
+Check #3: If your content will be seen by people from diverse cultures, check that your cultural references will be recognized and that there is no inappropriate cultural bias.
+
+> Don't worry!
+
+You will learn about the basics as you progress through the course, so don't worry about things you don't understand on this page – you'll learn about them shortly. Once you have taken the course, you can find more tips and information from the W3C at: Internationalization techniques: [Authoring HTML & CSS](https://www.w3.org/International/techniques/authoring-html?collapse).
+
+When you start creating Web pages, you can also run them through the W3C's Internationalization Checker.  If there are [internationalization](https://validator.w3.org/i18n-checker/) problems with your page, [this checker](https://validator.w3.org/i18n-checker/) explains what they are and what to do about it.
+
+---
+Internationalisation and why as a content developer you should always
+[choose the UTF-8 character encoding](https://www.w3.org/International/questions/qa-choosing-encodings)
+
+---
+
+[Tips for getting started with web accessibility](https://www.w3.org/WAI/tips/)
+[Easy Checks - A First Review of Web Accessibility)(https://www.w3.org/WAI/test-evaluate/preliminary/)
+
+1.Page title e.g. 
+```
+<head>
+<titlt>Web Accessibility Initiative (WAI) - home page</title>
+</head>
+```
+2. Every image has an alt text eg 
+```
+    <a href="https://w3.org">
+    <img src="https://w3.org/Icons/w3c_home.png" width="72" height="48" alt="World Wide Web Consortium">
+    </a>
+```
+For more information on web accessibility, visit [WAI](w3.org/WAI)
+---
+Web content accessability guidelines
+[WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)
+
+Authoring tool accessibility guidelines
+[ATAG](https://www.w3.org/WAI/standards-guidelines/atag/)
+
+User agent accessibility guidelines
+[UAAG](https://www.w3.org/WAI/standards-guidelines/uaag/)
+---
+[W3C developer tools](http://w3c.github.io/developers/tools/)
+
+[W3C developers](http://w3c.github.io/developers/)
+
+[W3C cheatsheet](https://www.w3.org/2009/cheatsheet/)
+
+### R5D41 7th June 2018
+#### Don't use my Grid System
+
+Enjoyable overview of where we're at re: CSS.  Exciting times ahead!
+
+[Don't Use My Grid System (or any others)](https://noti.st/mirisuzanne/DDJo3H/don-t-use-my-grid-system-or-any-others)
+
+A presentation at [Beyond Tellerrand](https://noti.st/events/jGyf5v/beyond-tellerrand) in May 2018 in Düsseldorf, Germany by [Miriam Suzanne](https://noti.st/mirisuzanne)
+
+[]
 
 ### R5D40 6th June 2018
 Writing alt texts for img tags, describing the pictures to sound more interesting and less repetitive than the ones I first copy and pasted.
