@@ -120,7 +120,7 @@ A presentation at [Beyond Tellerrand](https://noti.st/events/jGyf5v/beyond-telle
 
 
 ### R5D40 6th June 2018
-Writing alt texts for img tags, describing the pictures to sound more interesting and less repetitive than the ones I first copy and pasted.
+Writing [alt texts for img tags](https://github.com/gipsi/junicorn2018/blob/master/index.html), describing the pictures to sound more interesting and less repetitive than the ones I first copy and pasted.
 
 ### R5D39  5thJune 2018
 
