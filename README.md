@@ -1,4 +1,4 @@
-[comment]: <> (This is a comment, it will not be included)
+<!--- [comment]: <> (This is a comment, it will not be included) --->
 ## *Welcome to GitHub Pages
  
 You can use the [editor on GitHub](https://github.com/gipsi/gipsi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
