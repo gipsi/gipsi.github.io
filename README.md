@@ -1,4 +1,7 @@
-> ![design](media/douglas-adams-quote-design.jpg)
+> ![programming](media/programming1.jpg)
+
+[@codewisdom](https://twitter.com/CodeWisdom)
+[Nicholas Negroponte](https://en.wikipedia.org/wiki/Nicholas_Negroponte)
 
 
 # A Blog about learning to code
@@ -25,6 +28,11 @@ Frontend Web Development
 ### [FreeCodeCamp](https://www.freecodecamp.org/)
 
 ### [edX W3Cx Front-end web developer](https://courses.edx.org/dashboard/programs/98b7344e-cd44-4a99-9542-09dfdb11d31b/)
+
+### R5D41
+#### Don't use my Grid
+
+
 
 ### R5D40 6th June 2018
 Writing alt texts for img tags, describing the pictures to sound more interesting and less repetitive than the ones I first copy and pasted.
