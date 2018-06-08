@@ -45,7 +45,7 @@ Links: to [@codewisdom](https://twitter.com/CodeWisdom) on Twitter, and about
 [Nicholas Negroponte](https://en.wikipedia.org/wiki/Nicholas_Negroponte) at Wikipedia.
 
 
-# A Blog about learning to code
+# Gipsi's blog about learning to code
 
 > I think when you have a lot of jumbled up ideas they come together slowly over a period of several years ~ [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee)
 
