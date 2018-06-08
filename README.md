@@ -37,8 +37,7 @@ Frontend Web Development
 
 
 > ... through the 80's, the Internet was used for file transfers, newsgroups (a kind of open forum), email and other conveniences.
-There were a number of different programs like ['fetch']
-(https://en.wikipedia.org/wiki/Fetch_(FTP_client)), ['gopher'](http://www.yourdictionary.com/gopher#Noun-3) and ['archie'](http://www.yourdictionary.com/gopher#Noun-3) that were used to download, browse and search for files.
+There were a number of different programs like ['fetch'](https://en.wikipedia.org/wiki/Fetch_(FTP_client)), ['gopher'](http://www.yourdictionary.com/gopher#Noun-3) and ['archie'](http://www.yourdictionary.com/gopher#Noun-3) that were used to download, browse and search for files.
 [archive.org](https://archive.org/)
 
 > [Marc Andreesen](https://en.wikipedia.org/wiki/Marc_Andreessen) conceived of a solution that would put all the pieces together in one app, making it easy for users to browse all the different sorts of information and data on the World Wide Web.  Together with others, he started the "Mosaic" project.
@@ -119,7 +118,6 @@ Enjoyable overview of where we're at re: CSS.  Exciting times ahead!
 
 A presentation at [Beyond Tellerrand](https://noti.st/events/jGyf5v/beyond-tellerrand) in May 2018 in Düsseldorf, Germany by [Miriam Suzanne](https://noti.st/mirisuzanne)
 
-[]
 
 ### R5D40 6th June 2018
 Writing alt texts for img tags, describing the pictures to sound more interesting and less repetitive than the ones I first copy and pasted.
