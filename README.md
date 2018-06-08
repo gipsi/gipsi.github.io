@@ -26,7 +26,13 @@ Frontend Web Development
 
 ### [edX W3Cx Front-end web developer](https://courses.edx.org/dashboard/programs/98b7344e-cd44-4a99-9542-09dfdb11d31b/)
 
+### R5D40 6th June 2018
+Writing alt texts for img tags, describing the pictures to sound more interesting and less repetitive than the ones I first copy and pasted.
+
 ### R5D39  5thJune 2018
+
+Much time validating code on my unicorn page with W3C's list on their unicorn page. LINK needed!
+Read loads of stuff about html and CSS on W3C and MDN pages.  Interesting suggestions for refactoring code.  LINK needed!
 
 ### R5D38 4th June 2018
 
