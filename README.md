@@ -70,6 +70,32 @@ Frontend Web Development
 
 ### Learning lots of new things with the free (minus certificate) [W3Cx Front-end web developer](https://www.w3.org/developers/) course.
 
+
+
+### R5D43 8th June 2018 
+#### Image optimisation and what it costs to view websites 
+
+I got [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/) as a Chrome extension
+and ran it's checks. This led to reading lots of stuff about image optimisation and after assesing my image gallery site with [what it costs to view websites on mobile networks](https://whatdoesmysitecost.com/test/180608_Y6_356942d9a1fe91cfcc41fac1927ef239) I can see  how this improves load times with changes that are barely noticeable.
+
+I decided to Learn Perl.
+I read a fair bit about it and watched some [Big Think talks by Larry Wall](https://www.youtube.com/playlist?list=PLAE0475DEA0D088DA).  The found there are two versions.  This happens.  I put off learning Python because I started Python 2 and then there was Python 3.  And CSS Grid didn't work when I tried it last year but now it does, yay!
+
+And these:
+Thoughtful talk on [creativity](https://www.youtube.com/watch?v=vR2P5vW-nVc),
+
+[The poetry of programming](https://www.youtube.com/watch?v=-jRREn6ifEQ) for next gen. and IoT ... wonderful, whimsical and slightly weird".
+
+[After watching this, your brain will not be the same | Lara Boyd](https://www.youtube.com/watch?v=LNHBMFCzznE)
+
+I read about Dart after watching this [Lightning Talk by Randal Schwartz](https://www.youtube.com/watch?v=cDMMF_b7Kbs) at a Perl conference.
+
+Mixed two digital images, 1 for #junicorn and #30dayswild the other for #worldoceansday
+
+
+
+
+
 ### R5D42 8th June 2018
 #### Notes on HTML basics - HTML5 includes CSS3(and Javascript)
 
