@@ -72,7 +72,7 @@ Frontend Web Development
 
 
 
-### R5D43 8th June 2018 
+### R5D43 9th June 2018 
 #### Image optimisation and what it costs to view websites 
 
 I got [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/) as a Chrome extension
