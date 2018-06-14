@@ -70,6 +70,8 @@ Frontend Web Development
 
 ### Learning lots of new things with the free (minus certificate) [W3Cx Front-end web developer](https://www.w3.org/developers/) course.
 
+### Viewing: [Astronomy picture of the day](https://apod.nasa.gov/apod/astropix.html)
+
 ### R5D48 14th June 2018
 ### Image optimisation for Web performance.
 
@@ -84,6 +86,8 @@ Frontend Web Development
 [Image optimisation](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization) - [Ilya Grigorik](https://developers.google.com/web/resources/contributors/ilyagrigorik) 
 
 [Automating image optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/automating-image-optimization/) - [Addy Osmani ](https://developers.google.com/web/resources/contributors/addyosmani) 
+
+[Astronomy picture of the day](https://apod.nasa.gov/apod/astropix.html)
 
 #### YouTube video
 
