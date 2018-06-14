@@ -1,5 +1,5 @@
 <!--- [comment]: <> (This is a comment, it will not be included) --->
-## *Welcome to GitHub Pages
+## *Welcome to (Gipsi's) GitHub Pages
  
 You can use the [editor on GitHub](https://github.com/gipsi/gipsi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -145,7 +145,7 @@ Internationalisation and why as a content developer you should always
 ---
 
 [Tips for getting started with web accessibility](https://www.w3.org/WAI/tips/)
-[Easy Checks - A First Review of Web Accessibility)(https://www.w3.org/WAI/test-evaluate/preliminary/)
+[Easy Checks - A First Review of Web Accessibility](https://www.w3.org/WAI/test-evaluate/preliminary/)
 
 1.Page title e.g. 
 ```
