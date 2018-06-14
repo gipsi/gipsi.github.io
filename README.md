@@ -70,7 +70,65 @@ Frontend Web Development
 
 ### Learning lots of new things with the free (minus certificate) [W3Cx Front-end web developer](https://www.w3.org/developers/) course.
 
+### R5D48 14th June 2018
+### Image optimisation for Web performance.
 
+#### Google Web: Tools for developers
+
+[Google lighthouse](https://developers.google.com/web/tools/lighthouse/)
+
+#### Google Web: Fundamentals
+
+[Avoid enormous network payloads](https://developers.google.com/web/tools/lighthouse/audits/network-payloads)
+
+[Image optimisation](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization) - [Ilya Grigorik](https://developers.google.com/web/resources/contributors/ilyagrigorik) 
+
+[Automating image optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/automating-image-optimization/) - [Addy Osmani ](https://developers.google.com/web/resources/contributors/addyosmani) 
+
+#### YouTube video
+
+[Optimise images for the web using Paint.NET and PNGGauntlet](https://www.youtube.com/watch?v=MD0jafqYv2A) - [Beamtic](https://www.youtube.com/channel/UC-7uAPYvFpVjMeA3uobCoWQ)
+
+#### Downloadable image optimisation software tools
+
+[Getpaint.net](https://www.getpaint.net/)                               
+[PNGGauntlet][https://pnggauntlet.com/]
+
+[File optimiser](https://sourceforge.net/projects/nikkhokkho/)
+
+#### Online optimisation tool
+
+[Optimizilla](http://optimizilla.com/)
+
+#### Some more about .png files
+
+[How PNG's Two-Dimensional Interlacing Works](http://www.libpng.org/pub/png/pngpic2.html)
+
+
+
+#### Next up ...
+
+Making a Progressive Web App:
+
+[Add to home screen](https://developers.google.com/web/fundamentals/app-install-banners/)
+
+### R5D47 13th June 2018
+#### Image resources
+OpenClipart.org
+Pixabay
+
+### R5D46 12th June 2018
+#### Image blending tools
+Pixlr
+Paint.net
+
+### R5D45 11th June 2018
+#### Image blending on iPad
+Notepad++
+
+### R5D44 10th June 2018
+#### Image blending on Android
+Github
 
 ### R5D43 9th June 2018 
 #### Image optimisation and what it costs to view websites 
