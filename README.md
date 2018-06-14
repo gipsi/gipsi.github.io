@@ -92,7 +92,7 @@ Frontend Web Development
 #### Downloadable image optimisation software tools
 
 [Getpaint.net](https://www.getpaint.net/)                               
-[PNGGauntlet][https://pnggauntlet.com/]
+[PNGGauntlet](https://pnggauntlet.com/)
 
 [File optimiser](https://sourceforge.net/projects/nikkhokkho/)
 
