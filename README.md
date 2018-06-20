@@ -72,6 +72,32 @@ Frontend Web Development
 
 ### Viewing: [Astronomy picture of the day](https://apod.nasa.gov/apod/astropix.html)
 
+### R5D49 19th June 2018
+### design matters
+today's tweet: #100daysofcode R5D50/D53 getting a better understanding of the cascade in CSS with MDN while making practice stylesheets.
+
+> It may sound a little dramatic (or just plain weird) to say that we’re in a crisis of narrative, but as our lives become ever more distracted, dispersed and interconnected, these stories are what’s going to bind the fragmented interactions of daily life into a sensible whole. 
+[The protagonist](https://medium.com/the-protagonist/welcome-to-protagonist-4a6074665af4)
+
+Udemy Build a website
+
+### R5D52 18th June 2018
+### Pixlr
+Waiting for the ads to finish when downloading a picture dum de dum de dum
+
+edX W3c CSS
+
+### R5D51 17th June 2018
+### Instagram
+Sharing stuff and looking at art
+
+### R5D50 16th June 2018
+### Digital art
+Junicorn digital image making
+
+### R5D49 15th June 2018
+### Started Learning to Play the Ukelele
+
 ### R5D48 14th June 2018
 ### Image optimisation for Web performance.
 
