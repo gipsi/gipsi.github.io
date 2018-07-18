@@ -74,11 +74,13 @@ I've started a plan with an html document in Notepad++.  Yesterday I started lea
 
 ## One million women to tech - DIY track
 
-I missed the onboarding during a sultry heatwave world cup weekend but managed to navigate through Facebook groups, Twitter, Youtube and emails to watch a replay of the webinar.  Inspired I caught up with the first weeks lessons by Tuesday night and so here I am Wednesday afternoon feeling chuffed at getting Python to do a calculation on my laptop in Powershell!  
+I missed the onboarding during a sultry heatwave World Cup weekend but managed to navigate through Facebook groups, Twitter, Youtube and emails to watch a replay of the webinar.  Inspired I caught up with the first weeks lessons by Tuesday night. So here I am Wednesday afternoon feeling chuffed at getting Python to do a calculation on my laptop in Powershell!  
 
 ![python](media/powershell.jpg)
 
-The transcript of the lessons here on GitHub is great but I did get stuck when python wasn't recognised in Powershell or the Windows basic command prompt.  After some unfruitful Python help pages and stackoverflow searching I skipped ahead to [Learn Python the HardWay](https://learnpythonthehardway.org/python3/ex0.html) which I know has thorough installation guide for newbs. Indeed I had to uninstall and start again, this time checking the PATH box which I'd left unchecked. Great! Python was summoned in the shell. However my calc.py file still didn't work. This time the [Python FAQ's](https://docs.python.org/3/faq/windows.html) helped and I sorted out the file address.
+The transcript of the lessons here on GitHub is great but I did get stuck when python wasn't recognised in Powershell or the Windows basic command prompt.  After some unfruitful Python help pages and stackoverflow searching I skipped ahead to [Learn Python the HardWay](https://learnpythonthehardway.org/python3/ex0.html) which I know has thorough installation guide for newbs. Indeed I had to uninstall and start again, this time checking the PATH box which I'd left unchecked. Cool! Python was summoned in the shell. However my calc.py file still didn't work. This time the [Python FAQ's](https://docs.python.org/3/faq/windows.html) helped and I sorted out the file address.  I moved the py-programs and web-projects folders from the desktop to the users folder and cd'd to py-programs.
+
+Note! The prompt ruby is a nice little tip about lessons origins of Programming with Ruby. 
 
 
 
