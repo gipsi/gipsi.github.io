@@ -49,7 +49,7 @@ Links: to [@codewisdom](https://twitter.com/CodeWisdom) on Twitter, and about
 
 > I think when you have a lot of jumbled up ideas they come together slowly over a period of several years ~ [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee)
 
-## #100DaysofCode Journal - Restart - Round Five
+## #[100DaysofCode Journal](100daysofcodelog.md) - Restart - Round Five
 
 **[@gipsitana on Twitter](https://twitter.com/gipsitana)** 
 
