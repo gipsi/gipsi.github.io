@@ -53,14 +53,14 @@ Links: to [@codewisdom](https://twitter.com/CodeWisdom) on Twitter, and about
 
 **[@gipsitana on Twitter](https://twitter.com/gipsitana)** 
 
-## HTML/CSS/JavaScript
+## HTML/CSS/JavaScript ... and Python
 
 Frontend Web Development
 
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
  
->## #100daysofCode R5D1
+## #100daysofCode R5D1
 ## #1mwtt #SummerofCode  D1
 
 I took summer break when I got to halfway through round 5 day 50ish of coding every day and have been focussing on making art.  Digital images with an Android phone camera, photo editor, Pixl andr Pixabay through May and June and watercolour painting in July.  I post the stuff I do on [Instagram](https://www.instagram.com/gipsitana/).
