@@ -78,5 +78,7 @@ I missed the onboarding during a sultry heatwave world cup weekend but managed t
 
 ![python](media/powershell.jpg)
 
+The transcript of the lessons here on GitHub is great but I did get stuck when python wasn't recognised in Powershell or the Windows basic command prompt.  After some unfruitful Python help pages and stackoverflow searching I skipped ahead to [Learn Python the HardWay](https://learnpythonthehardway.org/python3/ex0.html) which I know has thorough installation guide for newbs. Indeed I had to uninstall and start again, this time checking the PATH box which I'd left unchecked. Great! Python was summoned in the shell. However my calc.py file still didn't work. This time the [Python FAQ's](https://docs.python.org/3/faq/windows.html) helped and I sorted out the file address.
+
 
 
