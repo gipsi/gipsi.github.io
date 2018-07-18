@@ -45,7 +45,7 @@ Links: to [@codewisdom](https://twitter.com/CodeWisdom) on Twitter, and about
 [Nicholas Negroponte](https://en.wikipedia.org/wiki/Nicholas_Negroponte) at Wikipedia.
 
 
-# Gipsi's blog about learning to code
+# A blog about learning to code
 
 > I think when you have a lot of jumbled up ideas they come together slowly over a period of several years ~ [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee)
 
@@ -74,9 +74,9 @@ I've started a plan with an html document in Notepad++.  Yesterday I started lea
 
 ## One million women to tech - DIY track
 
-I missed the onboarding during a sultry heatwave world cup weekend but managed to navigate through Facebook groups, Twitter, Youtube and emails to watch a replay of the webinar.  Inspired I caught up with the first weeks lessons by Tuesday night and so here I am Wednesday afternoon feeling chuffed at getting Python to work on my laptop!  
+I missed the onboarding during a sultry heatwave world cup weekend but managed to navigate through Facebook groups, Twitter, Youtube and emails to watch a replay of the webinar.  Inspired I caught up with the first weeks lessons by Tuesday night and so here I am Wednesday afternoon feeling chuffed at getting Python to do a calculation on my laptop in Powershell!  
 
-
+![python](media/powershell.jpg)
 
 
 
