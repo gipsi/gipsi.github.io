@@ -59,3 +59,24 @@ Frontend Web Development
 
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
+ 
+>## #100daysofCode R5D1
+## #1mwtt #SummerofCode  D1
+
+I took summer break when I got to halfway through round 5 day 50ish of coding every day and have been focussing on making art.  Digital images with an Android phone camera, photo editor, Pixl andr Pixabay through May and June and watercolour painting in July.  I post the stuff I do on [Instagram](https://www.instagram.com/gipsitana/).
+
+## CNC2018 Code More
+
+I've been structuring the way I think about coding, planning a website with the second CodeNewbie challenge this year.
+I've started a plan with an html document in Notepad++.  Yesterday I started learning Trello boards.
+
+> "The hardest part of coding more isn’t the coding — it’s finding a system and structure that fits into your busy life. We’ll help you set goals, create a roadmap, find a schedule, and, most importantly, hold you accountable to reaching your coding goals."
+
+## One million women to tech - DIY track
+
+I missed the onboarding during a sultry heatwave world cup weekend but managed to navigate through Facebook groups, Twitter, Youtube and emails to watch a replay of the webinar.  Inspired I caught up with the first weeks lessons by Tuesday night and so here I am Wednesday afternoon feeling chuffed at getting Python to work on my laptop!  
+
+
+
+
+
