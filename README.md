@@ -38,13 +38,13 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-<!--
+
 > ![programming](media/programming1.jpg)
 
 Links: to [@codewisdom](https://twitter.com/CodeWisdom) on Twitter, and about
 [Nicholas Negroponte](https://en.wikipedia.org/wiki/Nicholas_Negroponte) at Wikipedia.
--->
-![wilderness](media/wilderness-blue.jpg)
+
+
 # A blog about learning to code
 
 > I think when you have a lot of jumbled up ideas they come together slowly over a period of several years ~ [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee)
@@ -60,14 +60,12 @@ Frontend Web Development
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 
-
 ## #100daysofCode R5D4
 Made css-grid repo for watercolour painting challenge.
 [waterpaint2018](https://gipsi.github.io/waterpaint2018/)
 ## #1mwtt #SummerofCode  D4
 Revisiting some of [Learn to program](https://pine.fm/LearnToProgram/chap_00.html) by Chris Pine
 and the sweetness of some #python [syntactic sugar](https://en.wikipedia.org/wiki/Syntactic_sugar).
-
 
 ## #100daysofCode R5D3
 ## #1mwtt #SummerofCode  D3 
