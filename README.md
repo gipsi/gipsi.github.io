@@ -59,6 +59,29 @@ Frontend Web Development
 
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
+
+## #100daysofCode R5D3
+## #1mwtt #SummerofCode  D3 
+
+Loops and arrays, if and sorted.
+
+The year 2038 problem
+
+Arithmetical calculations, integer overflow and the end of time. 
+
+A new GitHub repo for my Summer of Code DIY notes.
+
+Discord yay!
+
+Practicing ```python calc.py``` in the command line. 
+
+Gamification for non-profits.
+
+## #100daysofCode R5D2
+## #1mwtt #SummerofCode  D2
+Watched Video lecture about combining strings and numbers, assigning values to variables
+
+
  
 ## #100daysofCode R5D1
 ## #1mwtt #SummerofCode  D1
