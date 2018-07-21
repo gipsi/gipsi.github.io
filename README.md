@@ -44,7 +44,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 Links: to [@codewisdom](https://twitter.com/CodeWisdom) on Twitter, and about
 [Nicholas Negroponte](https://en.wikipedia.org/wiki/Nicholas_Negroponte) at Wikipedia.
 -->
-
+![wilderness](media/wilderness-blue.jpg)
 # A blog about learning to code
 
 > I think when you have a lot of jumbled up ideas they come together slowly over a period of several years ~ [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee)
