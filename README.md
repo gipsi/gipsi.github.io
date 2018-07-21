@@ -60,6 +60,15 @@ Frontend Web Development
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 
+
+## #100daysofCode R5D4
+Made css-grid repo for watercolour painting challenge.
+[waterpaint2018](https://gipsi.github.io/waterpaint2018/)
+## #1mwtt #SummerofCode  D4
+Revisiting some of [Learn to program](https://pine.fm/LearnToProgram/chap_00.html) by Chris Pine
+and the sweetness of some #python [syntactic sugar](https://en.wikipedia.org/wiki/Syntactic_sugar).
+
+
 ## #100daysofCode R5D3
 ## #1mwtt #SummerofCode  D3 
 
