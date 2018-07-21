@@ -57,7 +57,7 @@ Links: to [@codewisdom](https://twitter.com/CodeWisdom) on Twitter, and about
 
 ## HTML/CSS/JavaScript ... and Python
 
-Frontend Web Development
+Web Development
 
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
