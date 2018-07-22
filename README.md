@@ -80,7 +80,7 @@ Carefuly went through what I learned in this weeks lessons and wrote some python
   bestnumber = input('Enter your favourite number: ')
   print('Perhaps a better number is?', int(bestnumber) + 1)
 ```
-
+Started using the interpreter ```>>>``` as well as ```print()``` from file
 
 ## #100daysofCode R5D4
 Made css-grid repo for watercolour painting challenge.
