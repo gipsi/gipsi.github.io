@@ -62,6 +62,26 @@ Web Development
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 
+
+## Error messages are my friends
+![cmd-and-pomodoro](media/pom-py.jpg)
+
+## #100daysofCode R5D5
+## #1mwtt #SummerofCode  D4
+
+Carefuly went through what I learned in this weeks lessons and wrote some python code:
+```
+  name1 = input('Enter your first name: ')
+  name2 = input('Enter your middle name: ')
+  name3 = input('Enter your last name: ')
+  print('Hello', name1 + ' ' + name2 + ' ' + name3)
+```
+```
+  bestnumber = input('Enter your favourite number: ')
+  print('Perhaps a better number is?', int(bestnumber) + 1)
+```
+
+
 ## #100daysofCode R5D4
 Made css-grid repo for watercolour painting challenge.
 [waterpaint2018](https://gipsi.github.io/waterpaint2018/)
