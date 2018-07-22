@@ -1,4 +1,11 @@
 <!--- [comment]: <> (This is a comment, it will not be included) --->
+
+![wilderness](media/wilderness-blue.jpg)
+
+# A blog about learning to code
+
+> I think when you have a lot of jumbled up ideas they come together slowly over a period of several years ~ [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee)
+
 ## *Welcome to (Gipsi's) GitHub Pages
  
 You can use the [editor on GitHub](https://github.com/gipsi/gipsi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -45,11 +52,6 @@ Links: to [@codewisdom](https://twitter.com/CodeWisdom) on Twitter, and about
 [Nicholas Negroponte](https://en.wikipedia.org/wiki/Nicholas_Negroponte) at Wikipedia.
 
 -->
-![wilderness](media/wilderness-blue.jpg)
-
-# A blog about learning to code
-
-> I think when you have a lot of jumbled up ideas they come together slowly over a period of several years ~ [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee)
 
 ## #[100DaysofCode Journal](100daysofcodelog.md) - Restart - Round Five
 
