@@ -86,6 +86,8 @@ Learning #python the hard way
 ### #CNC2018 Code More 
 Mission 3 Sorting out the times and workspace where I can focus and code best.
 
+[myspace-coding-legacy](https://news.codecademy.com/myspace-coding-legacy/)
+
 ## Error messages are my friends
 ![cmd-and-pomodoro](media/pom-py.jpg)
 
