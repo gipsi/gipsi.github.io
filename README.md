@@ -64,10 +64,16 @@ Web Development
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 
-## Looping, breaks and solving problems.
+# More Loops .
+## #100daysofCode R5D8
+## #1mwtt #SummerofCode D8 
+Caught up with the SOC video lectures, Friday's one was a surprise and very uplifting.
+Not much time left to code but I did do some tinkering with a while loop, quotes and escape character.
+
+
+## Coding more
 ## #100daysofCode R5D7
 ## #1mwtt #SummerofCode  D7
-
 Watched the SOC replay for yesterday then updated the GitHub ToolKitten fork and went back to Day four lecture to follow along with the loop and while loop and break statement coding.  I lost some code in the editor, not sure how and after following along with the no copy pasting rule it feels like I'm going slow.  Still nothing seems to work first time.  I have to check and check again.  I even got into an infinite loop of zeros in the shell which flustered me a bit but the computer didn't blow up, I exited the shell with the x in the top right corner, rebooted python and everything was fine again.
 
 [My day 4 code lesson notes in a python file](https://github.com/gipsi/summer-of-code/blob/master/wk1-d4.py)
