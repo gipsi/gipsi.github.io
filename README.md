@@ -65,8 +65,8 @@ Web Development
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 
 # More Loops .
-## #100daysofCode R5D8
-## #1mwtt #SummerofCode D8 
+## #100daysofCode R5D8/9
+## #1mwtt #SummerofCode D8/9 
 Caught up with the SOC video lectures, Friday's one was a surprise and very uplifting.
 Not much time left to code but I did do some tinkering with a while loop, quotes and escape character.
 
