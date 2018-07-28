@@ -64,7 +64,7 @@ Web Development
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 
-# Hello 99 Bottles
+# Hello, 99 Bottles!
 ## #100daysofCode R5D10
 ## #1mwtt #SummerofCode D10
 
@@ -130,7 +130,13 @@ NEXT Bottle
 ```
 ref:   [wikipedia](https://en.wikipedia.org/wiki/99_Bottles_of_Beer)
 
+### links:
 
+- [99 bottles of beer: one program in 1500 variations](http://www.99-bottles-of-beer.net/)
+- [99 bottles of beer: Rosetta code](https://rosettacode.org/wiki/99_Bottles_of_Beer)
+- [99 bottles of beer test](https://en.wikipedia.org/wiki/Wikipedia:99_Bottles_of_Beer_test)
+- The FizzBuzz test and [Why can't progrmmers.. program](https://blog.codinghorror.com/why-cant-programmers-program/)
+- [Programming Puzzles & Code Golf](https://codegolf.stackexchange.com/questions/2/99-bottles-of-beer)
 
 # More Loops .
 ## #100daysofCode R5D8/9
