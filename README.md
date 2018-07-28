@@ -152,11 +152,10 @@ Watched the SOC replay for yesterday then updated the GitHub ToolKitten fork and
 
 [My day 4 code lesson notes in a python file](https://github.com/gipsi/summer-of-code/blob/master/wk1-d4.py)
 
-### Interesting links:
+### Links:
 
-[A-seven-step-approach-to-solving-programming-problems](https://www.coursera.org/lecture/duke-programming-web/a-seven-step-approach-to-solving-programming-problems-AEy5M)
-
-[Dont-be-a-junior-developer-the-roadmap](https://hackernoon.com/dont-be-a-junior-developer-the-roadmap-9fde5cf384bb)
+- [A-seven-step-approach-to-solving-programming-problems](https://www.coursera.org/lecture/duke-programming-web/a-seven-step-approach-to-solving-programming-problems-AEy5M)
+- [Dont-be-a-junior-developer-the-roadmap](https://hackernoon.com/dont-be-a-junior-developer-the-roadmap-9fde5cf384bb)
 
 ## Coding more
 ## #100daysofCode R5D6
