@@ -64,6 +64,74 @@ Web Development
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 
+# Hello 99 Bottles
+## #100daysofCode R5D10
+## #1mwtt #SummerofCode D10
+
+## Programming notes 
+
+```
+# I don't know the 99 bottles song
+# I know the 10 green bottles one
+
+# look it up
+
+# http://www.99-bottles-of-beer.net/
+
+# for quant in range(00, 0, -1):
+#    if quant > 1:
+#       print (quant, "bottles of beer on the wall,", quant, "bottles of beer.")
+#       if quant > 2:
+#          suffix = str(quant - 1) + " bottles of beer on the wall."
+#       else:
+# 	     suffix = "1 bottle of beer on the wall."
+# 	elif quant == 1:
+# 	   print ("1 bottle of beer on the wall, 1 bottle of beer.")
+# 	   suffix = 'no more beer on the wall!'
+# 	print ("Take one down, pass it around,", suffix)
+# 	print ("--")
+	
+# nope python 2 - tried to convert but:
+
+# TabError: inconsistent use of tabs and spaces in indentation - line 235
+
+# https://rosettacode.org/wiki/99_Bottles_of_Beer/Python#Using_a_generator_expression_.28Python_3.29
+
+# This code worked when I got the spacing right!
+ 
+def sing(b, end):
+    print(b or 'No more','bottle'+('s' if b-1 else ''), end)
+ 
+for i in range(99, 0, -1):
+    sing(i, 'of beer on the wall,')
+    sing(i, 'of beer,')
+    print('Take one down, pass it around,')
+    sing(i-1, 'of beer on the wall.\n')
+	
+# the "Hello World" of programming paradigms
+```
+### 99 bottles in computer science
+
+> The [computer scientist](https://en.wikipedia.org/wiki/Computer_scientist) [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) proved that the song has a [complexity](https://en.wikipedia.org/wiki/Time_complexity) of                         O         (         log         ⁡         N         )                 {\displaystyle O(\log N)}    ![O(\log N)](https://wikimedia.org/api/rest_v1/media/math/render/svg/14eea297b4387decf341763c39dc038e05744272) in his [in-joke](https://en.wikipedia.org/wiki/In-joke)-article "[The Complexity of Songs](https://en.wikipedia.org/wiki/The_Complexity_of_Songs)". 
+
+> Numerous computer programs exist to output the lyrics to the song. This is analogous to ["Hello, World!" programs](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program), with the addition of a [loop](https://en.wikipedia.org/wiki/Control_flow#Loops).  As with "Hello World!", this can be a practice exercise for those  studying computer programming, and a demonstration of different [programming paradigms](https://en.wikipedia.org/wiki/Programming_paradigm) dealing with looping constructs and syntactic differences between programming languages within a paradigm. 
+
+> 
+>
+> The program has been written in over 1500 different programming languages.[[6\]](https://en.wikipedia.org/wiki/99_Bottles_of_Beer#cite_note-6) 
+
+> A simple example using classical [BASIC](https://en.wikipedia.org/wiki/BASIC) syntax: 
+
+```
+FOR Bottle = 100 TO 1 STEP -1
+ PRINT STR(Bottle) +" bottles of beer on the wall, "+ STR(Bottle) +" bottles of beer"
+ PRINT "Take one down and pass it around, "+ STR(Bottle-1) +" bottles of beer on the wall"
+NEXT Bottle
+```
+ref:   [wikipedia](https://en.wikipedia.org/wiki/99_Bottles_of_Beer)
+
+
+
 # More Loops .
 ## #100daysofCode R5D8/9
 ## #1mwtt #SummerofCode D8/9 
