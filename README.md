@@ -64,6 +64,41 @@ Web Development
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 
+## Install Fest weekend
+
+### Pip, Jupyter notebook and NLTK
+
+Sunday 29th July, 2018
+
+#### The weather
+
+I started this install fest on Friday as 50 days of heatwave finally broke down with  mamatus storm clouds blanketing the sky and effectively concealing the lunar eclipse.
+
+Now (by Sunday lunchtime) it's raining steadily on a cool Atlantic wind, trees are flinging great drips against the windows and noisy magpies sound annoyed.
+
+#### Modules and packages
+
+How to access code that you saved in other files.
+
+[Three ways to import modules](https://github.com/gipsi/summer-of-code/blob/master/wk2-d4.py)
+
+Sharing:
+
+[Installing Python Modules](https://docs.python.org/3/installing/index.html#basic-usage)
+
+
+#### The Install Fest
+
+##### Tab proliferation - Me too!
+
+Ilona Budapesti's remark sums up well the theme of this weekend [#SummerOfCode](https://www.youtube.com/watch?v=5siljHaRF64) project.
+
+- ```pip	``` [pip installs packages](https://pypi.org/project/pip/)
+- [Jupyter Notebook](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html)
+- [NLTK](http://www.nltk.org/) natural language toolkit
+
+I opened so many tabs getting this lot to work, learning much about  navigation, deciphering errors whilst trying to keep things light and simple.  When given the choice I decided to go with the ```pip``` installation route for the Jupyter notebook rather than downloading Anaconda.  This means I payed more attention to file paths which is something I'm still keeping an eye on and indeed there were some issues when trying to access NLTK in Jupyter.   Lots of practice with the command line - terminal - bash - shell - prompt, watching videos confirms it's not just me who cant decide what to call it.
+
 # Hello, 99 Bottles!
 ## #100daysofCode R5D10
 ## #1mwtt #SummerofCode D10
