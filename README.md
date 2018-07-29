@@ -75,7 +75,7 @@ Sunday 29th July, 2018
 
 #### The weather
 
-I started this install fest on Friday as 50 days of heatwave finally broke down with  [mammatus](https://aviation.stackexchange.com/questions/30484/why-is-the-mammatus-cloud-formation-so-dangerous) storm clouds blanketing the sky and effectively concealing the [lunar eclipse](https://en.wikipedia.org/wiki/July_2018_lunar_eclipse) The eclipse occurred simultaneously with the [perihelic opposition of Mars](https://en.wikipedia.org/wiki/Orbit_of_Mars#Oppositions), a coincidence that happens once every 25,000 years.
+I started this install fest on Friday as 50 days of heatwave finally broke down with  [mammatus](https://aviation.stackexchange.com/questions/30484/why-is-the-mammatus-cloud-formation-so-dangerous) storm clouds blanketing the sky and effectively concealing the [lunar eclipse](https://en.wikipedia.org/wiki/July_2018_lunar_eclipse). The eclipse occurred simultaneously with the [perihelic opposition of Mars](https://en.wikipedia.org/wiki/Orbit_of_Mars#Oppositions), a coincidence that happens once every 25,000 years.
 
 Now (by Sunday lunchtime) it's raining steadily on a cool Atlantic wind, trees are flinging great drips against the windows and noisy magpies sound annoyed.
 
