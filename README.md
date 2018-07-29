@@ -64,8 +64,8 @@ Web Development
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 
-## #100daysofcode R5D11
-## #summerofcode D11
+#### #100daysofcode R5D11
+#### #summerofcode D11
 
 ## Install Fest weekend
 
@@ -102,7 +102,7 @@ Ilona Budapesti's remark sums up well the theme of this weekend [#SummerOfCode](
 
 I opened so many tabs getting this lot to work, learning much about  navigation, deciphering errors whilst trying to keep things light and simple.  When given the choice I decided to go with the ```pip``` installation route for the Jupyter notebook rather than downloading Anaconda.  This means I payed more attention to file paths which is something I'm still keeping an eye on and indeed there were some issues when trying to access NLTK in Jupyter.   Lots of practice with the command line - terminal - bash - shell - prompt, watching videos confirms it's not just me who cant decide what to call it.
 
-Link:
+#### Link:
 
 [Pythonic perambulations.  Installing python packages from a Jupyter notebook](https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/)
 
