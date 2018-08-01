@@ -64,6 +64,29 @@ Web Development
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 
+#### #100daysofcode R5D13
+#### #1mwtt #summerofcode D13
+
+## Real programming:
+
+Is testing out what you write to see if it behaves the way you want.
+
+[Today's code](https://github.com/gipsi/summer-of-code/blob/master/wk3-d1.ipynb)
+
+
+
+#### #100daysofcode R5D12
+#### #1mwtt #summerofcode D12
+
+## NLTK Python and NLP - Natural language processing
+
+I like to watch the tutorial videos and absorbing the concepts before coding along.  This weekend particularly I found that
+getting setup and ready with the tools makes it easier to focus on the code.
+
+#### Link:
+[Single source of truth](https://en.wikipedia.org/wiki/Single_source_of_truth)
+
+ 
 #### #100daysofcode R5D11
 #### #1mwtt #summerofcode D11
 
