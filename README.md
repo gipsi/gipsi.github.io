@@ -69,7 +69,7 @@ Web Development
 
 ## Real programming:
 
-Is testing out what you write to see if it behaves the way you want.
+"Is testing out what you write to see if it behaves the way you want." Ilona Budapesti
 
 [Today's code](https://github.com/gipsi/summer-of-code/blob/master/wk3-d1.ipynb)
 
