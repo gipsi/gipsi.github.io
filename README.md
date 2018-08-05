@@ -63,6 +63,29 @@ Links: to [@codewisdom](https://twitter.com/CodeWisdom) on Twitter, and about
 
 ### Current coding interests: web development, machine learning and data science
 
+#### Sunday 5th August 2018
+#### #100daysofcode R5D22
+#### #1mwtt #summerofcode D22
+
+#### Weekly review
+
+This Summer of Code is covering a lot of ground and I have to decide what not to do to keep up.  The hot weather came back on Monday and my brain doesn't feel up to thinking and focusing so although I've tinkered a little every day I reserved most of the 'homework' for the weekend.  
+
+Walking is more comfortable than sitting still on the hottest days and it was good to go to the seaside and watch a great barge full of rock arrive from Cornwall.  Seagulls and children splashing in waves swooshing through pebbles, the chug of a fishing boat and the squeal of fairground riders, a cool salt breeze soundscape.
+
+Watching the video lectures and thinking about it works well for me then going back and doing the code.  I have to stop the videos till I get everything to work and although I still haven't finished day 1 of week 3 it feels like a breakthrough in 'getting it'.  
+
+## Lexical diversity
+
+Today's [Jupyter code notes](https://github.com/gipsi/summer-of-code/blob/master/wk3-d1-ch0-01.ipynb)
+
+ ### Links:
+
+[The human insights missing from big data, Ted Talk by Tricia Wiang](https://www.youtube.com/watch?v=pk35J2u8KqY)
+
+>   On Day 4  @ilonabudapesti dropped 'big data is just junk' this talk explains how:
+[How small are our big data](https://www.youtube.com/watch?v=y65n0WEZ6KY&index=16&list=PL940Wy-AWgfalgaKa7e2iSECkQgK8oCO8)
+
 #### #100daysofcode R5D18/21
 #### #1mwtt #summerofcode D18/21
 
