@@ -1,5 +1,7 @@
 <!--- [comment]: <> (This is a comment, it will not be included) --->
 
+> "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
+
 ![wilderness](media/wilderness-blue.jpg)
 
 # A blog about learning to code
@@ -59,10 +61,23 @@ Links: to [@codewisdom](https://twitter.com/CodeWisdom) on Twitter, and about
 
 ## HTML/CSS/JavaScript ... and Python
 
-Web Development
+### Current coding interests: Web Development, machine learning and data science
 
+#### #100daysofcode R5D18/21
+#### #1mwtt #summerofcode D18/21
 
-> "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
+> The concept of input and output where you input then check/test the output.
+
+>  Python has powerful, fast, smooth foreloops.
+
+### NLTK modules: like - which car you want to drive?
+
+Machine learning built in
+
+Tokenisation: breaking big text into words etc...
+
+20 hours per chapter of NLP book
+
 
 #### #100daysofcode R5D14/17
 #### #1mwtt #summerofcode D14/17
