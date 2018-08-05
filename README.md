@@ -64,6 +64,15 @@ Web Development
 
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 
+#### #100daysofcode R5D14/17
+#### #1mwtt #summerofcode D14/17
+
+## Concordance, similarity and dispersion plots
+
+Installed numpy and matplotlib with pip in powershell. I found this after skimming through quite a few docs about installing python modules with pip ```python -m pip install --user numpy matplotlib``` at  [scipy.org](https://scipy.org/install.html)
+
+Today's code in [Jupyter notebook](https://github.com/gipsi/summer-of-code/blob/master/wk3-d1-ch1.ipynb)
+
 #### #100daysofcode R5D13
 #### #1mwtt #summerofcode D13
 
