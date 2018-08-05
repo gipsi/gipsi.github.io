@@ -61,14 +61,14 @@ Links: to [@codewisdom](https://twitter.com/CodeWisdom) on Twitter, and about
 
 ## HTML/CSS/JavaScript ... and Python
 
-### Current coding interests: Web Development, machine learning and data science
+### Current coding interests: web development, machine learning and data science
 
 #### #100daysofcode R5D18/21
 #### #1mwtt #summerofcode D18/21
 
 > The concept of input and output where you input then check/test the output.
 
->  Python has powerful, fast, smooth foreloops.
+>  Python has powerful, smooth, fast, foreloops.
 
 ### NLTK modules: like - which car you want to drive?
 
