@@ -9,6 +9,17 @@
 > I think when you have a lot of jumbled up ideas they come together slowly over a period of several years ~ [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee)
 
 ## *Welcome to (Gipsi's) GitHub Pages
+
+### 11/10/2018 100DaysofCode Day 3
+[Digital signal processing](http://www.dspguide.com/) and
+[Digital sound processing tutorial for the brain dead](http://yehar.com/blog/?p=121)
+
+### 10/10/2018 100DaysofCode Day 2
+Creative coding for audio visuals.  Lots of exploring, courses and tutorials for Max, Puredata,[Dan Wilcox](https://www.youtube.com/watch?v=P5jE2V5i718&index=2&list=PLFDAFB17FB40E8161) TidalCycles,[Alex Maclean]() Sonic Pi [Sam Aaron]().
+
+###  09/10/2018 100DaysofCode Day 1
+Hacktoberfest: open source [My 6 contributions](https://hacktoberfest.digitalocean.com/stats/gipsi)
+Looked at quite a few repos to see what might be useful.  Yesterday I went through about 8 Hugo blog tutorials thinking Of contributing to a website, then decided that was a bit ambitious. So stuck to things I understand.  Like typos, spelling and whitespace.  My confidence in reading and understanding what code is is growing quicker than the writing of it.
  
 You can use the [editor on GitHub](https://github.com/gipsi/gipsi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
