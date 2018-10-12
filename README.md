@@ -15,7 +15,7 @@
 [Digital sound processing tutorial for the brain dead](http://yehar.com/blog/?p=121)
 
 ### 10/10/2018 100DaysofCode Day 2
-Creative coding for audio visuals.  Lots of exploring, courses and tutorials for Max, Puredata,[Dan Wilcox](https://www.youtube.com/watch?v=P5jE2V5i718&index=2&list=PLFDAFB17FB40E8161) TidalCycles,[Alex Maclean]() Sonic Pi [Sam Aaron]().
+Creative coding for audio visuals.  Lots of exploring, courses and tutorials for Puredata [Dan Wilcox robotcowboy](https://www.youtube.com/watch?v=P5jE2V5i718&index=2&list=PLFDAFB17FB40E8161) TidalCycles [Yaxu](https://yaxu.org/) Sonic Pi [Sam Aaron](https://sonic-pi.net/).
 
 ###  09/10/2018 100DaysofCode Day 1
 Hacktoberfest: open source [My 6 contributions](https://hacktoberfest.digitalocean.com/stats/gipsi)
