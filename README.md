@@ -10,6 +10,10 @@
 
 ## *Welcome to (Gipsi's) GitHub Pages
 
+### 12/10/2018 100DaysofCode Day 4 
+I made an ASCII alpaca with an Android app called ASCII Cam.
+
+
 ### 11/10/2018 100DaysofCode Day 3
 [Digital signal processing](http://www.dspguide.com/) and
 [Digital sound processing tutorial for the brain dead](http://yehar.com/blog/?p=121)
