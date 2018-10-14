@@ -10,6 +10,10 @@
 
 ## *Welcome to (Gipsi's) GitHub Pages
 
+### 14/10/2018 100DaysofCode Day 5
+
+I added some CSS to my new neocities website.  [Ground floor](https://groundfloor.neocities.org/text.html) - out-of-the-box styling framework.
+
 ### 13/10/2018 100DaysofCode Day 4
 
 My own new [#neocities website](https://neocities.org/site/gipsi) (one hour on an ipad) https://gipsi.neocities.org
