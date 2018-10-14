@@ -12,7 +12,7 @@
 
 ### 13/10/2018 100DaysofCode Day 4
 
-My own new #neocities website (one hour on an ipad) https://gipsi.neocities.org
+My own new [#neocities website](https://neocities.org/site/gipsi) (one hour on an ipad) https://gipsi.neocities.org
 
 ### 12/10/2018 100DaysofCode Day 3 
 I made an ASCII alpaca with an Android app called [ASCII Cam](https://play.google.com/store/apps/details?id=au.com.darkside.asciicamfree&hl=en_GB).
