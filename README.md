@@ -12,7 +12,7 @@
 
 ### 15/10/2018 100DaysofCode Day 6
 
-Updated my new website project with a CSS animated [moon button](https://codepen.io/chriscoyier/pen/GYOQNY) coded by Chris Coyier.  I tried it out with the version I keep on desktop before uploading to neocities.  Also read a some of Rune Madsen's [Programming Design Systems](https://programmingdesignsystems.com/)
+Updated my new website project with a CSS animated [moon button](https://codepen.io/chriscoyier/pen/GYOQNY) coded by Chris Coyier.  I tried it out with the version I keep on desktop before uploading to neocities.  Also read a some of Rune Madsen's [Programming Design Systems](https://programmingdesignsystems.com/) and [Hello Processing](https://hello.processing.org/) Hour of Code
 
 ### 14/10/2018 100DaysofCode Day 5
 
