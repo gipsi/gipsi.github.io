@@ -1,17 +1,29 @@
 <!--- [comment]: <> (This is a comment, it will not be included) --->
-
+<!---
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
-
+--->
 ![wilderness](media/wilderness-bw.jpg)
 
 # A blog about learning to code
 
 <!--- > I think when you have a lot of jumbled up ideas they come together slowly over a period of several years ~ [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) --->
-
+<!---
 > "The amateur software engineer is always in search of magic." - Grady Booch
 > via Programming Wisdom @CodeWisdom on Twitter 12:37 PM - 12 Oct 2018 
-
+--->
 ## *Welcome to (Gipsi's) GitHub Pages
+
+For this round of 100Daysof code I started making a new website - I plan to do something each day with what I've learnt so far and as I learn new things. I'm curious about what it will become! 
+https://gipsi.neocities.org/
+### 16/10/2018 100DaysofCode Day 7
+
+After exploring some of the other websites at neocities I saw a [free comments box](https:/.www.freecommentscript.com/) script and had a play with that, trying to figure out whether and what type of HTML tag it should go inside. After reading this blogpost on [Accessibility Landmarks](https://www.scottohara.me/blog/2018/03/03/landmarks.html) with this [demo](https://scottaohara.github.io/landmarks_demo/) page by Scott O'Hara I used a form tag.  
+
+Added some titles to the buttons so a another box comes up to say what they are on hover.
+
+Played a bit with [p5.js Web editor](https://editor.p5js.org/) in Firefox browser.
+
+Went down a rabbit hole of what the rss button does - and found Firefox is removing it December 2018.
 
 ### 15/10/2018 100DaysofCode Day 6
 
