@@ -10,9 +10,13 @@
 
 ## *Welcome to (Gipsi's) GitHub Pages
 
+### 15/10/2018 100DaysofCode Day 6
+
+Updated my new website project with a CSS animated [moon button](https://codepen.io/chriscoyier/pen/GYOQNY) coded by Chris Coyier.  I tried it out with the version I keep on desktop before uploading to neocities.  Also read a some of Rune Madsen's [Programming Design Systems](https://programmingdesignsystems.com/)
+
 ### 14/10/2018 100DaysofCode Day 5
 
-I added some CSS to my new neocities website.  [Ground floor](https://groundfloor.neocities.org/text.html) - out-of-the-box styling framework.
+I added some CSS to my new neocities website.  [Ground floor](https://groundfloor.neocities.org/text.html) - out-of-the-box styling framework. Reading [The Inner Light Theory of Consciousness: A scientific look at the human mind](http://www.dspguide.com/InnerLightTheory/Main.htm) by Steven W. Smith
 
 ### 13/10/2018 100DaysofCode Day 4
 
