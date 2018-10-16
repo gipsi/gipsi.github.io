@@ -14,7 +14,8 @@
 ## *Welcome to (Gipsi's) GitHub Pages
 
 For this round of 100Daysof code I started making a new website - I plan to do something each day with what I've learnt so far and as I learn new things. I'm curious about what it will become! 
-https://gipsi.neocities.org/
+[https://gipsi.neocities.org/](Up to Code)
+
 ### 16/10/2018 100DaysofCode Day 7
 
 After exploring some of the other websites at neocities I saw a [free comments box](https:/.www.freecommentscript.com/) script and had a play with that, trying to figure out whether and what type of HTML tag it should go inside. After reading this blogpost on [Accessibility Landmarks](https://www.scottohara.me/blog/2018/03/03/landmarks.html) with this [demo](https://scottaohara.github.io/landmarks_demo/) page by Scott O'Hara I used a form tag.  
