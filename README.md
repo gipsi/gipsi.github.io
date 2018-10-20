@@ -16,6 +16,13 @@
 For this round of 100Daysof code I started making a new website - I plan to do something each day with what I've learnt so far and as I learn new things. 
 I'm curious about what it will become! [Up to Code](https://gipsi.neocities.org/)
 
+### 19/10/2018 100DaysofCode Day 10
+
+Today I coded a sprite and put it up on the website. [Nervous sprite](https://gipsi.neocities.org/code/fractal.html)  
+Tinkered around with color gradient, buttons various CSS.  The editor in neocities gives lots of little warning signs which I went through correcting then, because it changes the way things look I went back through changing the way stuff looks again (e.g. it made the moon button huge).
+
+I only realised that the fractal page I did yesterday was keyboard only navigation after doing it ... then long time reading about how to make a touchscreen navigation.  Google classroom, lots of frameworks, responsive and adaptive design **mobile first**.
+
 ### 18/10/2018 100DaysofCode Day 9
 
 JavaScript interactive Mandelbrot fractal: [Fractal Dimension](https://gipsi.neocities.org/code/fractal-dimension/mandelbrot.html)
