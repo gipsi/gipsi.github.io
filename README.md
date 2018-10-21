@@ -16,6 +16,12 @@
 For this round of 100Daysof code I started making a new website - I plan to do something each day with what I've learnt so far and as I learn new things. 
 I'm curious about what it will become! [Up to Code](https://gipsi.neocities.org/)
 
+### 20/10/2018 100DaysofCode Day 11
+
+Some styling on the neocities website, nearly changed my mind about the colour. Read about colour schemes and stuff. 
+
+Started with [A11Y Styleguide](http://a11y-style-guide.com/style-guide/section-cards.html) then added [Ground Floor](https://gipsi.neocities.org/code/fractal.html) to fractal.html page.
+
 ### 19/10/2018 100DaysofCode Day 10
 
 Today I coded a sprite and put it up on the website. [Nervous sprite](https://gipsi.neocities.org/code/fractal.html)  
