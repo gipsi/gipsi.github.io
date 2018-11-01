@@ -2,7 +2,7 @@
 <!---
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 --->
-![wilderness](media/wilderness-bw.jpg)
+![wilderness](media/chaoticmath.gif)
 
 # A blog about learning to code
 
