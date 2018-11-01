@@ -2,7 +2,10 @@
 <!---
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 --->
-![wilderness](media/chaoticmath.gif)
+
+![wilderness](media/chaoticmath.gif)  
+
+  #Codevember 1 Infinity-light cube
 
 # A blog about learning to code
 
@@ -13,7 +16,7 @@
 --->
 ## *Welcome to (Gipsi's) GitHub Pages
 
-For this round of 100Daysof code I started making a new website - I plan to do something each day with what I've learnt so far and as I learn new things. 
+For this round of 100Daysofcode I started making a new website - I plan to do something each day with what I've learnt so far and as I learn new things. 
 I'm curious about what it will become! [Up to Code](https://gipsi.neocities.org/)
 
 ### 20/10/2018 100DaysofCode Day 11
