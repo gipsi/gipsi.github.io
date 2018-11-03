@@ -3,9 +3,17 @@
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 --->
 
-![wilderness](media/chaoticmath.gif)  
+![carrot-reflect heart](media/carrot-reflect.png)  
 
-  #Codevember 1 Infinity-light cube
+  #Codevember 03 Carrot-reflect heart
+
+![time-coral clock](media/time-coral.gif)  
+
+  #Codevember 02 Time-coral clock
+
+![infinity-light cube](media/chaoticmath.gif)  
+
+  #Codevember 01 Infinity-light cube
 
 # A blog about learning to code
 
