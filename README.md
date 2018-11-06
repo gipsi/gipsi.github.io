@@ -3,11 +3,11 @@
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 --->
 
-![eclipse-music rise](media/eclipse-music-rise.png)  
+![eclipse-music rise](media/eclipse-music-rise.gif)  
 
   #Codevember 05 eclipse-music-rise
 
-![sky-fragment bird](media/sky-fragment-bird.png)  
+![sky-fragment bird](media/sky-fragment-bird.gif)  
 
   #Codevember 04 sky-fragment bird
 
