@@ -2,6 +2,8 @@
 <!---
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 --->
+[#codevember repo](https://gipsi.github.io/codevember/)
+
 
 ![web-dune generation](media/web.png)  
 
@@ -11,7 +13,7 @@
 
   #Codevember 05 eclipse-music-rise
 
-![sky-fragment.gif](media/sky-fragment-bird.gif)  
+![sky-fragment bird](media/sky-fragment.gif)  
 
   #Codevember 04 sky-fragment bird
 
