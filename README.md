@@ -5,6 +5,14 @@
 [#codevember repo](https://gipsi.github.io/codevember/)
 
 
+![web-dune generation](media/20181108_211113.mp4)  
+
+  #Codevember 08 cat shadow flowers
+
+![web-dune generation](media/20181108_005952.mp4)  
+
+  #Codevember 07 sea pigment waves
+
 ![web-dune generation](media/web.png)  
 
   #Codevember 06 web-dune generation
