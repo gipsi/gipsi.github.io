@@ -12,7 +12,7 @@
 
   #Codevember 08 cat shadow flowers
 
-![sea-pigment waves](media/20181108_005952.mp4)  
+![sea-pigment waves](media/sea-waves.gif)  
 
   #Codevember 07 sea pigment waves
 
