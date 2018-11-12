@@ -4,7 +4,7 @@
 --->
 [#codevember repo](https://gipsi.github.io/codevember/)
 
-![apple-penumbra torus](https://gipsi.github.io/codevember/torus/index.html)  
+![apple-penumbra torus](media/torus.gif)  
 
   #Codevember 10 apple-penumbra torus
 
