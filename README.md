@@ -4,8 +4,7 @@
 --->
 [#codevember repo](https://gipsi.github.io/codevember/)
 
-![apple-penumbra torus](<p data-height="300" data-theme-id="35123" data-slug-hash="qQaQWG" data-default-tab="js,result" data-user="gipsi" data-pen-title="#codevember day 10 Make Torus Knot into apple" class="codepen">See the Pen <a href="https://codepen.io/gipsi/pen/qQaQWG/">#codevember day 10 Make Torus Knot into apple</a> by gipsi  (<a href="https://codepen.io/gipsi">@gipsi</a>) on <a href="https://codepen.io">CodePen</a>.</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>)  
+![apple-penumbra torus](https://gipsi.github.io/codevember/torus/index.html)  
 
   #Codevember 10 apple-penumbra torus
 
