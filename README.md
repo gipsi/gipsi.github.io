@@ -4,6 +4,10 @@
 --->
 [#codevember repo](https://gipsi.github.io/codevember/)
 
+![apple-penumbra torus](media/earthpenumbramoon.png)  
+
+  #Codevember 10 earth-penumbra eclipse
+
 ![apple-penumbra torus](media/torus.gif)  
 
   #Codevember 10 apple-penumbra torus
