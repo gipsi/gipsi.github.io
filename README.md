@@ -6,7 +6,7 @@
 
 ![black hole reveal](media/darkstar.gif)
 
-  #codevember 13 bread-art shredde
+  #codevember 13 black-hole reveal
 
 ![bread art shredder](media/bread.gif)
 
