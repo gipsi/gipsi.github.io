@@ -4,6 +4,15 @@
 --->
 [#codevember repo](https://gipsi.github.io/codevember/)
 
+![black hole reveal](media/darkstar.gif)
+
+  #codevember 13 bread-art shredde
+
+![bread art shredder](media/bread.gif)
+
+  #codevember 12 bread-art shredder
+
+
 ![apple-penumbra torus](media/earthpenumbramoon.png)  
 
   #Codevember 10 earth-penumbra eclipse
