@@ -4,11 +4,15 @@
 --->
 [#codevember repo](https://gipsi.github.io/codevember/)
 
+![coffee creme blend](media/coffee.gif)
+
+  #codevember 13 black-hole reveal
+
 ![black hole reveal](media/darkstar.gif)
 
   #codevember 13 black-hole reveal
 
-![bread art shredder](media/bread.gif)
+![bread art shredder](media/20181115_011950.mp4)
 
   #codevember 12 bread-art shredder
 
