@@ -4,15 +4,19 @@
 --->
 [#codevember repo](https://gipsi.github.io/codevember/)
 
+![emoji fire shadows](media/fire.gif)
+
+  #codevember 15 emoji-fire shadows
+
 ![coffee creme blend](media/coffee.gif)
 
-  #codevember 13 black-hole reveal
+  #codevember 14 coffee-creme blend
 
 ![black hole reveal](media/darkstar.gif)
 
   #codevember 13 black-hole reveal
 
-![bread art shredder](media/20181115_011950.mp4)
+![bread art shredder](media/breadshredder.gif)
 
   #codevember 12 bread-art shredder
 
