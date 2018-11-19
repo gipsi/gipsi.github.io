@@ -4,6 +4,10 @@
 --->
 [#codevember repo](https://gipsi.github.io/codevember/)
 
+![star light glimmer](media/star.gif)
+
+  #codevember 16 star-light glimmer
+
 ![emoji fire shadows](media/fire.gif)
 
   #codevember 15 emoji-fire shadows
