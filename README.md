@@ -4,6 +4,10 @@
 --->
 [#codevember repo](https://gipsi.github.io/codevember/)
 
+![crown colour change](media/crown.gif)
+
+  #codevember 17 crown colour change
+
 ![star light glimmer](media/star.gif)
 
   #codevember 16 star-light glimmer
