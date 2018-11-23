@@ -4,6 +4,10 @@
 --->
 [#codevember repo](https://gipsi.github.io/codevember/)
 
+![paper fold bird](media/20181123_030245.gif)
+
+  #codevember 18 paper fold bird
+
 ![crown colour change](media/crown.gif)
 
   #codevember 17 crown colour change
