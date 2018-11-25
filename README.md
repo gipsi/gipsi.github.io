@@ -4,6 +4,10 @@
 --->
 [#codevember repo](https://gipsi.github.io/codevember/)
 
+![pink sock stroll](media/20181125_010252.gif)
+
+  #codevember 20 pink sock stroll
+
 ![egg letter vessel](media/20181123_231415.gif)
 
   #codevember 19 egg letter vessel
