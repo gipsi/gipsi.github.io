@@ -4,9 +4,13 @@
 --->
 [#codevember repo](https://gipsi.github.io/codevember/)
 
+![skate flame fadein](media/20181126_055456.gif)
+
+  #codevember 20  skate flame fadein
+
 ![pink sock stroll](media/20181125_010252.gif)
 
-  #codevember 20 pink sock stroll
+  #codevember 20  sock moon stroll
 
 ![egg letter vessel](media/20181123_231415.gif)
 
