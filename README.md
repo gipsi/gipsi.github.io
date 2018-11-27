@@ -4,9 +4,13 @@
 --->
 [#codevember repo](https://gipsi.github.io/codevember/)
 
+![key flame shard](media/shards.png)
+
+  #codevember 22 key flame shard
+
 ![skate flame fadein](media/20181126_055456.gif)
 
-  #codevember 20  skate flame fadein
+  #codevember 21  skate flame fadein
 
 ![pink sock stroll](media/20181125_010252.gif)
 
