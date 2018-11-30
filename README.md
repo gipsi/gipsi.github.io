@@ -4,7 +4,7 @@
 --->
 [#codevember repo](https://gipsi.github.io/codevember/)
 
-![lollipop spiractal svg](media/spiractalomg.svg)
+![lollipop spiractal svg](media/spiractal.png)
 
   #codevember 23 lollipop spiractal svg
 
