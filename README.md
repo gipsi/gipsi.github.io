@@ -4,6 +4,10 @@
 --->
 [#codevember repo](https://gipsi.github.io/codevember/)
 
+![lollipop spiractal svg](media/spiractalomg.svg)
+
+  #codevember 23 lollipop spiractal svg
+
 ![key flame shard](media/shards.png)
 
   #codevember 22 key flame shard
