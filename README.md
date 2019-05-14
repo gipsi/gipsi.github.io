@@ -2,26 +2,20 @@
 <!---
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 --->
+# Welcome to (Gipsi's) GitHub Pages
 
+## A blog about learning to code
 
-# A blog about learning to code
-
-<!--- > I think when you have a lot of jumbled up ideas they come together slowly over a period of several years ~ [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) --->
-<!---
+ > I think when you have a lot of jumbled up ideas they come together slowly over a period of several years ~ [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) 
+<!--
 > "The amateur software engineer is always in search of magic." - Grady Booch
 > via Programming Wisdom @CodeWisdom on Twitter 12:37 PM - 12 Oct 2018 
---->
-## *Welcome to (Gipsi's) GitHub Pages
-
-For this round of 100Daysofcode I started making a new website - I plan to do something each day with what I've learnt so far and as I learn new things. 
-I'm curious about what it will become! [Up to Code](https://gipsi.neocities.org/)
-
-
+-->
 
 ---
-### stuff explaining this site
+### How this site works
  
-You can use the [editor on GitHub](https://github.com/gipsi/gipsi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/gipsi/gipsi.github.io/edit/master/README.md) to maintain and preview content for the website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
