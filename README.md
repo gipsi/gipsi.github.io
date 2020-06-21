@@ -2,7 +2,7 @@
 <!---
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 --->
-# Welcome to my GitHub Pages
+# Welcome to GitHub Pages
 
 ## A weblog about learning to code
 
