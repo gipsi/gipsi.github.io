@@ -4,7 +4,7 @@
 --->
 # Welcome to GitHub Pages
 
-## A weblog about learning to code
+
 
  > I think when you have a lot of jumbled up ideas they come together slowly over a period of several years ~ [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) 
 <!--
