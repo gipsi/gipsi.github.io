@@ -7,6 +7,13 @@
 ## 1st February 2021
 ## [#100DaysofCode Official Site](https://www.100daysofcode.com/)
 
+### Feb 3
+### Day 3 - GitHub - R5 #100DaysofCode
+
+An hour of Git refreshment.
+
+## [Developer Beginner](https://lab.github.com/curi-holdings/developer-beginner)- For associates new to contributing code, configuration, or other files to GitHub repositories.
+
 
 ### Feb 2
 ### Day 2 - R5 #100DaysOfCode 
