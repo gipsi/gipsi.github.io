@@ -12,7 +12,9 @@
 
 An hour of Git refreshment.
 
-## [Developer Beginner](https://lab.github.com/curi-holdings/developer-beginner)- For associates new to contributing code, configuration, or other files to GitHub repositories.
+[Developer Beginner](https://lab.github.com/curi-holdings/developer-beginner)- For associates new to contributing code, configuration, or other files to GitHub repositories.
+
+Read: [Culture Engineering](https://ben.straub.cc/2016/02/16/culture-engineering/) by Ben Straub
 
 
 ### Feb 2
