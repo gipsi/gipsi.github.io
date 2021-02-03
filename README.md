@@ -27,6 +27,8 @@ I'm taking HTML5 and CSS Fundamentals online with
 
 [W3Cx, HTML5 and CSS Fundamentals](https://www.edx.org/course/html5-and-css-fundamentals?utm_medium=social&utm_campaign=social-sharing-db&utm_source=twitter)
 
+Read: [I just don’t want to be a software developer anymore](https://medium.com/@melissamcewen/i-just-dont-want-to-be-a-software-developer-anymore-a371422069a1) by Melissa McEwen
+
 ### Feb 1
 ### Day 1 - R5 #100DaysofCode
 
