@@ -2,6 +2,30 @@
 <!---
 > "There is no problem so bad that you can't make it worse." [Chris Hadfield](https://www.youtube.com/watch?v=GplXBlTNO4A)
 --->
+
+# I'm publicly committing to #100DaysofCode 
+## [#100DaysofCode Official Site](https://www.100daysofcode.com/)
+
+
+### Feb 2
+### Day 2 - R5 #100DaysOfCode 
+
+Some revision of the basics.
+
+I'm taking HTML5 and CSS Fundamentals online with 
+@edxonline
+
+[W3Cx, HTML5 and CSS Fundamentals](https://www.edx.org/course/html5-and-css-fundamentals?utm_medium=social&utm_campaign=social-sharing-db&utm_source=twitter)
+
+### Feb 1
+### Day 1 - R5 #100DaysofCode
+
+Studying roadmap.
+
+[FreeCodeCamp, Web Developer Roadmap 2021](https://www.freecodecamp.org/news/how-to-learn-web-dev-in-2021-roadmap/)
+
+
+
 # Welcome to GitHub Pages
 
 
