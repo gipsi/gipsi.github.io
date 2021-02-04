@@ -7,6 +7,16 @@
 ## 1st February 2021
 ## [#100DaysofCode Official Site](https://www.100daysofcode.com/)
 
+### Feb 4
+### Day 4 - JS Bin - R5 #100DaysofCode
+
+Followed W3Cx HTML5.0x HTML5 and CSS Fundamentals module about tools.
+Had a play with online code editor, [The 'New' JS Bin](https://jsbin.com/welcome/1/edit)
+
+
+
+Read: [The Return and The Refactor](https://jsbin.com//blog/the-return-and-the-refactor/), JS Bin Blog - Remy Sharp
+
 ### Feb 3
 ### Day 3 - GitHub - R5 #100DaysofCode
 
@@ -18,7 +28,7 @@ Read: [Culture Engineering](https://ben.straub.cc/2016/02/16/culture-engineering
 
 
 ### Feb 2
-### Day 2 - R5 #100DaysOfCode 
+### Day 2 - W3Cx - R5 #100DaysOfCode 
 
 Some revision of the basics.
 
@@ -30,7 +40,7 @@ I'm taking HTML5 and CSS Fundamentals online with
 Read: [I just don’t want to be a software developer anymore](https://medium.com/@melissamcewen/i-just-dont-want-to-be-a-software-developer-anymore-a371422069a1) by Melissa McEwen
 
 ### Feb 1
-### Day 1 - R5 #100DaysofCode
+### Day 1 - FreeCodeCamp - R5 #100DaysofCode
 
 Studying roadmap.
 
