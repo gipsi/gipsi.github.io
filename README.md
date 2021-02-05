@@ -7,6 +7,14 @@
 ## 1st February 2021
 ## [#100DaysofCode Official Site](https://www.100daysofcode.com/)
 
+### Feb 5
+### Day 5 - CodePen - R5 #100DaysOfCode 
+
+Captain Anonymous on CodePen to practice,
+then fun browse around lots of fabulous Pens.
+
+Read: Pens on CodePen [Stand Still Stay Silent](https://codepen.io/smhigley/pen/VjaVpG) 
+
 ### Feb 4
 ### Day 4 - JS Bin - R5 #100DaysofCode
 
