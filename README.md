@@ -7,6 +7,13 @@
 ## 1st February 2021
 ## [#100DaysofCode Official Site](https://www.100daysofcode.com/)
 
+### Feb 6
+### Day 6 - VS Code - R5 #100DaysofCode 
+
+Today a W3cx guided tour round Visual Studio Code with some good tips for editing HTML, keyboard shortcuts, tag highlighting and how to find and install extensions. Went on to explore documentation and more features, customising the appearance to my own preference.
+
+Read: [VS Code Docs](https://code.visualstudio.com/docs)
+
 ### Feb 5
 ### Day 5 - CodePen - R5 #100DaysOfCode 
 
