@@ -7,6 +7,18 @@
 ## 1st February 2021
 ## [#100DaysofCode Official Site](https://www.100daysofcode.com/)
 
+### Feb 7
+
+### Day 7 - Character encoding - #100DaysofCode
+
+It is not enough to simply declare your encoding at the top of the web page. You have to ensure that your editor saves the file in UTF-8 also. 
+
+If a browser is unable to detect the character encoding used in a page, the content may be unreadable.
+
+What is encoding? [W3c](https://www.w3.org/International/questions/qa-what-is-encoding)
+
+Read: [MDN Web Docs](https://developer.mozilla.org/en-US/search?q=Character+encoding)
+
 ### Feb 6
 ### Day 6 - VS Code - R5 #100DaysofCode 
 
