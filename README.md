@@ -7,6 +7,19 @@
 ## 1st February 2021
 ## [#100DaysofCode Official Site](https://www.100daysofcode.com/)
 
+### Feb 8
+### Day 8  - Best Practices - #100daysofCode
+
+- Style guides
+- Checkers
+- Semantics
+- Reduce markup
+- Separation of concerns
+
+Learning from others mistakes.
+
+Read: The ninety-nine rule,  [Wikipedia](https://en.m.wikipedia.org/wiki/Ninety-ninety_rule)
+
 ### Feb 7
 
 ### Day 7 - Character encoding - #100DaysofCode
