@@ -8,7 +8,7 @@
 ## [#100DaysofCode Official Site](https://www.100daysofcode.com/)
 
 ### Feb 9
-### Day 9 - White space and Capitals - #100DaysofCode
+### Day 9 - White space and Capitals - R5 #100DaysofCode
 
 - Case sensitive matters (except when it doesn't).
 - White space is ignored (except when it's not).
@@ -22,7 +22,7 @@ Read: [Read the Docs](https://readthedocs.org/)
 
 
 ### Feb 8
-### Day 8  - Best Practices - #100daysofCode
+### Day 8  - Best Practices - R5 #100daysofCode
 
 - Style guides
 - Checkers
@@ -36,7 +36,7 @@ Read: The ninety-nine rule,  [Wikipedia](https://en.m.wikipedia.org/wiki/Ninety-
 
 ### Feb 7
 
-### Day 7 - Character encoding - #100DaysofCode
+### Day 7 - Character encoding - R5 #100DaysofCode
 
 It is not enough to simply declare your encoding at the top of the web page. You have to ensure that your editor saves the file in UTF-8 also. 
 
@@ -59,6 +59,8 @@ Read: [VS Code Docs](https://code.visualstudio.com/docs)
 Captain Anonymous on CodePen to practice,
 then fun browse around lots of fabulous Pens.
 
+[CodePen tutorial](https://css-tricks.com/video-screencasts/112-using-codepen/)
+
 Read: Pens on CodePen [Stand Still Stay Silent](https://codepen.io/smhigley/pen/VjaVpG) 
 
 ### Feb 4
@@ -67,7 +69,7 @@ Read: Pens on CodePen [Stand Still Stay Silent](https://codepen.io/smhigley/pen/
 Followed W3Cx HTML5.0x HTML5 and CSS Fundamentals module about tools.
 Had a play with online code editor, [The 'New' JS Bin](https://jsbin.com/welcome/1/edit)
 
-
+[JS Bin tutorial](https://code.tutsplus.com/tutorials/javascript-tools-of-the-trade-jsbin--net-36843)
 
 Read: [The Return and The Refactor](https://jsbin.com//blog/the-return-and-the-refactor/), JS Bin Blog - Remy Sharp
 
