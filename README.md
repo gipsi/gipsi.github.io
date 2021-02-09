@@ -7,6 +7,20 @@
 ## 1st February 2021
 ## [#100DaysofCode Official Site](https://www.100daysofcode.com/)
 
+### Feb 9
+### Day 9 - White space and Capitals - #100DaysofCode
+
+- Case sensitive matters (except when it doesn't).
+- White space is ignored (except when it's not).
+- Quotation marks are not part of a string (except when they are).
+- The important thing is to look good.
+
+[Nu HTML Checker](https://validator.w3.org/nu/?doc=https%3A%2F%2Freadthedocs.org%2F)
+
+Read: [Read the Docs](https://readthedocs.org/)
+
+
+
 ### Feb 8
 ### Day 8  - Best Practices - #100daysofCode
 
