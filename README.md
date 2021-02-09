@@ -7,9 +7,14 @@
 ## 1st February 2021
 ## [#100DaysofCode Official Site](https://www.100daysofcode.com/)
 ---
-### Tools
 
----
+## Tools and resouces
+
+## [JS Bin](https://jsbin.com/) | [CodePen](https://codepen.io/trending) | [JS Fiddle](https://jsfiddle.net/)
+----------------------------------------------------------------------------------------------------------
+## [NotePad++](https://notepad-plus-plus.org/downloads/) | [VS Code](https://code.visualstudio.com/) | [Atom](https://atom.io/)
+
+
 
 ### Feb 9
 ### Day 9 - White space and Capitals - R5 #100DaysofCode
