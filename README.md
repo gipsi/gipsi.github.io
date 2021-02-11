@@ -15,10 +15,16 @@
 ## [NotePad++](https://notepad-plus-plus.org/downloads/) | [VS Code](https://code.visualstudio.com/) | [Atom](https://atom.io)
 ---
 
+### Feb 11
+### Day 11 - My favourite recipe - #100DaysofCode
+
+W3c and EdX, HTML and CSS fundamentals, Module 1 ended with the start of a new project on CodePen.
+[CodePen - Recipes](https://codepen.io/gipsi/pen/MWbbooN)
+
 ### Feb 10
 ### Day 10 - Line oriented format - R5 #100DaysOfCode 
 
-HTML exercise  using  different tags and "line oriented" format to constructing a Web Page  that's a poetry quotation and a list of alternative meanings of the same word, shareable with [CodePen](https://codepen.io/gipsi/pen/ExNgzPG).
+HTML exercise  using  different tags and "line oriented" format to constructing a Web Page  that's a poetry quotation and a list of alternative meanings of the same word, shareable with [CodePen - Poem](https://codepen.io/gipsi/pen/ExNgzPG).
 
 Read: [Line-oriented programming language,](https://en.wikipedia.org/wiki/Line_(text_file)) programming languages that interpret the end of line to be the end of an instruction or statement.
 
