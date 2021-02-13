@@ -15,6 +15,19 @@
 ## [NotePad++](https://notepad-plus-plus.org/downloads/) | [VS Code](https://code.visualstudio.com/) | [Atom](https://atom.io)
 ---
 
+### Feb 12
+### Day 12 - Boolean attributes - R5 #100DaysofCode
+
+According to the HTML specification:
+
+The presence of a boolean attribute on an element represents the “true” value, and the absence of the attribute represents the “false” value.
+
+Yet note:
+
+The values “true” and “false” are not allowed on boolean attributes. To represent a false value, the attribute has to be omitted altogether.
+
+Read: [The 25 Boolean Attributes of HTML](https://meiert.com/en/blog/boolean-attributes-of-html/)
+
 ### Feb 11
 ### Day 11 - My favourite recipe - R5 #100DaysofCode
 
