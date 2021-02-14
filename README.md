@@ -15,6 +15,13 @@
 ## [NotePad++](https://notepad-plus-plus.org/downloads/) | [VS Code](https://code.visualstudio.com/) | [Atom](https://atom.io)
 ---
 
+### 13 Feb
+### Day 13 - Ten things .. - R5 #100DaysOfCode 
+
+.. Google knows to be true.
+
+Read: [aboutus/google/philosophy](https://google.com/about/philosophy.html)
+
 ### Feb 12
 ### Day 12 - Boolean attributes - R5 #100DaysofCode
 
