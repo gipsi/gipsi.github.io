@@ -22,7 +22,7 @@
 
 Exploring commonly used but lesser known tags
 
-The <details> tag is very cool. 
+The `<details>` tag is very cool. 
  
 Read: [W3C
 HTML5: Edition for Web Authors](https://www.w3.org/TR/2011/WD-html5-author-20110809/the-details-element.html)
