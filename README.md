@@ -13,9 +13,29 @@
 ## [JS Bin](https://jsbin.com/) | [CodePen](https://codepen.io/trending) | [JS Fiddle](https://jsfiddle.net/)
 
 ## [NotePad++](https://notepad-plus-plus.org/downloads/) | [VS Code](https://code.visualstudio.com/) | [Atom](https://atom.io)
+
+## [Can I Use](https://caniuse.com/html5semantic) | [Tortoise Git](https://tortoisegit.org/)
+
 ---
 
-### 13 Feb
+### Day 15 - HTML5 semantic elements - #100DaysofCode
+
+Exploring commonly used but lesser known tags
+
+The <details> tag is very cool. 
+ 
+Read: [W3C
+HTML5: Edition for Web Authors](https://www.w3.org/TR/2011/WD-html5-author-20110809/the-details-element.html)
+
+
+### Feb 14
+### Day 14 - Aesthetic programming - #100DaysOfCode 
+
+A handbook of sorts, but [..] something more messy and at the same time more "useful" we would say: a book about the more complex and deeply entangled set of relations between writing, coding and thinking.
+
+Read: [https://gitlab.com/aesthetic-programming/book](https://gitlab.com/aesthetic-programming/book)
+
+### Feb 13 
 ### Day 13 - Ten things .. - R5 #100DaysOfCode 
 
 .. Google knows to be true.
