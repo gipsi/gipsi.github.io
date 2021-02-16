@@ -33,9 +33,9 @@ HTML5: Edition for Web Authors](https://www.w3.org/TR/2011/WD-html5-author-20110
 ### Feb 14
 ### Day 14 - Aesthetic programming - #100DaysOfCode 
 
-"A handbook of sorts, but [..] something more messy and at the same time more "useful" we would say: a book about the more complex and deeply entangled set of relations between writing, coding and thinking."
+> "A handbook of sorts, but [..] something more messy and at the same time more "useful" we would say: a book about the  more complex and deeply entangled set of relations between writing, coding and thinking."
 
-"The argument the book follows is that computational culture is not just a trendy topic to study to improve problem-solving and analytical skills, or a way to understand more about what is happening with computational processes, but is a means to engage with programming to question existing technological paradigms and further create changes in the technical system. We therefore consider programming to be a dynamic cultural practice and phenomenon, a way of thinking and doing in the world, and a means of understanding some of the complex procedures that underwrite and constitute our lived realities, in order to act upon those realities."
+> "The argument the book follows is that computational culture is not just a trendy topic to study to improve problem-solving and analytical skills, or a way to understand more about what is happening with computational processes, but is a means to engage with programming to question existing technological paradigms and further create changes in the technical system. We therefore consider programming to be a dynamic cultural practice and phenomenon, a way of thinking and doing in the world, and a means of understanding some of the complex procedures that underwrite and constitute our lived realities, in order to act upon those realities."
 
 Read: [https://gitlab.com/aesthetic-programming/book](https://gitlab.com/aesthetic-programming/book)
 
