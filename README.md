@@ -16,6 +16,8 @@
 
 ## [Can I Use](https://caniuse.com/html5semantic) | [Tortoise Git](https://tortoisegit.org/)
 
+## [W3c Developer Tools](https://w3c.github.io/developers/tools/)
+
 ---
 
 ### Day 15 - HTML5 semantic elements - #100DaysofCode
