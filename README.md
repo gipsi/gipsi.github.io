@@ -20,6 +20,17 @@
 
 ---
 
+### Feb 16
+### Day 16 - Semantic markup - #100DaysofCode
+
+Separate content from style for meaning, structure and automated processing.
+
+On current project updated all the `<i>`tags to `<em>` and all the 
+`<b>` tags to `<strong>`.  And validated.
+
+[Using `<b>` and `<i>` elements](https://www.w3.org/International/questions/qa-b-and-i-tags)
+
+### Feb 15
 ### Day 15 - HTML5 semantic elements - #100DaysofCode
 
 Exploring commonly used but lesser known tags
