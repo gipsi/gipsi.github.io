@@ -20,6 +20,20 @@
 
 ---
 
+### Feb 17
+### Day 17 - The Hill We Climb - #100daysofCode
+
+Among other things I read a poem on CodePen ..
+
+> When day comes we step out of the shade, aflame and unafraid
+> The new dawn blooms as we free it 
+> For there is always light, 
+> if only we're brave enough to see it 
+> If only we're brave enough to be it
+> - Amanda Gorman
+
+[Codepen.io/laurayz](https://codepen.io/laurayz/full/VwmwYBE)
+
 ### Feb 16
 ### Day 16 - Semantic markup - #100DaysofCode
 
