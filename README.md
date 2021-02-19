@@ -20,6 +20,16 @@
 
 ---
 
+### Feb 18
+### day 18  -  semantic structure  -  #100daysofcode
+
+html markup exercises using meaningful elements for comprehensive reading and automated scanning.
+
+exploring developer tools in lunascape phoebe.
+
+https://www.lunascape.org/en
+
+
 ### Feb 17
 ### Day 17 - The Hill We Climb - #100daysofCode
 
