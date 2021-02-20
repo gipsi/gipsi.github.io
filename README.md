@@ -16,9 +16,9 @@
 
 ## [Can I Use](https://caniuse.com/html5semantic) | [Tortoise Git](https://tortoisegit.org/)
 
-## [W3C Developer Tools](https://w3c.github.io/developers/tools/)
+## [W3C &reg; Developer Tools](https://w3c.github.io/developers/tools/)
 
-## [W3C Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
+## [W3C &reg; Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
 
 ---
 
