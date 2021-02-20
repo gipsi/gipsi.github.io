@@ -16,9 +16,24 @@
 
 ## [Can I Use](https://caniuse.com/html5semantic) | [Tortoise Git](https://tortoisegit.org/)
 
-## [W3c Developer Tools](https://w3c.github.io/developers/tools/)
+## [W3C Developer Tools](https://w3c.github.io/developers/tools/)
+
+## [W3C Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
 
 ---
+
+### Feb 19
+### Day 19  -  Importance of the 'alt' attribute -
+#100DaysofCode
+
+Handling images in  HTML5. 
+
+An alt decision tree 🌲
+
+Read: [W3C Alt decision tree](https://w3.org/WAI/tutorials/images/decision-tree/)
+... and other **Web Accessibility Tutorials**  
+Guidance on how to create websites that meet **WCAG**
+
 
 ### Feb 18
 ### day 18  -  semantic structure  -  #100daysofcode
