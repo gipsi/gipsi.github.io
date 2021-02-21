@@ -22,6 +22,19 @@
 
 ---
 
+### Feb 21
+### Day 21 - Images on the web - #100DaysofCode
+Their alt text, title text, size, positioning, opacity, and whether to code the 
+HTML or CSS when considering informative or decorative purposes.
+
+Activity: [My day](https://codepen.io/gipsi/pen/NWbaKyJ)
+
+### Feb 20
+### Day 20 - Span and div - #100Days0fCode
+Both considered generic elements that don't have any meaning. But `<div>` is a block level element while `<span>` is an inline element.
+ 
+Read: [Span and Div - Wikipedia](https://en.wikipedia.org/wiki/Span_and_div)
+
 ### Feb 19
 ### Day 19  -  Importance of the 'alt' attribute -
 #100DaysofCode
@@ -30,20 +43,20 @@ Handling images in  HTML5.
 
 An alt decision tree 🌲
 
-Read: [W3C Alt decision tree](https://w3.org/WAI/tutorials/images/decision-tree/)
+Read: [W3C &reg; Alt decision tree](https://w3.org/WAI/tutorials/images/decision-tree/)
 ... and other **Web Accessibility Tutorials**  
-Guidance on how to create websites that meet **WCAG**
+Guidance on how to create websites that meet [**WCAG**](https://www.w3.org/WAI/standards-guidelines/wcag/)
 
 
 ### Feb 18
 ### day 18  -  semantic structure  -  #100daysofcode
 
-html markup exercises using meaningful elements for comprehensive reading and automated scanning.
+HTML markup exercises using meaningful elements for comprehensive reading and automated scanning.
 
-exploring developer tools in lunascape phoebe.
+Exploring developer tools in Lunascape Phoebe and it's dev tools in particular, list of web browsers in general.
 
-https://www.lunascape.org/en
-
+Read: [Lunascape browser](https://www.lunascape.org/en)  
+[List of Web browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
 
 ### Feb 17
 ### Day 17 - The Hill We Climb - #100daysofCode
