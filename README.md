@@ -22,7 +22,7 @@
 
 ---
 ### Feb 22
-### Day 22 - Hyperlinks -#100daysofcode 
+### Day 22 - Hyperlinks - #100daysofcode 
 
  ... and media queries and downloads.
 
