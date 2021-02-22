@@ -21,6 +21,15 @@
 ## [W3C &reg; Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
 
 ---
+### Feb 22
+### Day 22 - Hyperlinks -#100daysofcode 
+
+ ... and media queries and downloads.
+
+Remember to always be learning.
+
+Activity:
+[Hyperlink notes](https://codepen.io/gipsi/details/GRNMxLK) CodePen
 
 ### Feb 21
 ### Day 21 - Images on the web - #100DaysofCode
