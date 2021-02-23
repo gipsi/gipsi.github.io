@@ -20,7 +20,24 @@
 
 ## [W3C &reg; Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
 
+## [List of CSS properties, both proposed and standard](https://www.w3.org/Style/CSS/all-properties.en.html)
+
+## [The future of style](https://www.w3.org/Style/CSS/Planet/)
+
+## [CSS reference MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+
 ---
+
+### Feb 23
+### Day 23 - HTML recipes - #100DaysOfCode 
+
+Updated project with skip links and semantic tags.
+
+Activity:
+[My 3 Favourite Recipes](https://codepen.io/gipsi/pen/rNWYGdB) CodePen  
+Read: [List of CSS properties, both proposed and standard](https://www.w3.org/Style/CSS/all-properties.en.html)  
+[The future of style](https://www.w3.org/Style/CSS/Planet/)
+
 ### Feb 22
 ### Day 22 - Hyperlinks - #100daysofcode 
 
