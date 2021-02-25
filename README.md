@@ -26,7 +26,21 @@
 
 ## [CSS reference MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
+## [CSS Mine: Dig into Web UI Development](https://www.cssmine.com/ebook/intro)
+
+## [Luminosity Colour Contrast Ratio Analyser](https://juicystudio.com/services/luminositycontrastratio.php#specify)
+
 ---
+
+### Feb 24
+### Day 24 - CSS rules - #100DaysOfCode
+
+Playing around with basic syntax and properties.
+
+Digging deeper into web UI development with CSS Mine.
+
+Read: [Typography justification](https://www.w3.org/International/articles/typography/justification)
+Activity: [use CSS](https://codepen.io/w3devcampus/pen/QvQgbr)
 
 ### Feb 23
 ### Day 23 - HTML recipes - #100DaysOfCode 
