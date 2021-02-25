@@ -30,6 +30,8 @@
 
 ## [Luminosity Colour Contrast Ratio Analyser](https://juicystudio.com/services/luminositycontrastratio.php#specify)
 
+## [The Elements of Typographic Style Applied to the Web](http://webtypography.net/)
+
 ---
 
 ### Feb 24
