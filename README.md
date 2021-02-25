@@ -39,7 +39,7 @@ Playing around with basic syntax and properties.
 
 Digging deeper into web UI development with CSS Mine.
 
-Read: [Typography justification](https://www.w3.org/International/articles/typography/justification)
+Read: [Typography justification](https://www.w3.org/International/articles/typography/justification)  
 Activity: [use CSS](https://codepen.io/w3devcampus/pen/QvQgbr)
 
 ### Feb 23
