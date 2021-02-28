@@ -34,6 +34,12 @@
 
 ---
 
+### Feb 25-28
+### Days 25-28  - Old Book Stack - #100daysofcode  
+Tinkering with CSS - fonts, images and lists.
+
+Activity: [Old Book Stack](https://codepen.io/gipsi/details/poNLbZm)
+
 ### Feb 24
 ### Day 24 - CSS rules - #100DaysOfCode
 
