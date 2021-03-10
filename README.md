@@ -33,6 +33,28 @@
 ## [The Elements of Typographic Style Applied to the Web](http://webtypography.net/)
 
 ---
+### Mar 10
+### Day 38 - Edge DevTools - #100DaysOfCode 
+
+Hurrying through debugging and CSS precedence with edX to finish Module 4 and meet the deadline next week.
+Will come back to Microsoft's tutorial on DevTools.
+
+Read/activity: [DevTools for beginners](https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/beginners/css)
+
+### Mar 9
+### Day 37 - CodePen - #100daysOfCode 
+
+A few things I didn't know about CodePen.
+
+How to use CodePen to speed up your front-end development.
+Read: [Imaginary Cloud](https://www.imaginarycloud.com/blog/how-to-use-codepen-to-speed-up-your-front-end-development/)
+
+### Mar 1-8
+### Days 29-36 - Chakra visualisation - #100DaysOfCode
+
+Activity: [Chakra visualisation](https://codepen.io/gipsi/pen/LYbgjNo?editors=1100)
+
+CSS box model + lists, borders, shadows and animations, styling details and summary tags.
 
 ### Feb 25-28
 ### Days 25-28  - Old Book Stack - #100daysofcode  
