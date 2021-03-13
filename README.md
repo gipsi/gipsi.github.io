@@ -33,6 +33,17 @@
 ## [The Elements of Typographic Style Applied to the Web](http://webtypography.net/)
 
 ---
+
+### Mar 11
+Day 39 - SoC - #100DaysOfCode 
+
+Managing complexity.
+Read:
+Activity:
+![Separation of Concerns](/images/soc.png)
+Format: ![Separation of Concerns](/images/soc.png)
+
+
 ### Mar 10
 ### Day 38 - Edge DevTools - #100DaysOfCode 
 
