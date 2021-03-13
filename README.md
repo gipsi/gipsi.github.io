@@ -38,8 +38,9 @@
 Day 39 - SoC - #100DaysOfCode 
 
 Managing complexity.
-Read:
-Activity:
+
+Read: Separation of Concerns [Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns) 
+Activity:  
 ![Separation of Concerns](/images/soc.png)
 Format: ![Separation of Concerns](/images/soc.png)
 
