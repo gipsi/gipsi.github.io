@@ -32,17 +32,58 @@
 
 ## [The Elements of Typographic Style Applied to the Web](http://webtypography.net/)
 
+## [DevTools for beginners](https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/beginners/css)
+
+## [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
+
+## [DevDocs browser](https://devdocs.io/)
+
 ---
 
+### Mar 13
+### Day 41 - Table practice - #100DaysOfCode
+
+A whole area of html I have given a rather wide berth is now getting some focus. Things are starting to go where I think they will.
+Remembered useful reference tool.
+[DevDocs browser](https://devdocs.io/)
+
+### Mar 12
+### Day 40 - HTML table basics - #100DaysOfCode 
+
+Headings, rows, columns and cells.
+```
+<table border=2>
+  <tr>
+    <td headers="Attribute">Attribute</td>
+    <td headers="Description">Description</td>
+	<td headers="Usage">Usage</td>
+  </tr>
+    <tr>
+    <td>src</td>
+    <td>Used to specify the URL of the image</td>
+	<td>src=“images/test.png"</td>
+  </tr>
+    </tr>
+    <tr>
+    <td>alt</td>
+    <td>Used to specify replacement text for the image</td>
+	<td>alt=“Test image for HTML5 course”</td>
+  </tr>
+
+</table>
+```
+Activity: [Chakra visualisation](https://gipsi.github.io/chakras/)
+Read: [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
+
 ### Mar 11
-Day 39 - SoC - #100DaysOfCode 
+### Day 39 - SoC - #100DaysOfCode 
 
 Managing complexity.
 
 Read: Separation of Concerns [Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns) 
 Activity:  
-![Separation of Concerns](/images/soc.png)
-Format: ![Separation of Concerns](/images/soc.png)
+![Separation of Concerns](soc.png)
+<!--Format: ![Separation of Concerns](soc.png)-->
 
 
 ### Mar 10
