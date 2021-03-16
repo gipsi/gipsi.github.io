@@ -42,6 +42,8 @@
 
 ### [displaying-code-in-web-pages](https://websemantics.uk/articles/displaying-code-in-web-pages/)
 
+### [Test drive Prism](https://prismjs.com/test.html#language=markup)
+
 ---
 
 ### Mar 15
