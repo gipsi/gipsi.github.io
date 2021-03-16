@@ -10,41 +10,60 @@
 
 ## Tools and resources
 
-## [JS Bin](https://jsbin.com/) | [CodePen](https://codepen.io/trending) | [JS Fiddle](https://jsfiddle.net/)
+### [JS Bin](https://jsbin.com/) | [CodePen](https://codepen.io/trending) | [JS Fiddle](https://jsfiddle.net/)
 
-## [NotePad++](https://notepad-plus-plus.org/downloads/) | [VS Code](https://code.visualstudio.com/) | [Atom](https://atom.io)
+### [NotePad++](https://notepad-plus-plus.org/downloads/) | [VS Code](https://code.visualstudio.com/) | [Atom](https://atom.io)
 
-## [Can I Use](https://caniuse.com/html5semantic) | [Tortoise Git](https://tortoisegit.org/)
+### [Can I Use](https://caniuse.com/html5semantic) | [Tortoise Git](https://tortoisegit.org/)
 
-## [W3C &reg; Developer Tools](https://w3c.github.io/developers/tools/)
+### [W3C &reg; Developer Tools](https://w3c.github.io/developers/tools/)
 
-## [W3C &reg; Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
+### [W3C &reg; Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
 
-## [List of CSS properties, both proposed and standard](https://www.w3.org/Style/CSS/all-properties.en.html)
+### [List of CSS properties, both proposed and standard](https://www.w3.org/Style/CSS/all-properties.en.html)
 
-## [The future of style](https://www.w3.org/Style/CSS/Planet/)
+### [The future of style](https://www.w3.org/Style/CSS/Planet/)
 
-## [CSS reference MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+### [CSS reference MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
-## [CSS Mine: Dig into Web UI Development](https://www.cssmine.com/ebook/intro)
+### [CSS Mine: Dig into Web UI Development](https://www.cssmine.com/ebook/intro)
 
-## [Luminosity Colour Contrast Ratio Analyser](https://juicystudio.com/services/luminositycontrastratio.php#specify)
+### [Luminosity Colour Contrast Ratio Analyser](https://juicystudio.com/services/luminositycontrastratio.php#specify)
 
-## [The Elements of Typographic Style Applied to the Web](http://webtypography.net/)
+### [The Elements of Typographic Style Applied to the Web](http://webtypography.net/)
 
-## [DevTools for beginners](https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/beginners/css)
+### [DevTools for beginners](https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/beginners/css)
 
-## [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
+### [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
 
-## [DevDocs browser](https://devdocs.io/)
+### [DevDocs browser](https://devdocs.io/)
+
+### [html-tables-all-there-is-to-know-about](https://www.freecodecamp.org/news/html-tables-all-there-is-to-know-about-them-d1245980ef96/)
+
+### [displaying-code-in-web-pages](https://websemantics.uk/articles/displaying-code-in-web-pages/)
 
 ---
+
+### Mar 15
+### Day 43 - Displaying code - #100DaysOfCode
+Adding example code to a web page. Handles JavaScript, CSS, HTML, and PHP.
+@webSemanticsUK
+
+Reference: [displaying-code-in-web-pages](https://websemantics.uk/articles/displaying-code-in-web-pages/)
+
+### Mar 14
+### Day 42 - html table generators - #100DaysOfCode 
+
+Having got the gist of relevant tags I was glad to find this all about tables #FreeCodeCamp page and tinker with a list of table generating tools.
+
+Reference: [html-tables-all-there-is-to-know-about](https://www.freecodecamp.org/news/html-tables-all-there-is-to-know-about-them-d1245980ef96/)
 
 ### Mar 13
 ### Day 41 - Table practice - #100DaysOfCode
 
 A whole area of html I have given a rather wide berth is now getting some focus. Things are starting to go where I think they will.
 Remembered useful reference tool.
+
 [DevDocs browser](https://devdocs.io/)
 
 ### Mar 12
@@ -72,7 +91,7 @@ Headings, rows, columns and cells.
 
 </table>
 ```
-Activity: [Chakra visualisation](https://gipsi.github.io/chakras/)
+Activity: [Chakra visualisation](https://gipsi.github.io/chakras/) 
 Read: [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
 
 ### Mar 11
@@ -100,6 +119,7 @@ Read/activity: [DevTools for beginners](https://docs.microsoft.com/en-us/microso
 A few things I didn't know about CodePen.
 
 How to use CodePen to speed up your front-end development.
+
 Read: [Imaginary Cloud](https://www.imaginarycloud.com/blog/how-to-use-codepen-to-speed-up-your-front-end-development/)
 
 ### Mar 1-8
