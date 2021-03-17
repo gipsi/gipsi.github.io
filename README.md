@@ -47,6 +47,11 @@
 ### [dabblet](https://dabblet.com/)
 
 ---
+### Mar 17
+### Day 45 - Read about practice - #100DaysOfCode
+
+Read: [What Being a Musician Taught Me About Being a Programmer](https://dzone.com/articles/what-being-a-musician-taught-me-about-being-a-prog) via 
+@DZoneInc
 
 ### Mar 15
 ### Day 43 - Displaying code - #100DaysOfCode
