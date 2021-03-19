@@ -53,8 +53,11 @@
 
 Completed #FreeCodeCamp 's Applied Visual Design section of the Responsive Web Design track with colours, transforms and animations in CSS.
 
+
 ![Applied visual design](nicecup.png)
+
 Activity: [FreeCodeCamp, Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)
+
 Read: [Agile - Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development)
 
 
