@@ -53,7 +53,7 @@
 
 Completed #FreeCodeCamp 's Applied Visual Design section of the Responsive Web Design track with colours, transforms and animations in CSS.
 
-![Applied visual design](media/nicecup.png)
+![Applied visual design](nicecup.png)
 
 
 ### Mar 17
@@ -119,7 +119,7 @@ Managing complexity.
 
 Read: Separation of Concerns [Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns) 
 Activity:  
-![Separation of Concerns](soc.png)
+![Separation of Concerbs](soc.png)
 <!--Format: ![Separation of Concerns](soc.png)-->
 
 
