@@ -48,12 +48,14 @@
 
 ---
 
-###
+### Mar 18
 ### Day 46 - Visual Design with CSS - #100DaysOfCode
 
 Completed #FreeCodeCamp 's Applied Visual Design section of the Responsive Web Design track with colours, transforms and animations in CSS.
 
 ![Applied visual design](nicecup.png)
+Activity: [FreeCodeCamp, Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)
+Read: [Agile - Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development)
 
 
 ### Mar 17
@@ -67,6 +69,7 @@ Read: [What Being a Musician Taught Me About Being a Programmer](https://dzone.c
 Adding example code to a web page. Handles JavaScript, CSS, HTML, and PHP.
 @webSemanticsUK
 
+Activity: [Test drive Prism](https://prismjs.com/test.html#language=markup) 
 Reference: [displaying-code-in-web-pages](https://websemantics.uk/articles/displaying-code-in-web-pages/)
 
 ### Mar 14
