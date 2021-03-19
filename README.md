@@ -53,6 +53,8 @@
 
 Completed #FreeCodeCamp 's Applied Visual Design section of the Responsive Web Design track with colours, transforms and animations in CSS.
 
+![Applied visual design](media/nicecup.png)
+
 
 ### Mar 17
 ### Day 45 - Read about practice - #100DaysOfCode
