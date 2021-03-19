@@ -47,6 +47,13 @@
 ### [dabblet](https://dabblet.com/)
 
 ---
+
+###
+### Day 46 - Visual Design with CSS - #100DaysOfCode
+
+Completed #FreeCodeCamp 's Applied Visual Design section of the Responsive Web Design track with colours, transforms and animations in CSS.
+
+
 ### Mar 17
 ### Day 45 - Read about practice - #100DaysOfCode
 
