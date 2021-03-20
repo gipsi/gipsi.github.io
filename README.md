@@ -46,7 +46,24 @@
 
 ### [dabblet](https://dabblet.com/)
 
+### [FreeCodeCamp](https://www.freecodecamp.org/learn)
+
 ---
+
+### Mar 20
+### Day 48 - Responsive Web Design Principles - #100DaysOfCode 
+
+Some more #FreeCodeCamp exercises including media queries and viewport sizing.
+
+Achievement:  ![Responsive Web Design Principles cup](responsiveness.png)
+
+### Mar 19
+### Day 47 - Semantic tags HTML - #100DaysOfCode 
+
+Completed #FreeCodeCamp's  Applied Accessibility exercises in the Responsive Web Design track.
+Useful explanations about the way semantic tags work with screen readers. Exploring online colour contrast checkers.
+
+Achievement:  ![Applied Accessibility cup](accessibility.png)
 
 ### Mar 18
 ### Day 46 - Visual Design with CSS - #100DaysOfCode
@@ -54,7 +71,7 @@
 Completed #FreeCodeCamp 's Applied Visual Design section of the Responsive Web Design track with colours, transforms and animations in CSS.
 
 
-![Applied visual design](nicecup.png)
+Achievement:  ![Applied Visual Design cup](nicecup.png)
 
 Activity: [FreeCodeCamp, Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)
 
