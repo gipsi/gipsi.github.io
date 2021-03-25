@@ -53,7 +53,6 @@ Challenges to do: [CSS Flexbox](https://eleftheriabatsou.medium.com/free-code-ca
 ### Day 50 - CSS Flexbox basics - #100DaysOfCode
 
 FreeCodeCamp: [Flexbox Common Use Cases](https://www.freecodecamp.org/news/learn-flexbox-common-use-cases/)
-https://eleftheriabatsou.medium.com/free-code-camp-css-flexbox-challenges-71b8b351320e
 
 ### Mar 21
 ### Day 49 - CSS Flexbox, basics. - #100DaysOfCode
@@ -97,6 +96,17 @@ Read: [Agile - Wikipedia](https://en.wikipedia.org/wiki/Agile_software_developme
 
 Read: [What Being a Musician Taught Me About Being a Programmer](https://dzone.com/articles/what-being-a-musician-taught-me-about-being-a-prog) via 
 @DZoneInc
+
+### Mar 16
+### Day 44 - Last day of W3C/EdX HTML And CSS fundamentals - #100DaysOfCode
+
+For the last day of W3C/EdX HTML And CSS fundamentals 
+I forked:
+[Flexbox Holy Grail](https://codepen.io/gipsi/pen/vYyMVbB) - Header Footer Fixed Height 
+(and made it responsive).  
+
+Course: [HTML5 and CSS Fundamentals](https://t.co/IpkUDs9QHc?amp=1)
+
 
 ### Mar 15
 ### Day 43 - Displaying code - #100DaysOfCode
