@@ -22,7 +22,8 @@
 | [Luminosity Colour Contrast Ratio Analyser](https://juicystudio.com/services/luminositycontrastratio.php#specify)                     | [Contrast-ratio](https://contrast-ratio.com/)                                                  |
 | [DevTools for beginners](https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/beginners/css)                       | [Tables Generator](https://www.tablesgenerator.com/markdown_tables#)                           |
 | [Test drive Prism](https://prismjs.com/test.html#language=markup)                                                                     | [Dabblet](https://dabblet.com/)                                                                |
-| [html-tables-all-there-is-to-know-about](https://www.freecodecamp.org/news/html-tables-all-there-is-to-know-about-them-d1245980ef96/) | [displaying-code-in-web-pages](https://websemantics.uk/articles/displaying-code-in-web-pages/) |
+| [html-tables-all-there-is-to-know-about](https://www.freecodecamp.org/news/html-tables-all-there-is-to-know-about-them-d1245980ef96/) | [displaying-code-in-web-pages](https://websemantics.uk/articles/displaying-code-in-web-pages/) |     
+| [Smashing Magazine](https://www.smashingmagazine.com/)                                                                             | [FreeCodeCamp News](https://www.freecodecamp.org/news/)                   |                   
 
 
 ---
@@ -31,13 +32,22 @@
 ### Day 53
 
 ### Mar 24 
-### Day 52 - CSS Flexbox - #100DaysOfCode
+### Day 52 - CSS Grid - #100DaysOfCode 
+ 
+Positioning, justifying, aligning boxes (cells) and sizing gaps.  
+
+Enjoying #FreeCodeCamp's clear, concise Responsive Web Design track plus many articles to read.
+
+FreeCodeCamp article: An Introduction to [CSS Grid Layout (with Examples)](https://www.freecodecamp.org/news/intro-to-css-grid-layout/)
 
 ### Mar 23 
 ### Day 51 - CSS Flexbox challenges - #100DaysOfCode
 
-Achievement: 
-Challenges to do: https://eleftheriabatsou.medium.com/free-code-camp-css-flexbox-challenges-71b8b351320e
+Feeling like Alice down The Rabbit Hole after shrinking, growing and rearranging items to complete FreeCodeCamp's CSS Flexbox section of Responsive Web Design track.
+
+Achievement: ![Flexbox cup](flexcup.png)   
+Read: Smashing Magazine's Compete Guide to [Accssible Front-end Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/)  
+Challenges to do: [CSS Flexbox](https://eleftheriabatsou.medium.com/free-code-camp-css-flexbox-challenges-71b8b351320e)
 
 ### Mar 22
 ### Day 50 - CSS Flexbox basics - #100DaysOfCode
