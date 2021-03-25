@@ -23,13 +23,23 @@
 | [DevTools for beginners](https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/beginners/css)                       | [Tables Generator](https://www.tablesgenerator.com/markdown_tables#)                           |
 | [Test drive Prism](https://prismjs.com/test.html#language=markup)                                                                     | [Dabblet](https://dabblet.com/)                                                                |
 | [html-tables-all-there-is-to-know-about](https://www.freecodecamp.org/news/html-tables-all-there-is-to-know-about-them-d1245980ef96/) | [displaying-code-in-web-pages](https://websemantics.uk/articles/displaying-code-in-web-pages/) |     
-| [Smashing Magazine](https://www.smashingmagazine.com/)                                                                             | [FreeCodeCamp News](https://www.freecodecamp.org/news/)                   |                   
+| [Smashing Magazine](https://www.smashingmagazine.com/)                                                                                | [FreeCodeCamp News](https://www.freecodecamp.org/news/)                   |  
+| [CSS Tricks](https://css-tricks.com/)
 
 
 ---
 
 ### Mar 25
-### Day 53
+### Day 53 - Markdown and CSS Grid - #100DaysOfCode
+
+Tabulated tools and resources section of Weblog in MarkDown then
+exploring the flexibility of columns, rows and gaps with
+completion of FreecodeCamp's CSS Grid exercises.
+
+Resource: [Markdown table generator](https://www.tablesgenerator.com/markdown_tables#)    
+Achievement: ![FreeCodeCamp CSS Grid Cup](gridcup.png)   
+Read:  CSS Tricks [Equal Width Columns in CSS Grid are Kinda Weird](https://css-tricks.com/equal-width-columns-in-css-grid-are-kinda-weird/)
+
 
 ### Mar 24 
 ### Day 52 - CSS Grid - #100DaysOfCode 
