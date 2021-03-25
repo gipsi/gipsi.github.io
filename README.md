@@ -8,7 +8,7 @@
 ## [#100DaysofCode Official Site](https://www.100daysofcode.com/)
 ---
 
-## Tools and resources
+## Tools | ## Resources
 
 ### [JS Bin](https://jsbin.com/) | [CodePen](https://codepen.io/trending) | [JS Fiddle](https://jsfiddle.net/)
 
@@ -16,39 +16,34 @@
 
 ### [Can I Use](https://caniuse.com/html5semantic) | [Tortoise Git](https://tortoisegit.org/)
 
-### [W3C &reg; Developer Tools](https://w3c.github.io/developers/tools/)
+### [W3C &reg; Developer Tools](https://w3c.github.io/developers/tools/) | ### [W3C &reg; Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
 
-### [W3C &reg; Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
+### [List of CSS properties, both proposed and standard](https://www.w3.org/Style/CSS/all-properties.en.html) | ### [The future of style](https://www.w3.org/Style/CSS/Planet/)
 
-### [List of CSS properties, both proposed and standard](https://www.w3.org/Style/CSS/all-properties.en.html)
+### [CSS reference MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) | ### [The Elements of Typographic Style Applied to the Web](http://webtypography.net/)
 
-### [The future of style](https://www.w3.org/Style/CSS/Planet/)
+### [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics) | ### [CSS Mine: Dig into Web UI Development](https://www.cssmine.com/ebook/intro) 
 
-### [CSS reference MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+### [Luminosity Colour Contrast Ratio Analyser](https://juicystudio.com/services/luminositycontrastratio.php#specify) |
 
-### [CSS Mine: Dig into Web UI Development](https://www.cssmine.com/ebook/intro)
 
-### [Luminosity Colour Contrast Ratio Analyser](https://juicystudio.com/services/luminositycontrastratio.php#specify)
+### [DevTools for beginners](https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/beginners/css) |
 
-### [The Elements of Typographic Style Applied to the Web](http://webtypography.net/)
 
-### [DevTools for beginners](https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/beginners/css)
 
-### [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
+### [DevDocs browser](https://devdocs.io/) |
 
-### [DevDocs browser](https://devdocs.io/)
+| ### [html-tables-all-there-is-to-know-about](https://www.freecodecamp.org/news/html-tables-all-there-is-to-know-about-them-d1245980ef96/)
 
-### [html-tables-all-there-is-to-know-about](https://www.freecodecamp.org/news/html-tables-all-there-is-to-know-about-them-d1245980ef96/)
+| ### [displaying-code-in-web-pages](https://websemantics.uk/articles/displaying-code-in-web-pages/)
 
-### [displaying-code-in-web-pages](https://websemantics.uk/articles/displaying-code-in-web-pages/)
+### [Test drive Prism](https://prismjs.com/test.html#language=markup) |
 
-### [Test drive Prism](https://prismjs.com/test.html#language=markup)
+### [Dabblet](https://dabblet.com/) |
 
-### [Dabblet](https://dabblet.com/)
+### [FreeCodeCamp](https://www.freecodecamp.org/learn) |
 
-### [FreeCodeCamp](https://www.freecodecamp.org/learn)
-
-### [Contrast-ratio](https://contrast-ratio.com/)
+### [Contrast-ratio](https://contrast-ratio.com/) |
 
 ---
 
@@ -61,11 +56,16 @@
 ### Mar 23 
 ### Day 51
 
+https://eleftheriabatsou.medium.com/free-code-camp-css-flexbox-challenges-71b8b351320e
+
 ### Mar 22
-### Day 50
+### Day 50 - CSS Flexbox. #100DaysOfCode
+
+FreeCodeCamp: [Flexbox Common Use Cases](https://www.freecodecamp.org/news/learn-flexbox-common-use-cases/)
+https://eleftheriabatsou.medium.com/free-code-camp-css-flexbox-challenges-71b8b351320e
 
 ### Mar 21
-### Day 49 - CSS Flexbox - ##100DaysOfCode
+### Day 49 - CSS Flexbox, basics. - #100DaysOfCode
 
 Moving pastel coloured`<div>` boxes starting with `{display: flex;}`.
 
