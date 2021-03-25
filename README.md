@@ -52,6 +52,27 @@
 
 ---
 
+### Mar 25
+### Day 53
+
+### Mar 24 
+### Day 52
+
+### Mar 23 
+### Day 51
+
+### Mar 22
+### Day 50
+
+### Mar 21
+### Day 49 - CSS Flexbox - ##100DaysOfCode
+
+Moving pastel coloured`<div>` boxes starting with `{display: flex;}`.
+
+Flexbox terminology diagram from official [W3C specification](https://www.w3.org/TR/css-flexbox-1/).
+
+FreeCodeCamp: [The Ultimate CSS Flex Cheatsheet (with animated diagrams!)](https://www.freecodecamp.org/news/flexbox-the-ultimate-css-flex-cheatsheet/)
+
 ### Mar 20
 ### Day 48 - Responsive Web Design Principles - #100DaysOfCode 
 
