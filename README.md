@@ -8,42 +8,22 @@
 ## [#100DaysofCode Official Site](https://www.100daysofcode.com/)
 ---
 
-## Tools | ## Resources
+| Tools                                                                                                                                 | Resources                                                                                      |
+|---------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| [JS Bin](https://jsbin.com/)                                                                                                          | [CodePen](https://codepen.io/trending)                                                         |
+| [JS Fiddle](https://jsfiddle.net/)                                                                                                    | [NotePad++](https://notepad-plus-plus.org/downloads/)                                          |
+| [VS Code](https://code.visualstudio.com/)                                                                                             | [Atom](https://atom.io)                                                                        |
+| [FreeCodeCamp](https://www.freecodecamp.org/learn)                                                                                    | [DevDocs browser](https://devdocs.io/)                                                         |
+| [Can I Use](https://caniuse.com/html5semantic)                                                                                        | [Tortoise Git](https://tortoisegit.org/)                                                       |
+| [W3C ® Developer Tools](https://w3c.github.io/developers/tools/)                                                                      | [W3C ® Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)                         |
+| [List of CSS properties, both proposed and standard](https://www.w3.org/Style/CSS/all-properties.en.html)                             | [The future of style](https://www.w3.org/Style/CSS/Planet/)                                    |
+| [CSS reference MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)                                                       | [The Elements of Typographic Style Applied to the Web](http://webtypography.net/)              |
+| [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)                                                     | [CSS Mine: Dig into Web UI Development](https://www.cssmine.com/ebook/intro)                   |
+| [Luminosity Colour Contrast Ratio Analyser](https://juicystudio.com/services/luminositycontrastratio.php#specify)                     | [Contrast-ratio](https://contrast-ratio.com/)                                                  |
+| [DevTools for beginners](https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/beginners/css)                       | [Tables Generator](https://www.tablesgenerator.com/markdown_tables#)                           |
+| [Test drive Prism](https://prismjs.com/test.html#language=markup)                                                                     | [Dabblet](https://dabblet.com/)                                                                |
+| [html-tables-all-there-is-to-know-about](https://www.freecodecamp.org/news/html-tables-all-there-is-to-know-about-them-d1245980ef96/) | [displaying-code-in-web-pages](https://websemantics.uk/articles/displaying-code-in-web-pages/) |
 
-### [JS Bin](https://jsbin.com/) | [CodePen](https://codepen.io/trending) | [JS Fiddle](https://jsfiddle.net/)
-
-### [NotePad++](https://notepad-plus-plus.org/downloads/) | [VS Code](https://code.visualstudio.com/) | [Atom](https://atom.io)
-
-### [Can I Use](https://caniuse.com/html5semantic) | [Tortoise Git](https://tortoisegit.org/)
-
-### [W3C &reg; Developer Tools](https://w3c.github.io/developers/tools/) | ### [W3C &reg; Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
-
-### [List of CSS properties, both proposed and standard](https://www.w3.org/Style/CSS/all-properties.en.html) | ### [The future of style](https://www.w3.org/Style/CSS/Planet/)
-
-### [CSS reference MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) | ### [The Elements of Typographic Style Applied to the Web](http://webtypography.net/)
-
-### [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics) | ### [CSS Mine: Dig into Web UI Development](https://www.cssmine.com/ebook/intro) 
-
-### [Luminosity Colour Contrast Ratio Analyser](https://juicystudio.com/services/luminositycontrastratio.php#specify) |
-
-
-### [DevTools for beginners](https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/beginners/css) |
-
-
-
-### [DevDocs browser](https://devdocs.io/) |
-
-| ### [html-tables-all-there-is-to-know-about](https://www.freecodecamp.org/news/html-tables-all-there-is-to-know-about-them-d1245980ef96/)
-
-| ### [displaying-code-in-web-pages](https://websemantics.uk/articles/displaying-code-in-web-pages/)
-
-### [Test drive Prism](https://prismjs.com/test.html#language=markup) |
-
-### [Dabblet](https://dabblet.com/) |
-
-### [FreeCodeCamp](https://www.freecodecamp.org/learn) |
-
-### [Contrast-ratio](https://contrast-ratio.com/) |
 
 ---
 
@@ -51,15 +31,16 @@
 ### Day 53
 
 ### Mar 24 
-### Day 52
+### Day 52 - CSS Flexbox - #100DaysOfCode
 
 ### Mar 23 
-### Day 51
+### Day 51 - CSS Flexbox challenges - #100DaysOfCode
 
-https://eleftheriabatsou.medium.com/free-code-camp-css-flexbox-challenges-71b8b351320e
+Achievement: 
+Challenges to do: https://eleftheriabatsou.medium.com/free-code-camp-css-flexbox-challenges-71b8b351320e
 
 ### Mar 22
-### Day 50 - CSS Flexbox. #100DaysOfCode
+### Day 50 - CSS Flexbox basics - #100DaysOfCode
 
 FreeCodeCamp: [Flexbox Common Use Cases](https://www.freecodecamp.org/news/learn-flexbox-common-use-cases/)
 https://eleftheriabatsou.medium.com/free-code-camp-css-flexbox-challenges-71b8b351320e
