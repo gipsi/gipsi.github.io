@@ -32,7 +32,7 @@
 ### Mar 28
 ### Day 56 - Survey Form - #100DaysOfCode
 
-Read through the brief for FreeCodeCamp's second Responsive Web Development project.
+Read through the brief for FreeCodeCamp's second Responsive Web Design project.
 
 ### Mar 27
 ### Day 55 - Tribute Page - #100DaysOfCode 
