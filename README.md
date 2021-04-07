@@ -30,24 +30,25 @@
 
 ---
 
-### April 6
+### April 7
 ### Day 66 - Back to basics - #100DaysOfCode
 
 Journeying with Frontend Masters.
 
-Activity: (Internet fundamenyals)[https://internetfundamentals.com/]
+Activity: [Internet fundamentals](https://internetfundamentals.com/)
 
+### Apr 6
 ### Day 65 - Technical documentation page - #100DaysOfCode #FreeCodeCamp
 This took some persistence trying to figure out why the skip links wouldn't work, but got there eventually.
 
- Activity: !(Easter bug)[easterbug.png]
+ Activity: ![Easter bug](easterbug.png):bug:
  
-### Apr 5 - 6
+### Apr 4 - 5
 ### Day 63 - 64 - Responsive web design - #100DaysOfCode 
 
 The #FreeCodeCamp technical documentation project
-that turned into .... an
-                                    (Easter Bug hunt :Bug:)[https://codepen.io/gipsi/pen/MWJogoG ]
+that turned into .... :bug:
+                                    [Easter Bug hunt :bug:](https://codepen.io/gipsi/pen/MWJogoG)
 
 ### Apr 3
 ### Day 62 - Technical documentation project - #100DaysOfCode 
@@ -56,7 +57,7 @@ that turned into .... an
 
 Next: debugging. #FreeCodeCamp
 
-Activity: FreeCodeCamp (Technical documentation project)[https://codepen.io/gipsi/pen/ExZmbVj]
+Activity: FreeCodeCamp [Technical documentation project](https://codepen.io/gipsi/pen/ExZmbVj)
 
 ### Apr 1 -2
 ### Day 60-61 - Product landing page - #100DaysOfCode 
