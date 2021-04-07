@@ -24,7 +24,10 @@
 | [Test drive Prism](https://prismjs.com/test.html#language=markup)                                                                     | [Dabblet](https://dabblet.com/)                                                                |
 | [html-tables-all-there-is-to-know-about](https://www.freecodecamp.org/news/html-tables-all-there-is-to-know-about-them-d1245980ef96/) | [displaying-code-in-web-pages](https://websemantics.uk/articles/displaying-code-in-web-pages/) |     
 | [Smashing Magazine](https://www.smashingmagazine.com/)                                                                                | [FreeCodeCamp News](https://www.freecodecamp.org/news/)                   |  
-| [CSS Tricks](https://css-tricks.com/)
+
+| [CSS Tricks](https://css-tricks.com/)|                                                                                                 | [Nameboy](https://www.nameboy.com/)
+
+|[Internet Fundamentals](https://internetfundamentals.com/)
 
 
 ---
