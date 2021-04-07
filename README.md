@@ -29,6 +29,43 @@
 
 
 ---
+
+### April 6
+### Day 66 - Back to basics - #100DaysOfCode
+
+Journeying with Frontend Masters.
+
+Activity: (Internet fundamenyals)[https://internetfundamentals.com/]
+
+### Day 65 - Technical documentation page - #100DaysOfCode #FreeCodeCamp
+This took some persistence trying to figure out why the skip links wouldn't work, but got there eventually.
+
+ Activity: !(Easter bug)[easterbug.png]
+ 
+### Apr 5 - 6
+### Day 63 - 64 - Responsive web design - #100DaysOfCode 
+
+The #FreeCodeCamp technical documentation project
+that turned into .... an
+                                    (Easter Bug hunt :Bug:)[https://codepen.io/gipsi/pen/MWJogoG ]
+
+### Apr 3
+### Day 62 - Technical documentation project - #100DaysOfCode 
+
+11/16 tests passed, then I lost the test suite.
+
+Next: debugging. #FreeCodeCamp
+
+Activity: FreeCodeCamp (Technical documentation project)[https://codepen.io/gipsi/pen/ExZmbVj]
+
+### Apr 1 -2
+### Day 60-61 - Product landing page - #100DaysOfCode 
+
+Third  #FreeCodeCamp  Responsive Web Design project
+passed all tests. #HTML #CSS
+
+Activity: [Yogi Matters](https://codepen.io/gipsi/pen/bGgqLmK?editors=1100)
+
 ### Mar 29-31
 ### Days 57-59 - CodePen - #100DaysOfCode
 
