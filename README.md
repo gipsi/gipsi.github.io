@@ -9,7 +9,7 @@
 ---
 | Tools                                                                             	| Resources                                                                                                                             	|   	|
 |-----------------------------------------------------------------------------------	|---------------------------------------------------------------------------------------------------------------------------------------	|---	|
-|                                                                                   	| ------------                                                                                                                          	|   	|
+|                                                                                   	|                                                                                                                          	|   	|
 | [JS Bin](https://jsbin.com/)                                                      	| [CodePen](https://codepen.io/trending)                                                                                                	|   	|
 | [JS Fiddle](https://jsfiddle.net/)                                                	| [NotePad++](https://notepad-plus-plus.org/downloads/)                                                                                 	|   	|
 | [VS Code](https://code.visualstudio.com/)                                         	| [Atom](https://atom.io)                                                                                                               	|   	|
@@ -24,10 +24,19 @@
 | [Tables Generator](https://www.tablesgenerator.com/markdown_tables#)              	| [html-tables-all-there-is-to-know-about](https://www.freecodecamp.org/news/html-tables-all-there-is-to-know-about-them-d1245980ef96/) 	|   	|
 | [Test drive Prism](https://prismjs.com/test.html#language=markup)                 	| [displaying-code-in-web-pages](https://websemantics.uk/articles/displaying-code-in-web-pages/)                                        	|   	|
 | [Smashing Magazine](https://www.smashingmagazine.com/)                            	| [FreeCodeCamp News](https://www.freecodecamp.org/news/)                                                                               	|   	|
-| [CSS Tricks](https://css-tricks.com/)[Nameboy](https://www.nameboy.com/)          	|                                                                                                                                       	|   	|
+| [CSS Tricks](https://css-tricks.com/)                                                 | [Nameboy](https://www.nameboy.com/)          	|                                                                                                                                       	|   	|
 | [Internet Fundamentals](https://internetfundamentals.com/)                        	| [Frontend Masters BootCamp](https://frontendmasters.github.io/bootcamp/)                                                              	|   	|
 
 ---
+
+### April 8
+### Day 67 - Browsers - #100DaysOfCode
+ 
+Best browsers for web development are standard Chrome and Firefox on PC or Mac.
+There are many tools to test and ensure support and consistent rendering in ever so many browsers.
+I explored some options and gave BrowserStack a spin with an OpenSource project.
+
+Activity: [BrowserStack](https://www.browserstack.com)
 
 ### April 7
 ### Day 66 - Back to basics - #100DaysOfCode
