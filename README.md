@@ -43,9 +43,10 @@ Step by step guide to becoming a modern frontend developer.
 ### Apr 10
 ### Day 69 - VS Code - #100DaysOfCode   
 
-Setting up Visual Studio Code preferences and extensions ready for: Frontend Masters BootCamp.  
+Setting up Visual Studio Code preferences and extensions ready for:  
   
-[Frontend Masters BootCamp.](https://frontendmasters.github.io/bootcamp/)
+[Frontend Masters BootCamp GitHub](https://frontendmasters.github.io/bootcamp/)  
+[Frontend Masters BootCamp Website](https://frontendmasters.com/bootcamp/)
 
 ### Apr 9
 ### Day 68 - HTML and CSS - #100DaysOfCode
