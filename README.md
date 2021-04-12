@@ -28,7 +28,7 @@
 | [Internet Fundamentals](https://internetfundamentals.com/)                        	| [Frontend Masters BootCamp](https://frontendmasters.github.io/bootcamp/)                                                              	|   	|
 | [Interneting is hard](https://www.internetingishard.com/)                             | [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) |               
 | [W3 HTML Validator](https://validator.w3.org/)                                        | [Nu HTML Checker](https://validator.w3.org/nu/) |
-| [Frontend developer map](https://roadmap.sh/frontend) | |
+| [Frontend developer roadmap](https://roadmap.sh/frontend) | |
 ---
 
 
