@@ -52,7 +52,9 @@ Setting up Visual Studio Code preferences and extensions ready for:
 ### Day 68 - HTML and CSS - #100DaysOfCode
 I earned the Responsive Web Design certification. 
 @freeCodeCamp  
-Achievement and projects list: [Responsive Web Design certification](https://freecodecamp.org/certification/gipsi/responsive-web-design)
+Achievement and projects list: [Responsive Web Design certification](https://freecodecamp.org/certification/gipsi/responsive-web-design)       
+![image](RWDcertificate.png)
+)
 
 ### April 8
 ### Day 67 - Browsers - #100DaysOfCode
