@@ -28,10 +28,17 @@
 | [Internet Fundamentals](https://internetfundamentals.com/)                        	| [Frontend Masters BootCamp](https://frontendmasters.github.io/bootcamp/)                                                              	|   	|
 | [Interneting is hard](https://www.internetingishard.com/)                             | [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) |               
 | [W3 HTML Validator](https://validator.w3.org/)                                        | [Nu HTML Checker](https://validator.w3.org/nu/) |
-| [Frontend developer roadmap](https://roadmap.sh/frontend) | |
+| [Frontend developer roadmap](https://roadmap.sh/frontend)                             |[Markup World](https://supermarkupworld.com/) | |
 ---
 
+### Apr 12  
+### Day 71 - HTML chops - #100DaysOfCode
 
+First day of exercises in bootcamp done.
+
+Made GitHub repo to track progress.
+
+[Bootcamp coursework](https://gipsi.github.io/bootcamp/)
 
 ### Apr 11  
 ### Day 70 - Studying map - #100DaysOfCode    
