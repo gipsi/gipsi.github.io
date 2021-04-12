@@ -26,8 +26,32 @@
 | [Smashing Magazine](https://www.smashingmagazine.com/)                            	| [FreeCodeCamp News](https://www.freecodecamp.org/news/)                                                                               	|   	|
 | [CSS Tricks](https://css-tricks.com/)                                                 | [Nameboy](https://www.nameboy.com/)          	|                                                                                                                                       	|   	|
 | [Internet Fundamentals](https://internetfundamentals.com/)                        	| [Frontend Masters BootCamp](https://frontendmasters.github.io/bootcamp/)                                                              	|   	|
-
+| [Interneting is hard](https://www.internetingishard.com/)                             | [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) |               
+| [W3 HTML Validator](https://validator.w3.org/)                                        | [Nu HTML Checker](https://validator.w3.org/nu/) |
+| [Frontend developer map](https://roadmap.sh/frontend) | |
 ---
+
+
+
+### Apr 11  
+### Day 70 - Studying map - #100DaysOfCode    
+
+Step by step guide to becoming a modern frontend developer.   
+  
+[Frontend developer roadmap](https://roadmap.sh/frontend)  
+   
+### Apr 10
+### Day 69 - VS Code - #100DaysOfCode   
+
+Setting up Visual Studio Code preferences and extensions ready for: Frontend Masters BootCamp.  
+  
+[Frontend Masters BootCamp.](https://frontendmasters.github.io/bootcamp/)
+
+### Apr 9
+### Day 68 - HTML and CSS - #100DaysOfCode
+I earned the Responsive Web Design certification. 
+@freeCodeCamp  
+Achievement and projects list: [Responsive Web Design certification](https://freecodecamp.org/certification/gipsi/responsive-web-design)
 
 ### April 8
 ### Day 67 - Browsers - #100DaysOfCode
