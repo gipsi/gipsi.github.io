@@ -28,8 +28,19 @@
 | [Internet Fundamentals](https://internetfundamentals.com/)                        	| [Frontend Masters BootCamp](https://frontendmasters.github.io/bootcamp/)                                                              	|   	|
 | [Interneting is hard](https://www.internetingishard.com/)                             | [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) |               
 | [W3 HTML Validator](https://validator.w3.org/)                                        | [Nu HTML Checker](https://validator.w3.org/nu/) |
-| [Frontend developer roadmap](https://roadmap.sh/frontend)                             |[Markup World](https://supermarkupworld.com/) | |
+| [Frontend developer roadmap](https://roadmap.sh/frontend)                             |[Markup World](https://supermarkupworld.com/) | 
+| [Frontend masters HTML cheatsheet](https://frontendmasters.github.io/bootcamp/html) |  |
 ---
+
+### Apr 14
+### Day 73 - HTML hobbies page - #100DaysOfCode
+
+Finished up HTML section of bootcamp. 
+Exercise included  links, images, blockquote and citation tags.
+And the necessity of using cheatsheets.
+
+[Frontend masters HTML cheatsheet](https://frontendmasters.github.io/bootcamp/html)
+[Bootcamp hobbies page](https://gipsi.github.io/bootcamp/day1/hobbies.html)
 
 ### Apr 13
 ### Day 72 - HTML Tools - #100DaysOfCode  
