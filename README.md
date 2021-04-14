@@ -31,6 +31,15 @@
 | [Frontend developer roadmap](https://roadmap.sh/frontend)                             |[Markup World](https://supermarkupworld.com/) | |
 ---
 
+### Apr 13
+### Day 72 - HTML Tools - #100DaysOfCode  
+  
+Using Emmet and Tidy2 with NotePad++.  
+Chrome browser, Google search, Nu HTML and GitHub.  
+Adding to website structure semantically with lists and navigation.  
+  
+[Bootcamp home](https://gipsi.github.io/bootcamp/)
+
 ### Apr 12  
 ### Day 71 - HTML chops - #100DaysOfCode
 
@@ -38,7 +47,7 @@ First day of exercises in bootcamp done.
 
 Made GitHub repo to track progress.
 
-[Bootcamp coursework](https://gipsi.github.io/bootcamp/)
+[Bootcamp coursework](https://gipsi.github.io/bootcamp/bookexerpt.html)
 
 ### Apr 11  
 ### Day 70 - Studying map - #100DaysOfCode    
