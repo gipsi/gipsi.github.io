@@ -33,14 +33,14 @@
 ---
 
 ### Apr 14
-### Day 73 - HTML hobbies page - #100DaysOfCode
-
-Finished up HTML section of bootcamp. 
-Exercise included  links, images, blockquote and citation tags.
-And the necessity of using cheatsheets.
-
-[Frontend masters HTML cheatsheet](https://frontendmasters.github.io/bootcamp/html)
-[Bootcamp hobbies page](https://gipsi.github.io/bootcamp/day1/hobbies.html)
+### Day 73 - HTML hobbies page - #100DaysOfCode  
+  
+Finished up HTML section of bootcamp.   
+Exercise included  links, images, blockquote and citation tags.  
+And the necessity of using cheatsheets.  
+  
+[Frontend masters HTML cheatsheet](https://frontendmasters.github.io/bootcamp/html)  
+[Bootcamp hobbies page](https://gipsi.github.io/bootcamp/day1/hobbies.html)  
 
 ### Apr 13
 ### Day 72 - HTML Tools - #100DaysOfCode  
