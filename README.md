@@ -32,6 +32,60 @@
 | [Frontend masters HTML cheatsheet](https://frontendmasters.github.io/bootcamp/html) |  |
 ---
 
+### Apr 22
+### Day 80 - CSS boxing v Markdown  - #100DaysOfCode     
+
+``` Incantation:     
+ html {  
+    box-sizing: border-box;  
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}  
+```
+Updated coding journey webblog.
+
+[WebLog 2021](https://gipsi.github.io/)
+
+### Apr 21
+### Day 79 - #EarthDay  - #100DaysOfCode  
+Horizontal navigation bar styling   
+[CodePen](https://codepen.io/gipsi/pen/VwPVwpZ) 
+
+### Apr 20
+### Day 78 - Bootcamp resources - #100DaysOfCode  
+Made a thing for some cheatsheets.  
+[CodePen](https://codepen.io/gipsi/pen/yLgRpLw)
+
+### Apr 19
+### Day 77 -  CSS Pseudo classes - #100DaysOfCode
+
+Always clear after you float.
+
+.clearfix::after { content: &quot;&quot;; clear: both; display: table; } 
+
+### Apr 18
+### Day 76 - CSS positioning - #100DaysOfCode  
+Frontend Masters bootcamp.  
+VS Code lags everything so using NotePad++ again.  
+
+### Apr 17
+### Day 75 - CSS Fonts - #100DaysOfCode  
+... palettes, validation and link states are just some of the things covered, then a CSS update for the bootcamp book project.  
+[CodePen](https://codepen.io/gipsi/pen/JjEBvvp)
+
+### Apr 16
+### Day off
+
+
+### Apr 15
+### Day 74 - Bootcamp CSS  - #100DaysOfCode   
+
+Properties and values exercise.  
+VS Code and fonts then15 mins of styling web page.  
+
+[CodePen}(https://codepen.io/gipsi/pen/dyNKdNy?editors=1100)
+
 ### Apr 14
 ### Day 73 - HTML hobbies page - #100DaysOfCode  
   
