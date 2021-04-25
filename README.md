@@ -31,6 +31,11 @@
 | [Frontend developer roadmap](https://roadmap.sh/frontend)                             |[Markup World](https://supermarkupworld.com/) | 
 | [Frontend masters HTML cheatsheet](https://frontendmasters.github.io/bootcamp/html) |  |
 ---
+### Apr 23/24/25
+### Days 81/2/3 - CSS space - #100DaysOfCode 
+Some chunky radii and borders to experiment with how the boxes respond 
+to different sizing with the box model. Everything is pointing to the negative space.
+![image](alienblog2021-04-25.png)
 
 ### Apr 22
 ### Day 80 - CSS boxing v Markdown  - #100DaysOfCode     
@@ -135,7 +140,7 @@ I earned the Responsive Web Design certification.
 @freeCodeCamp  
 Achievement and projects list: [Responsive Web Design certificate](https://freecodecamp.org/certification/gipsi/responsive-web-design)       
 ![image](rwdcertificate.png)
-)
+
 
 ### April 8
 ### Day 67 - Browsers - #100DaysOfCode
