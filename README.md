@@ -48,7 +48,7 @@ to different sizing with the box model. Everything is pointing to the negative s
     box-sizing: inherit;
 }  
 ```
-Updated coding journey webblog.
+Updated coding journey WebLog.
 
 [WebLog 2021](https://gipsi.github.io/)
 
@@ -67,7 +67,7 @@ Made a thing for some cheatsheets.
 
 Always clear after you float.
 
-.clearfix::after { content: &quot;&quot;; clear: both; display: table; } 
+```.clearfix::after { content: &quot;&quot;; clear: both; display: table; } ```
 
 ### Apr 18
 ### Day 76 - CSS positioning - #100DaysOfCode  
