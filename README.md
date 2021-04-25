@@ -40,13 +40,15 @@ to different sizing with the box model. Everything is pointing to the negative s
 ### Apr 22
 ### Day 80 - CSS boxing v Markdown  - #100DaysOfCode     
 
-``` Incantation:     
+```
+Incantation:     
  html {  
     box-sizing: border-box;  
 }
 *, *:before, *:after {
     box-sizing: inherit;
 }  
+
 ```
 Updated coding journey WebLog.
 
@@ -67,7 +69,10 @@ Made a thing for some cheatsheets.
 
 Always clear after you float.
 
-```.clearfix::after { content: &quot;&quot;; clear: both; display: table; } ```
+```
+.clearfix::after { content: &quot;&quot;; clear: both; display: table; } 
+
+```
 
 ### Apr 18
 ### Day 76 - CSS positioning - #100DaysOfCode  
