@@ -29,8 +29,18 @@
 | [Interneting is hard](https://www.internetingishard.com/)                             | [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) |               
 | [W3 HTML Validator](https://validator.w3.org/)                                        | [Nu HTML Checker](https://validator.w3.org/nu/) |
 | [Frontend developer roadmap](https://roadmap.sh/frontend)                             |[Markup World](https://supermarkupworld.com/) | 
-| [Frontend masters HTML cheatsheet](https://frontendmasters.github.io/bootcamp/html) |  |
+| [Frontend masters HTML cheatsheet](https://frontendmasters.github.io/bootcamp/html)  |[The Complete Guide to Deep Work](https://blog.doist.com/deep-work/)  ||
 ---
+
+### Apr 26
+### Day 84 - Deep work - #100DaysOfCode 
+Balancing activity, focus, concentration.
+
+"The ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly valuable.."  
+~Cal Newport
+
+[The Complete Guide to Deep Work](https://blog.doist.com/deep-work/)
+
 ### Apr 23/24/25
 ### Days 81/2/3 - CSS space - #100DaysOfCode 
 Some chunky radii and borders to experiment with how the boxes respond 
