@@ -33,7 +33,12 @@
 ---
  
 ### May 2
-### Day 90
+### Day 90 - Styling a blog with CSS - #100daysofcode 
+
+Boxes, floats, image alts ... fonts, colours, gradients.  
+Absorbing exercise with FrontendMasters Bootcamp.  
+
+[Ki's Biodynamic blog](https://codepen.io/gipsi/pen/QWdewaw)
 
 ### May 1
 ### Day 89
