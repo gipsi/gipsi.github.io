@@ -31,7 +31,23 @@
 | [Frontend developer roadmap](https://roadmap.sh/frontend)                             |[Markup World](https://supermarkupworld.com/) | 
 | [Frontend masters HTML cheatsheet](https://frontendmasters.github.io/bootcamp/html)  |[The Complete Guide to Deep Work](https://blog.doist.com/deep-work/)  ||
 ---
- 
+
+### May the 4th be with you!
+### Day 92 - Qiz - #100DaysOfCode
+Results of SkillCrush quiz 'Is tech right for you?'are:   
+Yes,  [Creative Visionary](https://skillcrush.com/quiz-result-creative-visionary-alt).  
+Learned a bit about CSS viewport sizing: [Responsively Designing with Viewport Units](https://youtu.be/m1_iOLbtEFM)  
+[Eina Onting | Vancouver Front End Developer](https://www.eina.ca/)  
+[Emily Ridge • Galway based Freelance Web Designer & Developer](http://www.emilyridge.ie/)  
+[Successful Front-end Development | Ian Lunn - Front-end Developer](https://ianlunn.co.uk/)  
+
+
+### May 3
+### Day 91 - Still learning CSS - #100DaysOfCode
+Responsive Design with [Aquent Gymnasium](https://thegymnasium.com/).  
+Read article: [Responsive Web Design, A List Apart](https://alistapart.com/article/responsive-web-design/).  
+Homework: Explore three Web Design Portfolio's.
+
 ### May 2
 ### Day 90 - Styling a blog with CSS - #100daysofcode 
 
@@ -41,19 +57,19 @@ Absorbing exercise with FrontendMasters Bootcamp.
 [Ki's Biodynamic blog](https://codepen.io/gipsi/pen/QWdewaw)
 
 ### May 1
-### Day 89
+### Day 89 - Css colour palettes
 
 ### Apr 30
-### Day 88
+### Day 88 - CSS Flexbox
 
 ### Apr 29
-### Day 87
+### Day 87 - CSS Bootcamp Blog
 
 ### Apr 28
-### Day 86
+### Day 86 - CSS Rem's Ems 
 
 ### Apr 27
-### Day 85
+### Day 85 - CSS BOX Model
  
 ### Apr 26
 ### Day 84 - Deep work - #100DaysOfCode 
