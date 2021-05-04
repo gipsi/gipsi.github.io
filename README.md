@@ -36,7 +36,8 @@
 ### Day 92 - Qiz - #100DaysOfCode
 Results of SkillCrush quiz 'Is tech right for you?'are:   
 Yes,  [Creative Visionary](https://skillcrush.com/quiz-result-creative-visionary-alt).  
-Learned a bit about CSS viewport sizing: [Responsively Designing with Viewport Units](https://youtu.be/m1_iOLbtEFM)  
+Learned a bit about CSS viewport sizing: [Responsively Designing with Viewport Units](https://youtu.be/m1_iOLbtEFM)   
+Three Web-developer portfolios:    
 [Eina Onting | Vancouver Front End Developer](https://www.eina.ca/)  
 [Emily Ridge • Galway based Freelance Web Designer & Developer](http://www.emilyridge.ie/)  
 [Successful Front-end Development | Ian Lunn - Front-end Developer](https://ianlunn.co.uk/)  
@@ -46,7 +47,7 @@ Learned a bit about CSS viewport sizing: [Responsively Designing with Viewport U
 ### Day 91 - Still learning CSS - #100DaysOfCode
 Responsive Design with [Aquent Gymnasium](https://thegymnasium.com/).  
 Read article: [Responsive Web Design, A List Apart](https://alistapart.com/article/responsive-web-design/).  
-Homework: Explore three Web Design Portfolio's.
+Homework: Find three Web Design Portfolio's to explore on different 'mobile' devices.  
 
 ### May 2
 ### Day 90 - Styling a blog with CSS - #100daysofcode 
