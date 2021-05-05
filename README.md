@@ -8,7 +8,7 @@
 ## [#100DaysofCode Official Site](https://www.100daysofcode.com/)
 ---
 | Tools                                                                             	| Resources                                                                                                                             	|   	
-|-----------------------------------------------------------------------------------	|---------------------------------------------------------------------------------------------------------------------------------------	|	
+|---	|---	|	
 |                                                                                   	|                                                                                                                          	|   	
 | [JS Bin](https://jsbin.com/)                                                      	| [CodePen](https://codepen.io/trending)                                                                                                	|   	
 | [JS Fiddle](https://jsfiddle.net/)                                                	| [NotePad++](https://notepad-plus-plus.org/downloads/)                                                                                 	|   	
