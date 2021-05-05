@@ -32,6 +32,15 @@
 | [Frontend masters HTML cheatsheet](https://frontendmasters.github.io/bootcamp/html)  |[The Complete Guide to Deep Work](https://blog.doist.com/deep-work/)  ||
 ---
 
+### May 5
+### Day 93 - Bootcamp - #100DaysOfCode 
+I just completed "Introduction to CSS" by   
+@jen4web  
+ on   
+@FrontendMasters!  
+[Bootcamp](https://frontendmasters.com/bootcamp/introduction-css/)  
+Nav Bar link states: [CodePen](https://codepen.io/gipsi/pen/YzZKMxx)  
+
 ### May the 4th be with you!
 ### Day 92 - Qiz - #100DaysOfCode
 Results of SkillCrush quiz 'Is tech right for you?'are:   
@@ -58,7 +67,7 @@ Absorbing exercise with FrontendMasters Bootcamp.
 [Ki's Biodynamic blog](https://codepen.io/gipsi/pen/QWdewaw)
 
 ### May 1
-### Day 89 - Css colour palettes
+### Day 89 - CSS colour palettes
 
 ### Apr 30
 ### Day 88 - CSS Flexbox
