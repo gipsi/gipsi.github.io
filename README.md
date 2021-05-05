@@ -29,7 +29,8 @@
 | [Interneting is hard](https://www.internetingishard.com/)                             | [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) |               
 | [W3 HTML Validator](https://validator.w3.org/)                                        | [Nu HTML Checker](https://validator.w3.org/nu/) |
 | [Frontend developer roadmap](https://roadmap.sh/frontend)                             |[Markup World](https://supermarkupworld.com/) | 
-| [Frontend masters HTML cheatsheet](https://frontendmasters.github.io/bootcamp/html)  |[The Complete Guide to Deep Work](https://blog.doist.com/deep-work/)  ||
+| [Frontend masters HTML cheatsheet](https://frontendmasters.github.io/bootcamp/html)   |[The Complete Guide to Deep Work](https://blog.doist.com/deep-work/)  |
+| [CSS Reference trove](https://www.d.umn.edu/itss/training/online/webdesign/css.html)  | 
 ---
 
 ### May 5
