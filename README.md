@@ -35,6 +35,10 @@
 ---
 
 ### May 10
+### Day 98 - Softr - #100DaysofCode
+I created my first site with @softr_io in @jen4web's #airpets email course.   
+Plus where to use (and not use) HTML `blockquote` and `q `tags.  
+[Airpets](https://isis564.softr.app/)  
 
 
 ### May 9  
