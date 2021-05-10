@@ -28,24 +28,56 @@
 | [Internet Fundamentals](https://internetfundamentals.com/)                        	| [Frontend Masters BootCamp](https://frontendmasters.github.io/bootcamp/)                                                              	|   	
 | [Interneting is hard](https://www.internetingishard.com/)                             | [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) |               
 | [W3 HTML Validator](https://validator.w3.org/)                                        | [Nu HTML Checker](https://validator.w3.org/nu/) |
-| [Frontend developer roadmap](https://roadmap.sh/frontend)                             |[Markup World](https://supermarkupworld.com/) | 
-| [Frontend masters HTML cheatsheet](https://frontendmasters.github.io/bootcamp/html)   |[The Complete Guide to Deep Work](https://blog.doist.com/deep-work/)  |
-| [CSS Reference trove](https://www.d.umn.edu/itss/training/online/webdesign/css.html)  | 
+| [Frontend developer roadmap](https://roadmap.sh/frontend)                             | [Markup World](https://supermarkupworld.com/) | 
+| [Frontend masters HTML cheatsheet](https://frontendmasters.github.io/bootcamp/html)   | [The Complete Guide to Deep Work](https://blog.doist.com/deep-work/)  |
+| [CSS Reference trove](https://www.d.umn.edu/itss/training/online/webdesign/css.html)  | [Emojipedia](https://emojipedia.org/building-construction/) |
+| [Airtable](https://airtable.com/)                                                     | [Softr](https://www.softr.io/)
 ---
+
+### May 10
+
+
+### May 9  
+### Day 97  
+Day 96 - Airtable - #100DaysOfCode  
+I just created my first base in @airtable  
+in @jen4web's #airpets email course.   
+And explored uses of the HTML address tag, Airtable and Softr.  
+[Airtable](https://airtable.com/)    
+[Softr](https://www.softr.io/)  
+
+
+### May 8  
+### Day 96   
+I got #30DaysofHTML email course FREE from 
+@jen4web on @Gumroad:  
+### [:tada: #30DaysofHTML](https://gumroad.com/l/30daysofhtml)
+
+### May 7
+### Day 95 - Considering next - #100DaysOfCode   
+Review:  :put_litter_in_its_place: 🚧 🏗️  
+Emoji study.  
+[Emoji gist](https://gist.github.com/gipsi/7cd3a92427f43304b7161c89af32b43b)  
+[Emojipedia](https://emojipedia.org/building-construction/)  
+
+
+### May 6  
+### Day 94 - Frontend Roadmap - #100DaysOfCode    
+"Front-end developers have to deal with non-trivial areas of complexity such as font rendering, search engine optimizations, accessibility standards, web security (e.g., SSL, OAuth2, XSS), image optimizations... ... network performance, HTML email, browser performance, JavaScript performance, HTML, CSS, and DOM rendering, and divergent JavaScript runtimes."  
+###  :persevere:    
+[Required skills](https://frontendmasters.com/guides/learning-roadmap/front-end-developer-profession/#3)
 
 ### May 5
 ### Day 93 - Bootcamp - #100DaysOfCode 
 I just completed "Introduction to CSS" by   
-@jen4web  
- on   
-@FrontendMasters!  
-[Bootcamp](https://frontendmasters.com/bootcamp/introduction-css/)  
+@jen4web on @FrontendMasters!  
+[Bootcamp CSS](https://frontendmasters.com/bootcamp/introduction-css/)  
 Nav Bar link states: [CodePen](https://codepen.io/gipsi/pen/YzZKMxx)  
 
 ### May the 4th be with you!
 ### Day 92 - Qiz - #100DaysOfCode
-Results of SkillCrush quiz 'Is tech right for you?'are:   
-Yes,  [Creative Visionary](https://skillcrush.com/quiz-result-creative-visionary-alt).  
+Results of SkillCrush quiz 'Is tech right for you?'     
+[Creative Visionary](https://skillcrush.com/quiz-result-creative-visionary-alt).  
 Learned a bit about CSS viewport sizing: [Responsively Designing with Viewport Units](https://youtu.be/m1_iOLbtEFM)   
 Three Web-developer portfolios:    
 [Eina Onting | Vancouver Front End Developer](https://www.eina.ca/)  
