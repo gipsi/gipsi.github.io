@@ -31,14 +31,29 @@
 | [Frontend developer roadmap](https://roadmap.sh/frontend)                             | [Markup World](https://supermarkupworld.com/) | 
 | [Frontend masters HTML cheatsheet](https://frontendmasters.github.io/bootcamp/html)   | [The Complete Guide to Deep Work](https://blog.doist.com/deep-work/)  |
 | [CSS Reference trove](https://www.d.umn.edu/itss/training/online/webdesign/css.html)  | [Emojipedia](https://emojipedia.org/building-construction/) |
-| [Airtable](https://airtable.com/)                                                     | [Softr](https://www.softr.io/)
+| [Airtable](https://airtable.com/)                                                     | [Softr](https://www.softr.io/)  |
+| [Airpets email course](https://jenairpets.softr.io/about-jen-kramer)                  | [fontpair](https://www.fontpair.co/) 
+
 ---
+
+### May 11  
+### Day 99 - No Code! - #100DaysOfCode  
+
+Favicons, font-pairs and favourite colours.  
+Having so much frontend fun with   
+@airtable and @softr_io site in   
+@jen4web's #airpets email course  
+it turned out to be a #nocode day.  
+
+[Airpets email course](https://jenairpets.softr.io/about-jen-kramer)  
+[fontpair](https://www.fontpair.co/)  
 
 ### May 10
 ### Day 98 - Softr - #100DaysofCode
 I created my first site with @softr_io in @jen4web's #airpets email course.   
-Plus where to use (and not use) HTML `blockquote` and `q `tags.  
+Plus where to use (and not to use) HTML `blockquote` and `q `tags.  
 [Airpets](https://isis564.softr.app/)  
+New subdomain! [Airpets](https://gipsi.softr.app)
 
 
 ### May 9  
