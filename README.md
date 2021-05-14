@@ -36,6 +36,24 @@
 
 ---
 
+### May 13
+### Day 101
+Takeaway: Leave fonts and colours alone until everything else is working.
+
+[How to choose colours](https://www.websitebuilderexpert.com/designing-websites/how-to-choose-color-for-your-website/)  
+[Adobe colour explore](https://color.adobe.com/explore)    
+[fontpair](https://www.fontpair.co/)    
+[Font pairings](https://www.reliablepsd.com/ultimate-google-font-pairings/)  
+
+
+### May 12  
+### Day 100 - Yay! - #100DaysOfCode  
+Lots of fun on the last day with my first @airtable and @softr_io site.     
+Hugely thankful for  @jen4web's fabulous #airpets email course:     
+I've learnt so much web dev in a  such a short time  ...  and all with with #NoCode     
+
+[gipsi.softr.app](https://gipsi.softr.app)  
+
 ### May 11  
 ### Day 99 - No Code! - #100DaysOfCode  
 
