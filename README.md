@@ -36,6 +36,26 @@
 
 ---
 
+### May 18   
+### Day 2  - Networks - #100daysofcode
+Crafting an HTML and CSS landing page    
+
+"The self is a cumulative network because its history persists."   
+[~The networked self](https://aeon.co/essays/the-self-is-not-singular-but-a-fluid-network-of-identities)
+
+### May 17
+### Day 1 - Fonts and favicons - #100DaysOfCode   
+
+FontSquirrel helped me make a web font kit. 
+Next a http://favicon.cc  and flex box Holy Grail CSS.   
+
+Trying to understand what stuff does ...  
+  
+[How to Become a Great Front-End Engineer]( https://philipwalton.com/articles/how-to-become-a-great-front-end-engineer/ )via 
+@philwalton
+
+----------------------------------
+
 ### May 13
 ### Day 101
 Takeaway: Leave fonts and colours alone until everything else is working.
