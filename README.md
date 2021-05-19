@@ -36,6 +36,15 @@
 
 ---
 
+### May 19
+### Day 3 - Don't Make Me Think - #100daysofcode #UX
+
+Read chapter 4 - Animal, Vegetable or Mineral, a free sample of @skrug's book    
+and thought about making choices mindless in relation to my current landing page project.    
+    
+Dont Make Me Think [Chapter 4 sample pages](https://ptgmedia.pearsoncmg.com/images/9780321965516/samplepages/0321965515.pdf)  
+Then played [20 Questions](http://20q.net)
+
 ### May 18   
 ### Day 2  - Networks - #100daysofcode
 Crafting an HTML and CSS landing page    
@@ -50,7 +59,9 @@ FontSquirrel helped me make a web font kit.
 Next a http://favicon.cc  and flex box Holy Grail CSS.   
 
 Trying to understand what stuff does ...  
-  
+
+Font Squirrel [Web font generator](https://www.fontsquirrel.com/tools/webfont-generator)  
+Favicon generator creator [Favicon.cc ]()    
 [How to Become a Great Front-End Engineer]( https://philipwalton.com/articles/how-to-become-a-great-front-end-engineer/ )via 
 @philwalton
 
