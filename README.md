@@ -18,7 +18,7 @@ Day 4 - Front End Focus - #100daysofcode
 
 Learned a bit more about image resizing and DOM events then played a coding fantasy game to practice the flex box and had a look at Google's free CSS course.  
   
-[Frontend Focus](https://frontendfoc.us/issues/491]
+[Frontend Focus](https://frontendfoc.us/issues/491)
 
 
 
