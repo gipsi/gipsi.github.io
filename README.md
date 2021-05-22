@@ -1,5 +1,5 @@
 <!--- [comment]: <> (This is a comment, it will not be included) --->
-<!---
+
 
 ###  I'm publicly committing to another #100DaysofCode
 
@@ -10,7 +10,7 @@
 Day 5 - CodeLog - #100daysofcode  
 Getting in the mood to make a  new GitHub pages 100 days of code log by making an octocat.
 
-![My Octocat](myocto)
+![My Octocat](myocto.jpg)
 
 
 ### May 20  
@@ -89,12 +89,11 @@ Favicon generator creator [Favicon.cc ]()
 
 
  > I think when you have a lot of jumbled up ideas they come together slowly over a period of several years ~ [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) 
-<!--
+
 > "The amateur software engineer is always in search of magic." - Grady Booch
 > via Programming Wisdom @CodeWisdom on Twitter 12:37 PM - 12 Oct 2018 
--->
 
----
+
 ### How this site works
 
 You can use the [editor on GitHub](https://github.com/gipsi/gipsi.github.io/edit/master/README.md) to maintain and preview content for the website in Markdown files.
