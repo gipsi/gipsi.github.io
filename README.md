@@ -6,14 +6,14 @@
 ## 17th May 2021
 #100DaysofCode  [Official Site](https://www.100daysofcode.com/)
 
-### May 21  
+### 21st May  
 Day 5 - CodeLog - #100daysofcode  
 Getting in the mood to make a  new GitHub pages 100 days of code log by making an octocat.
 
 ![My Octocat](myocto.jpg)
 
 
-### May 20  
+### 20th May
 Day 4 - Front End Focus - #100daysofcode  
 
 Learned a bit more about image resizing and DOM events then played a coding fantasy game to practice the flex box and had a look at Google's free CSS course.  
@@ -23,7 +23,7 @@ Learned a bit more about image resizing and DOM events then played a coding fant
 
 
 
-### May 19
+### 19th May
 ### Day 3 - Don't Make Me Think - #100daysofcode #UX
 
 Read chapter 4 - Animal, Vegetable or Mineral, a free sample of @skrug's book    
@@ -32,14 +32,14 @@ and thought about making choices mindless in relation to my current landing page
 Dont Make Me Think [Chapter 4 sample pages](https://ptgmedia.pearsoncmg.com/images/9780321965516/samplepages/0321965515.pdf)  
 Then played [20 Questions](http://20q.net)  
 
-### May 18   
+### 18th May   
 ### Day 2  - Networks - #100daysofcode  
 Crafting an HTML and CSS landing page      
 
 "The self is a cumulative network because its history persists."     
 [~The networked self](https://aeon.co/essays/the-self-is-not-singular-but-a-fluid-network-of-identities) 
 
-### May 17
+### 17th May
 ### Day 1 - Fonts and favicons - #100DaysOfCode   
 
 FontSquirrel helped me make a web font kit. 
@@ -53,9 +53,6 @@ Favicon generator creator [Favicon.cc ]()
 @philwalton
 
 
-
-## 1st February 2021
-## [#100DaysofCode Official Site](https://www.100daysofcode.com/)
 ---
 | Tools                                                                             	| Resources                                                                                                                             	|   	
 |---	|---	|	
