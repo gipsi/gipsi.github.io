@@ -4,14 +4,34 @@
 ###  I'm publicly committing to another #100DaysofCode
 
 ## 17th May 2021
-#100DaysofCode  [Official Site](https://www.100daysofcode.com/)
+#100DaysofCode  [Official Site](https://www.100daysofcode.com/)  
+
+### May 25th 2021  
+### Day 9  
+
+Getting to know ...  
+[HTML5 boilerplate](https://html5boilerplate.com/)  
+
+Day 2   
+#30daysofhtml &lt;blockquote&gt; and &lt;q&gt; - not for conversation or indentation.   
+#150daysofhtml &lt;head&gt; contains metadata - data about data.  
+
+### May 24 2021
+### Day 8 
+
+### Day 1 - Restart - #100DaysofCode   
+
+#30daysofhtml &lt;address&gt; tag    
+#150daysofhtml &lt;html class="no-js" lang="en"&gt; 
+
+With [#30daysofhtml](https://jen4web.substack.com/) email course   
+and a subscription to [#150daysofhtml](https://150daysofhtml.substack.com/archive)   
 
 
-
+### May 23 2021
+### Day 7 - Web Divelopment - #100DaysOfCode 
 
 Learning how to write HTML properly.
-
-### Day 7 - Web Divelopment - #100DaysOfCode 
 
 [#WebDivelopment](https://www.matuzo.at/5-developers/)
 
