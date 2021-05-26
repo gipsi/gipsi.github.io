@@ -13,7 +13,7 @@ Getting to know ...
 [HTML5 boilerplate](https://html5boilerplate.com/)  
 
 Day 2   
-#30daysofhtml &lt;blockquote&gt; and &lt;q&gt; - not for conversation or indentation.   
+#30daysofhtml &lt;blockquote&gt; and &lt;q&gt; - not for indentationc or conversation.   
 #150daysofhtml &lt;head&gt; contains metadata - data about data.  
 
 ### May 24 2021
