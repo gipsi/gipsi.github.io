@@ -6,6 +6,22 @@
 ## 17th May 2021
 #100DaysofCode  [Official Site](https://www.100daysofcode.com/)
 
+
+
+
+Learning how to write HTML properly.
+
+### Day 7 - Web Divelopment - #100DaysOfCode 
+
+[#WebDivelopment](https://www.matuzo.at/5-developers/)
+
+
+### 22nd May
+### Day 6 - Googled CSS - #100DaysOfCode   
+
+I created a Google Developer Profile!   
+[#DevBadges](https://developers.google.com/profile/badges/profile/created-profile)
+
 ### 21st May  
 Day 5 - CodeLog - #100daysofcode  
 Getting in the mood to make a  new GitHub pages 100 days of code log by making an octocat.
