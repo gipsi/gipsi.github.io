@@ -22,22 +22,27 @@
 ### Day 9  
 
 Getting to know ...  
-[HTML5 boilerplate](https://html5boilerplate.com/)    
+The official [HTML5 boilerplate](https://html5boilerplate.com/)      
+HTML, accessibility, and CSS layout and architecture expert Manuel Matuzovic's own [HTML Boilerplate walkthrough](https://www.matuzo.at/blog/html-boilerplate/)  
 
 Day 2   
-#30daysofhtml &lt;blockquote&gt; and &lt;q&gt; - not for indentationc or conversation.   
-#150daysofhtml &lt;head&gt; contains metadata - data about data.  
+#30daysofhtml - Day 2 - [&lt;blockquote&gt; and &lt;q&gt;]() - not for indentation or conversation.   
+#150daysofhtml - Day 2 - [&lt;head&gt;]() contains metadata - data about data.  
 
 ### May 24 2021
 ### Day 8 
 
 ### Day 1 - Restart - #100DaysofCode   
 
-#30daysofhtml &lt;address&gt; tag    
-#150daysofhtml &lt;html class="no-js" lang="en"&gt; 
+#30daysofhtml - Day 1 - [&lt;address&gt;]() tag    
+#150daysofhtml - Day 1 - [&lt;html class="no-js" lang="en"&gt;]() 
 
 With [#30daysofhtml](https://jen4web.substack.com/) email course   
-and a subscription to [#150daysofhtml](https://150daysofhtml.substack.com/archive)   
+and a subscription to [#150daysofhtml](https://150daysofhtml.substack.com/archive)  
+
+More about the ```lang``` attribute on the ```<html>``` element   
+[The lang attribute: browsers telling lies, telling sweet little lies](https://www.matuzo.at/blog/lang-attribute/)
+blog post by Manuel Matuzovic.
 
 
 ### May 23 2021
