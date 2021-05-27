@@ -6,11 +6,23 @@
 ## 17th May 2021
 #100DaysofCode  [Official Site](https://www.100daysofcode.com/)  
 
+### May 27th 2021  
+### Day 11  
+
+#30daysofhtml - Day 4 [&lt;dfn&gt;](https://jen4web.substack.com/p/dfn)  
+#150daysofhtml - Day 4 [The &lt;base&gt; element](https://150daysofhtml.substack.com/p/the-base-element)  
+
+### May 26th 2021  
+### Day 10    
+
+#30daysofhtml - Day 3 [&lt;cite&gt;](https://jen4web.substack.com/p/cite)  
+#150daysofhtml - Day 3 [The &lt;title&gt; element](https://150daysofhtml.substack.com/p/the-title-element)  
+
 ### May 25th 2021  
 ### Day 9  
 
 Getting to know ...  
-[HTML5 boilerplate](https://html5boilerplate.com/)  
+[HTML5 boilerplate](https://html5boilerplate.com/)    
 
 Day 2   
 #30daysofhtml &lt;blockquote&gt; and &lt;q&gt; - not for indentationc or conversation.   
