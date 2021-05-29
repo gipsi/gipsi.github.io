@@ -75,7 +75,7 @@ I created a Google Developer Profile!
 Day 5 - CodeLog - #100daysofcode  
 Getting in the mood to make a  new GitHub pages 100 days of code log by making an octocat.
 
-![My Octocat](myocto.jpg)
+![My Octocat](E173u4_WQAAkJ4p.png)
 
 
 ### 20th May
