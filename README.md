@@ -1,7 +1,7 @@
 <!--- [comment]: <> (This is a comment, it will not be included) --->
 
-# Where your focus goes your energy flows. 🦋 🐛 
 ##  I'm publicly committing to another #100DaysofCode
+# Where your focus goes your energy flows. 🦋 🐛 
 
 ### 17th May 2021
 ### #100DaysofCode  [Official Site](https://www.100daysofcode.com/) 
