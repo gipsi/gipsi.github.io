@@ -7,7 +7,7 @@
 #100DaysofCode  [Official Site](https://www.100daysofcode.com/) 
 
 ### May 29th 2021  
-### Day 13  <details >, <summary > and the link element part 2.
+### Day 13  <details > <summary > and the link element part 2.
 
 #30daysofhtml - Day 6 [&lt;details&gt; and &lt;summary&gt;](https://jen4web.substack.com/p/details)  
 #150daysofhtml - Day 6 [The &lt;link href=""&sol;&gt; element part 2](https://150daysofhtml.substack.com/p/the-link-element-part2)
