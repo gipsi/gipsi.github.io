@@ -4,7 +4,19 @@
 ###  I'm publicly committing to another #100DaysofCode
 
 ## 17th May 2021
-#100DaysofCode  [Official Site](https://www.100daysofcode.com/)  
+#100DaysofCode  [Official Site](https://www.100daysofcode.com/) 
+
+### May 29th 2021  
+### Day 13  <details >, <summary > and the link element part 2.
+
+#30daysofhtml - Day 6 [&lt;details&gt; and &lt;summary&gt;](https://jen4web.substack.com/p/details)  
+#150daysofhtml - Day 6 [The &lt;link href=""&sol;&gt; element part 2](https://150daysofhtml.substack.com/p/the-link-element-part2)
+
+### May 28th 2021  
+### Day 12 description lists and the link element.
+
+#30daysofhtml - Day 5 [&lt;dl&gt;&lt;dt&gt;&lt;dd&gt;](https://jen4web.substack.com/p/description)  
+#150daysofhtml - Day 5 [The &lt;link href="style/main.css"&sol;&gt; element](https://150daysofhtml.substack.com/p/the-link-element-part1)
 
 ### May 27th 2021  
 ### Day 11  
