@@ -1,11 +1,11 @@
 <!--- [comment]: <> (This is a comment, it will not be included) --->
 
-##  I'm publicly committing to another #100DaysofCode
-# Where your focus goes your energy flows. 🦋 🐛 
+#  I'm publicly committing to another #100DaysofCode
+## Where your focus goes your energy flows. 🦋 🐛 
 
 ### 17th May 2021
-### #100DaysofCode  [Official Site](https://www.100daysofcode.com/) 
-
+#### #100DaysofCode  [Official Site](https://www.100daysofcode.com/) 
+---
 ### May 29th 2021  
 ### Day 13  <details > <summary > and the link element part 2.
 
