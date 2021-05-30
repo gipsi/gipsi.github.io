@@ -9,14 +9,14 @@
 #### #100DaysofCode  [Official Site](https://www.100daysofcode.com/) 
 ---
 ### May 30th 2021
-Day 14 &lt;abbr&gt; and &lt;link&sol;&gt;
+Day 14 &lt;abbr&gt; and &lt;link&sol;&gt;  
   
-What does that TLA* mean? 🤔💡🤭  
+What does that TLA* mean? 🤔💡🤭    
   
-Plus so many more things to learn about &lt;link&sol;&gt; element and the magical browsers 🧙‍♂️🧙‍♀️  
+Plus so many more things to learn about &lt;link&sol;&gt; element and the magical browsers 🧙‍♂️🧙‍♀️    
 
-#30daysofhtml - Day 7 [&lt;abbr&gt;](https://jen4web.substack.com/p/abbr)  
-#150daysofhtml - Day 7 [The &lt;link&sol;&gt; element part 3](https://150daysofhtml.substack.com/p/the-link-element-part3) 
+#30daysofhtml - Day 7 [&lt;abbr&gt;](https://jen4web.substack.com/p/abbr)    
+#150daysofhtml - Day 7 [The &lt;link&sol;&gt; element part 3](https://150daysofhtml.substack.com/p/the-link-element-part3)   
 
 ### May 29th 2021  
 ### Day 13  <details > <summary > and the link element part 2.
