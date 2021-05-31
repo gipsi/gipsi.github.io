@@ -20,7 +20,7 @@ HTML + CSS semantic calendar project.
   
 
 #30daysofhtml - Day 8 [&lt;small&gt;](https://jen4web.substack.com/p/small)  
-#30daysofhtml - Day 8 [link rel](https://150daysofhtml.substack.com/p/link-rel-and-resource-hints)  
+#150daysofhtml - Day 8 [link rel](https://150daysofhtml.substack.com/p/link-rel-and-resource-hints)  
 
 ### May 30th 2021
 ### Day 14 &lt;abbr&gt; and &lt;link&sol;&gt;  
