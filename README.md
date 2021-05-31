@@ -8,8 +8,22 @@
 ### From Monday 17th May 2021 to Tuesday 24th August 2021
 #### #100DaysofCode  [Official Site](https://www.100daysofcode.com/) 
 ---
+
+### May 31
+### Day 15 &lt;small&gt;, link rel and Resource Hints    
+Th &lt;small&gt; print then ....   
+link rel and Resource Hints - improving user experience and accessibility through performace.    
+  
+  and ...  WIP ... 
+HTML + CSS semantic calendar project.   
+  ![May Calendar](May2021.png)
+  
+
+#30daysofhtml - Day 8 [&lt;small&gt;](https://jen4web.substack.com/p/small)  
+#30daysofhtml - Day 8 [link rel](https://150daysofhtml.substack.com/p/link-rel-and-resource-hints)  
+
 ### May 30th 2021
-Day 14 &lt;abbr&gt; and &lt;link&sol;&gt;  
+### Day 14 &lt;abbr&gt; and &lt;link&sol;&gt;  
   
 What does that TLA* mean? 🤔💡🤭    
   
