@@ -9,6 +9,16 @@
 #### #100DaysofCode  [Official Site](https://www.100daysofcode.com/) 
 ---
 
+### June 1st 2021  
+### Day 15 - Long words, rel and a calendar - #100daysofcode  
+
+What to do about sesquipedalianism? &lt;wbr&gt;!    
+More rel attribute keywords on the link element.    
+
+A live [calendar for June.](https://gipsi.github.io/calendar/)   
+Day 8 - #30daysofhtml [&lt;wbr&gt;}(https://](jen4web.substack.com/p/wbr)  
+Day 8 - #150Daysofhtml [Concluding rel](https://150daysofhtml.substack.com/p/concluding-rel)  
+
 ### May 31
 ### Day 15 &lt;small&gt;, link rel and Resource Hints    
 The &lt;small&gt; print then ....   
@@ -18,9 +28,8 @@ link rel and Resource Hints - improving user experience and accessibility throug
 HTML + CSS semantic calendar project.   
   ![May Calendar](May2021.png)
   
-
 #30daysofhtml - Day 8 [&lt;small&gt;](https://jen4web.substack.com/p/small)  
-#150daysofhtml - Day 8 [link rel](https://150daysofhtml.substack.com/p/link-rel-and-resource-hints)  
+#150daysofhtml - Day 8 [link rel](https://150daysofhtml.substack.com/p/link-rel-and-resource-hints) 
 
 ### May 30th 2021
 ### Day 14 &lt;abbr&gt; and &lt;link&sol;&gt;  
