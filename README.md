@@ -10,6 +10,15 @@
 ##### A live [calendar for June](https://gipsi.github.io/calendar/)
 ---
 
+### June 2nd 2021  
+### Day 16 - &lt;sup&gt; and &lt;sub&gt; - #100daysofcode  
+
+A #30daysofhtml challenge!  
+
+[☕☕☕](https://codepen.io/gipsi/pen/KKWQNva)  
+  
+Day 10 - #30daysofhtml [&lt;sup&gt; and &lt;sub&gt;](https://jen4web.substack.com/p/sup-sub)  
+
 ### June 1st 2021  
 ### Day 15 - Long words, rel and a calendar - #100daysofcode  
 
@@ -17,8 +26,8 @@ What to do about sesquipedalianism? &lt;wbr&gt; !
 More rel attribute keywords on the link element.    
 
 A live [calendar for June](https://gipsi.github.io/calendar/)   
-Day 8 - #30daysofhtml [&lt;wbr&gt;](https://jen4web.substack.com/p/wbr)  
-Day 8 - #150Daysofhtml [Concluding rel](https://150daysofhtml.substack.com/p/concluding-rel)  
+Day 9 - #30daysofhtml [&lt;wbr&gt;](https://jen4web.substack.com/p/wbr)  
+Day 9 - #150Daysofhtml [Concluding rel](https://150daysofhtml.substack.com/p/concluding-rel)  
 
 ### May 31
 ### Day 15 &lt;small&gt;, link rel and Resource Hints    
