@@ -6,18 +6,30 @@
 ![My Octocat](E173u4_WQAAkJ4p.png)
 
 ### From Monday 17th May 2021 to Tuesday 24th August 2021
-#### #100DaysofCode  [Official Site](https://www.100daysofcode.com/) 
+#### #100DaysofCode  @ka11away's [Official Site](https://www.100daysofcode.com/)
+#### #30DaysofHTML Learning with Jen [email course](https://learnwithjen.com/#zEosF)
+#### #150DaysofHTML Deep dive with Schalk Neethling [email course](https://150daysofhtml.substack.com/about)
+#### Frontend Masters [Bootcamp](https://frontendmasters.github.io/bootcamp/)
+
 ##### A live [calendar for June](https://gipsi.github.io/calendar/)
 ---
 
+### June 3rd 2021
+### Day 17 - &lt;address&gt; quiz - #100DaysofCode
+
+I got 🌟8/8 in the #30DaysofHTML Day 1 quiz yay! 🙌
+
+Day 1 #30DaysofHTML [&lt;address&gt; examples pen](https://codepen.io/jen4web/pen/MWJWgzW)  
+  
 ### June 2nd 2021  
 ### Day 16 - &lt;sup&gt; and &lt;sub&gt; - #100daysofcode  
 
 A #30daysofhtml challenge!  
 
-[☕☕☕](https://codepen.io/gipsi/pen/KKWQNva)  
-  
-Day 10 - #30daysofhtml [&lt;sup&gt; and &lt;sub&gt;](https://jen4web.substack.com/p/sup-sub)  
+[☕☕☕](https://codepen.io/gipsi/pen/KKWQNva)   
+ Day 10 - #30daysofhtml Challenge [Pen](https://codepen.io/gipsi/pen/KKWQNva)     
+ Day 10 - #30daysofhtml [&lt;sup&gt; and &lt;sub&gt;](https://jen4web.substack.com/p/sup-sub)   
+ Day 10 - #150DaysofHTML The link element [integrity attribute](https://150daysofhtml.substack.com/p/security-via-integrity)    
 
 ### June 1st 2021  
 ### Day 15 - Long words, rel and a calendar - #100daysofcode  
