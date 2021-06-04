@@ -14,6 +14,13 @@
 ##### A live [calendar for June](https://gipsi.github.io/calendar/)
 ---
 
+### June 4th 2021
+Day 18 - HTML elements and attributes - #100daysofcode   
+Link attributes: type, referrerpolicy, as, disabled, imagesrcset, and imagesizes.    
+Elements:```&lt;strong&gt;, &lt;mark&gt;, &lt;cite&gt;, &lt;s&gt;, &lt;del&gt; and &lt;ins&gt;```.   
+Day 11 - #150daysofhtml Wrapping up attributes and [link element](https://150daysofhtml.substack.com/p/wrapping-up-the-link-element)     
+Day 11 - #30daysofhtml Marking up edits and drawing attention with [elements](https://jen4web.substack.com/p/editing)     
+
 ### June 3rd 2021
 ### Day 17 - &lt;address&gt; quiz - #100DaysofCode
 
