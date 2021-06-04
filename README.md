@@ -15,7 +15,7 @@
 ---
 
 ### June 4th 2021
-Day 18 - HTML elements and attributes - #100daysofcode   
+### Day 18 - HTML elements and attributes - #100daysofcode   
 Link attributes: type, referrerpolicy, as, disabled, imagesrcset, and imagesizes.    
 Elements:```&lt;strong&gt;, &lt;mark&gt;, &lt;cite&gt;, &lt;s&gt;, &lt;del&gt; and &lt;ins&gt;```.     
 
