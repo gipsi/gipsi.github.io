@@ -13,13 +13,22 @@
 
 ##### A live [calendar for June](https://gipsi.github.io/calendar/)
 ---
+  
+### June 5th 2021   
+### Day 20 - Practice! - #100daysofcode   
+  
+Believing impossible things.  
+  
+&lt;blockquote&gt; and &lt;q&gt; #30daysofhtml  
+  
+Day 2 [&lt;blockquote&gt; and &lt;q&gt; challenge](https://codepen.io/gipsi/pen/RwpyMRz)
 
 ### June 5th 2021
 ### Day 19 - Coding Challenges - #100DaysOfCode   
 Some time today to work through the #30daysofhtml 
 challenges on CodePen that I missed starting with &lt;address&gt;.  
 
- &lt;address&gt; challenge, [CodePen](https://codepen.io/gipsi/pen/ZEeoBRB)
+ Day 1 &lt;address&gt; challenge, [CodePen](https://codepen.io/gipsi/pen/ZEeoBRB)
 
 ### June 4th 2021
 ### Day 18 - HTML elements and attributes - #100daysofcode   
