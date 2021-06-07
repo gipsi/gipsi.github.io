@@ -14,7 +14,7 @@
 ##### A live [calendar for June](https://gipsi.github.io/calendar/)
 ---
   
-### June 5th 2021   
+### June 6th 2021   
 ### Day 20 - Practice! - #100daysofcode   
   
 Believing impossible things.  
