@@ -99,10 +99,10 @@ HTML + CSS semantic calendar project.
   
 What does that TLA* mean? 🤔💡🤭    
   
-Plus so many more things to learn about &lt;link&sol;&gt; element and the magical browsers 🧙‍♂️🧙‍♀️    
+Plus so many more things to learn about &lt;&sol;link&gt; element and the magical browsers 🧙‍♂️🧙‍♀️    
 
 #30daysofhtml - Day 7 [&lt;abbr&gt;](https://jen4web.substack.com/p/abbr)    
-#150daysofhtml - Day 7 [The &lt;link&sol;&gt; element part 3](https://150daysofhtml.substack.com/p/the-link-element-part3)   
+#150daysofhtml - Day 7 [The &lt;&sol;link&gt; element part 3](https://150daysofhtml.substack.com/p/the-link-element-part3)   
 
 ### May 29th 2021  
 ### Day 13  <details > <summary > and the link element part 2.
