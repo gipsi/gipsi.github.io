@@ -18,7 +18,7 @@
 ### Day 22 - < dfn> - #100daysofcode  
 Defining terms.    
 
-#30daysofhtml CodePen [challenge Day 4](https://codepen.io/gipsi/pen/WNpKNvN)  
+#30daysofhtml [CodePen challenge Day 4](https://codepen.io/gipsi/pen/WNpKNvN)  
 
 ### June 7th 2021
 ### Day 21 -< address>, < blockquote>, < q>, < cite> and cite - #100daysofcode  
@@ -27,9 +27,9 @@ First the cite challenge: to modify yesterdays blockquote exercise in light of n
 
 Who said what from where challenge: a practical review of things learnt so far.    
 
-#30daysofhtml CodePen [challenge 1 Day 3](https://codepen.io/gipsi/pen/LYWrrpb)
+#30daysofhtml [CodePen challenge 1 Day 3](https://codepen.io/gipsi/pen/LYWrrpb)
 
-#30daysofhtml CodePen [challenge 2 Day 3](https://codepen.io/gipsi/pen/abJKjOL)
+#30daysofhtml [CodePen challenge 2 Day 3](https://codepen.io/gipsi/pen/abJKjOL)
   
 ### June 6th 2021   
 ### Day 20 - Practice! - #100daysofcode   
@@ -38,14 +38,14 @@ Believing impossible things.
   
 &lt;blockquote&gt; and &lt;q&gt; #30daysofhtml    
 
-#30daysofhtml CodePen [challenge Day 2](https://codepen.io/gipsi/pen/RwpyMRz)
+#30daysofhtml [CodePen challenge Day 2](https://codepen.io/gipsi/pen/RwpyMRz)
  
 ### June 5th 2021
 ### Day 19 - Coding Challenges - #100DaysOfCode   
 Some time today to backtrack and work through the #30daysofhtml 
 challenges on CodePen starting with &lt;address&gt;.  
 
-#30daysofhtml CodePen [challenge Day 1](https://codepen.io/gipsi/pen/ZEeoBRB)
+#30daysofhtml [CodePen challenge Day 1](https://codepen.io/gipsi/pen/ZEeoBRB)
 
 ### June 4th 2021
 ### Day 18 - HTML elements and attributes - #100daysofcode   
