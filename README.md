@@ -16,7 +16,8 @@
 
 ### June 8th 2021  
 ### Day 22 - < dfn> - #100daysofcode  
-Defining terms.  
+Defining terms.    
+
 #30daysofhtml CodePen [challenge Day 4](https://codepen.io/gipsi/pen/WNpKNvN)  
 
 ### June 7th 2021
