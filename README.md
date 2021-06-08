@@ -13,6 +13,17 @@
 
 ##### A live [calendar for June](https://gipsi.github.io/calendar/)
 ---
+
+### June 7th 2021
+### Day 21 -< address>, < blockquote>, < q>, < cite> and cite - #100daysofcode  
+
+First the cite challenge: to modify yesterdays blockquote exercise in light of new information about the different rules governing this feature which can be an attribute or an element.   
+
+Who said what from where challenge: a practical review of things learnt so far.    
+
+#30daysofhtml CodePen [challenge 1 Day 3](https://codepen.io/gipsi/pen/LYWrrpb)
+
+#30daysofhtml CodePen [challenge 2 Day 3](://codepen.io/gipsi/pen/abJKjOL)
   
 ### June 6th 2021   
 ### Day 20 - Practice! - #100daysofcode   
@@ -25,8 +36,8 @@ Day 2 [&lt;blockquote&gt; and &lt;q&gt; challenge](https://codepen.io/gipsi/pen/
 
 ### June 5th 2021
 ### Day 19 - Coding Challenges - #100DaysOfCode   
-Some time today to work through the #30daysofhtml 
-challenges on CodePen that I missed starting with &lt;address&gt;.  
+Some time today to backtrack and work through the #30daysofhtml 
+challenges on CodePen starting with &lt;address&gt;.  
 
  Day 1 &lt;address&gt; challenge, [CodePen](https://codepen.io/gipsi/pen/ZEeoBRB)
 
