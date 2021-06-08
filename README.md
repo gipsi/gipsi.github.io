@@ -35,16 +35,16 @@ Who said what from where challenge: a practical review of things learnt so far.
   
 Believing impossible things.  
   
-&lt;blockquote&gt; and &lt;q&gt; #30daysofhtml  
-  
-Day 2 [&lt;blockquote&gt; and &lt;q&gt; challenge](https://codepen.io/gipsi/pen/RwpyMRz)
+&lt;blockquote&gt; and &lt;q&gt; #30daysofhtml    
 
+#30daysofhtml CodePen [challenge Day 2](https://codepen.io/gipsi/pen/RwpyMRz)
+ 
 ### June 5th 2021
 ### Day 19 - Coding Challenges - #100DaysOfCode   
 Some time today to backtrack and work through the #30daysofhtml 
 challenges on CodePen starting with &lt;address&gt;.  
 
- Day 1 &lt;address&gt; challenge, [CodePen](https://codepen.io/gipsi/pen/ZEeoBRB)
+#30daysofhtml CodePen [challenge Day 1](https://codepen.io/gipsi/pen/ZEeoBRB)
 
 ### June 4th 2021
 ### Day 18 - HTML elements and attributes - #100daysofcode   
