@@ -14,6 +14,11 @@
 ##### A live [calendar for June](https://gipsi.github.io/calendar/)
 ---
 
+### June 8th 2021  
+### Day 22 - < dfn> - #100daysofcode  
+Defining terms.  
+#30daysofhtml CodePen [challenge Day 4](https://codepen.io/gipsi/pen/WNpKNvN)  
+
 ### June 7th 2021
 ### Day 21 -< address>, < blockquote>, < q>, < cite> and cite - #100daysofcode  
 
@@ -23,7 +28,7 @@ Who said what from where challenge: a practical review of things learnt so far.
 
 #30daysofhtml CodePen [challenge 1 Day 3](https://codepen.io/gipsi/pen/LYWrrpb)
 
-#30daysofhtml CodePen [challenge 2 Day 3](://codepen.io/gipsi/pen/abJKjOL)
+#30daysofhtml CodePen [challenge 2 Day 3](https://codepen.io/gipsi/pen/abJKjOL)
   
 ### June 6th 2021   
 ### Day 20 - Practice! - #100daysofcode   
