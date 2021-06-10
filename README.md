@@ -14,6 +14,14 @@
 ##### A live [calendar for June](https://gipsi.github.io/calendar/)
 ---
 
+### June 9th 2021  
+### Day 23  -  create-react-app  - #100DaysOfCode   
+  
+my-app   
+
+Many errors concerning versions.  
+Some StackOverflow [possible solutions](https://stackoverflow.com/questions/64963796/create-react-app-is-not-working-since-version-4-0-1/65043610#65043610)
+
 ### June 8th 2021  
 ### Day 22 - < dfn> - #100daysofcode  
 Defining terms.    
