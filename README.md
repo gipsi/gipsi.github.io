@@ -14,6 +14,27 @@
 ##### A live [calendar for June](https://gipsi.github.io/calendar/)
 ---
 
+### June 16th 2021  
+### Day 27  -  <br>  - #100DaysOfCode
+
+### June 15th 2021  
+### Day 27  -  <br>  - #100DaysOfCode
+
+### June 14th 2021  
+### Day 27  -  <br> - #100DaysOfCode
+
+### June 13th 2021  
+### Day 27  -  <br> - #100DaysOfCode
+
+### June 12th 2021  
+### Day 26  -  <br>  - #100DaysOfCode
+
+### June 11th 2021  
+### Day 25  -  GitHub  - #100DaysOfCode
+
+### June 10th 2021  
+### Day 24  -  calendar - #100DaysOfCode
+
 ### June 9th 2021  
 ### Day 23  -  create-react-app  - #100DaysOfCode   
   
