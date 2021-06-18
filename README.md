@@ -14,6 +14,23 @@
 ##### A live [calendar for June](https://gipsi.github.io/calendar/)
 ---
 
+### June 18th 2021  
+### Day 32 - React - #100DaysofCode   
+
+Created React App - my-new-app.    
+
+![React App](reactapp.gif)  
+
+
+### June 17th 2021  
+### Day 31 - npx - #100DaysofCode    
+ 
+Creating React App my-new-app.  
+Getting "web-vitals" missing error (even though it seems to be there).  
+Possible missing bits due to slow internet.  
+
+[Node.js package runner](https://nodejs.dev/learn/the-npx-nodejs-package-runner)
+
 ### June 16th 2021  
 ### Day 30  -  <br>  - #100DaysOfCode
 
