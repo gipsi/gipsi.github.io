@@ -17,7 +17,25 @@
 ### June 21st 2021  
 ### Day 35 - HTML challenge - #100DaysofCode
 
-Had a second try at this challenge using lots of < abbr> and < dfn> tags.
+Had a second try at this challenge using lots of < abbr> and < dfn> tags.  
+Rather more than would usually be neccessary as clarified by helpful feedback from Jen Kramer:  
+> < abbr> is for abbreviations, acronyms, and initialisms. Let's say we're talking about HTML. All the <abbr> element tells us is what HTML stands for:
+
+> < abbr title="Hypertext Markup Language">HTML< /abbr>
+
+> < dfn> does the definition. Often that goes beyond the abbreviation (hopefully!):
+
+>  < p>< dfn id="html">< abbr title="Hypertext Markup Language">HTML< /abbr>, the Hypertext Markup Language,</dfn> describes the structure of web documents, identifying parts of the document like headings, lists, and links.< /p>
+
+> < p>However, < a href="#html">HTML< /a> is limited in its appearance and functionality.< /p>
+
+> So here we've defined HTML early in the document. Later, if we want to refer to the definition, we link to it.
+
+> Should we put a <abbr> around that second instance of HTML?... it depends. If we were pages into a book and we'd not used HTML in that time, perhaps so. If we're a paragraph later, probably not.
+
+> So -- should people be defined? Maybe, but probably not in the sense of a dictionary entry. I love your link to Michelle Obama's Wikipedia entry, for example. If you don't know who she is, you can read about her. But that's just a plain old link. You can't look her up in Webster's dictionary. 😁
+
+This has been a very useful exercise and lesson in how much and how flexibly text can be enriched with HTML.
 
 #30DaysofHTML Day 3: 'Who Said What From Where'    
 [@CodePen](https://codepen.io/gipsi/pen/xxqNxxY)  
