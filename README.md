@@ -14,6 +14,20 @@
 ##### A live [calendar for June](https://gipsi.github.io/calendar/)
 ---
 
+### June 21st 2021  
+### Day 35 - HTML challenge - #100DaysofCode
+
+Had a second try at this challenge using lots of < abbr> and < dfn> tags.
+
+#30DaysofHTML Day 3: 'Who Said What From Where'    
+[@CodePen](https://codepen.io/gipsi/pen/xxqNxxY)  
+
+### June 20th 2021  
+### Day 34 - Observing - #100DaysofCode
+
+### June 19th 2021  
+### Day 33 - Thinking - #100DaysofCode 
+
 ### June 18th 2021  
 ### Day 32 - React - #100DaysofCode   
 
