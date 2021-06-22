@@ -14,6 +14,13 @@
 ##### A live [calendar for June](https://gipsi.github.io/calendar/)
 ---
 
+### June 22nd 2021 
+### Day 36 - A bit of Git - #100DaysOfCode 
+
+A deeper dive and rummage into  Git concepts prompted by this thread ...
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The most important GIT CONCEPTS <br><br>Stop copy-pasting, start Understanding <br><br>- THREAD -</p>&mdash; Iren Gataullina (@IrenSayWhen) <a href="https://twitter.com/IrenSayWhen/status/1404427336909471744?ref_src=twsrc%5Etfw">June 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### June 21st 2021  
 ### Day 35 - HTML challenge - #100DaysofCode
 
