@@ -2,8 +2,12 @@
 # 2022 JavaScript Journal
 ![My Octocat](E173u4_WQAAkJ4p.png)
 ## "Anyone who keeps the ability to see beauty never grows old." ~ Kafka 🦋 🐛
-
-
+---
+### Resources
+#### <a href="https://frontendmasters.com/dashboard/">Frontend Masters - Bootcamp</a>
+#### <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/">FreeCodeCamp - JavaScript Algorithms and Data Structures</a>
+#### <a href="https://www.digitalocean.com/community/tutorial_series/how-to-code-in-javascript">Digital Ocean - How To Code in JavaScript</a>
+#### Udacity [Classroom](https://www.udacity.com/)
 ---
 # 2021
 #  I'm publicly committing to another #100DaysofCode
@@ -16,6 +20,8 @@
 #### #30DaysofHTML Learning with Jen [email course](https://learnwithjen.com/#zEosF)
 #### #150DaysofHTML Deep dive with Schalk Neethling [email course](https://150daysofhtml.substack.com/about)
 #### Frontend Masters [Bootcamp](https://frontendmasters.github.io/bootcamp/)
+#### Udacity [Classroom](https://frontendmasters.github.io/bootcamp/)
+
 
 ##### A live [calendar for June](https://gipsi.github.io/calendar/)
 ---
