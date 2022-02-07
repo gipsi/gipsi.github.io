@@ -1,16 +1,83 @@
 <!--- [comment]: <> (This is a comment, it will not be included) --->
+
+
 # 2022 JavaScript Journal
 ![My Octocat](E173u4_WQAAkJ4p.png)
 ## "Anyone who keeps the ability to see beauty never grows old." ~ Kafka 🦋 🐛
 ---
 ### Resources
-#### <a href="https://frontendmasters.com/dashboard/">Frontend Masters - Bootcamp</a>
-#### <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/">FreeCodeCamp - JavaScript Algorithms and Data Structures</a>
-#### <a href="https://www.digitalocean.com/community/tutorial_series/how-to-code-in-javascript">Digital Ocean - How To Code in JavaScript</a>
+
+#### Frontend Masters [Bootcamp](https://frontendmasters.com/dashboard/)
+#### FreeCodeCamp [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+#### Digital Ocean [How To Code in JavaScript](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-javascript)
 #### Udacity [Classroom](https://www.udacity.com/)
+
+
+
 ---
-# 2021
-#  I'm publicly committing to another #100DaysofCode
+# Welcome to GitHub Pages
+
+
+<!--
+ > I think when you have a lot of jumbled up ideas they come together slowly over a period of several years ~ [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) 
+-->
+> "The amateur software engineer is always in search of magic." - Grady Booch
+> via Programming Wisdom @CodeWisdom on Twitter 12:37 PM - 12 Oct 2018 
+
+
+### How this site works
+
+You can use the [editor on GitHub](https://github.com/gipsi/gipsi.github.io/edit/master/README.md) to maintain and preview content for the website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gipsi/gipsi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+<!--
+> ![programming](media/programming1.jpg)
+
+Links: to [@codewisdom](https://twitter.com/CodeWisdom) on Twitter, and about
+[Nicholas Negroponte](https://en.wikipedia.org/wiki/Nicholas_Negroponte) at Wikipedia.
+
+-->
+
+
+
+
+---
+# 2021 Archive (HTML and CSS)
+#  When I publicly committed to another #100DaysofCode
 ## Where your focus goes your energy flows. 🦋 🐛   
 
 ![My Octocat](E173u4_WQAAkJ4p.png)
