@@ -1,5 +1,11 @@
 <!--- [comment]: <> (This is a comment, it will not be included) --->
+# 2022
+![My Octocat](E173u4_WQAAkJ4p.png)
+## Where your focus goes your energy flows. 🦋 🐛
 
+
+---
+# 2021
 #  I'm publicly committing to another #100DaysofCode
 ## Where your focus goes your energy flows. 🦋 🐛   
 
