@@ -1,7 +1,7 @@
 <!--- [comment]: <> (This is a comment, it will not be included) --->
-# 2022
+# 2022 JavaScript Journal
 ![My Octocat](E173u4_WQAAkJ4p.png)
-## Where your focus goes your energy flows. 🦋 🐛
+## "Anyone who keeps the ability to see beauty never grows old." ~ Kafka 🦋 🐛
 
 
 ---
