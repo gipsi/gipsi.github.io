@@ -18,12 +18,12 @@
 # Welcome to GitHub Pages
 
 
-<!--
+
  > I think when you have a lot of jumbled up ideas they come together slowly over a period of several years ~ [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) 
--->
+<!--
 > "The amateur software engineer is always in search of magic." - Grady Booch
 > via Programming Wisdom @CodeWisdom on Twitter 12:37 PM - 12 Oct 2018 
-
+-->
 
 ### How this site works
 
@@ -139,7 +139,7 @@ Created React App - my-new-app.
 
 ![React App](reactapp.gif)  
 
-![Getting comfortable with Create React App](https://alligator.io/react/create-react-app/#:~:text=%24%20create-react-app%20my-new-app%20Run%20npm%20start%20from%20the,functional%2C%20hot%20reloading%20dev%20server.%20Write%20your%20code.)
+[Getting comfortable with Create React App](https://alligator.io/react/create-react-app/#:~:text=%24%20create-react-app%20my-new-app%20Run%20npm%20start%20from%20the,functional%2C%20hot%20reloading%20dev%20server.%20Write%20your%20code.)
 ### June 17th 2021  
 ### Day 31 - npx - #100DaysofCode    
  
