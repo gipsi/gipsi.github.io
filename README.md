@@ -12,14 +12,11 @@
 #### Digital Ocean [How To Code in JavaScript](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-javascript)
 #### Udacity [Classroom](https://www.udacity.com/)
 
-
+ > I think when you have a lot of jumbled up ideas they come together slowly over a period of several years ~ [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) 
 
 ---
 # Welcome to GitHub Pages
 
-
-
- > I think when you have a lot of jumbled up ideas they come together slowly over a period of several years ~ [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) 
 <!--
 > "The amateur software engineer is always in search of magic." - Grady Booch
 > via Programming Wisdom @CodeWisdom on Twitter 12:37 PM - 12 Oct 2018 
@@ -72,8 +69,8 @@ Links: to [@codewisdom](https://twitter.com/CodeWisdom) on Twitter, and about
 
 -->
 
-
-
+---
+##### 22 02 2022
 
 ---
 # 2021 Archive (HTML and CSS)
