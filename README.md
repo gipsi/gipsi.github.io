@@ -3,7 +3,7 @@
 
 # 2022 JavaScript Journal
 ![My Octocat](githubavatar.png)
-## "Anyone who keeps the ability to see beauty never grows old." ~ Kafka 🦋 🐛
+## "Anyone who keeps the ability to see beauty never grows old." ~ Kafka 🪲
 ---
 ### Resources
 
