@@ -75,11 +75,11 @@ Links: to [@codewisdom](https://twitter.com/CodeWisdom) on Twitter, and about
 ## 22 02 2022 ~ Tuesday
 Found an online book and read some reminders of reasons to Learn JavaScript [w3docs](https://www.w3docs.com/learn-javascript.html)
 
-"There are at least three perfect things about JavaScript:
+" There are at least three perfect things about JavaScript:
 
 1. It supports complete integration with CSS and HTML.
 2. It provides straightforward ways of doing simple things.
-3. It is supported by almost all the major browsers and is performed by default."
+3. It is supported by almost all the major browsers and is performed by default. "
 ---
 ---
 # 2021 Archive (HTML and CSS)
