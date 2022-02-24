@@ -5,7 +5,7 @@
 ![My Octocat](githubavatar.png)
 ## "Anyone who keeps the ability to see beauty never grows old." ~ Kafka 🪲
 ---
-### Resources
+### Resources:
 
 #### MDN [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
 #### Frontend Masters [Bootcamp](https://frontendmasters.com/dashboard/)
