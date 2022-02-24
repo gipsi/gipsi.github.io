@@ -13,7 +13,6 @@
 #### w3docs [Learn JavaScript](https://www.w3docs.com/learn-javascript.html)
 #### Digital Ocean [How To Code in JavaScript](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-javascript)
 #### W3schools [JavaScript Tutorial](https://www.w3schools.com/js/DEFAULT.asp)
-#### Udacity [Classroom](https://www.udacity.com/)
 
  > I think when you have a lot of jumbled up ideas they come together slowly over a period of several years ~ [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) 
 
