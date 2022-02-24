@@ -7,9 +7,12 @@
 ---
 ### Resources
 
+#### MDN [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
 #### Frontend Masters [Bootcamp](https://frontendmasters.com/dashboard/)
 #### FreeCodeCamp [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+#### w3docs [Learn JavaScript](https://www.w3docs.com/learn-javascript.html)
 #### Digital Ocean [How To Code in JavaScript](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-javascript)
+#### W3schools [JavaScript Tutorial](https://www.w3schools.com/js/DEFAULT.asp)
 #### Udacity [Classroom](https://www.udacity.com/)
 
  > I think when you have a lot of jumbled up ideas they come together slowly over a period of several years ~ [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) 
@@ -70,8 +73,15 @@ Links: to [@codewisdom](https://twitter.com/CodeWisdom) on Twitter, and about
 -->
 
 ---
-##### 22 02 2022
+## 22 02 2022 ~ Tuesday
+Found an online book and read some reminders of reasons to Learn JavaScript [w3docs](https://www.w3docs.com/learn-javascript.html)
 
+"There are at least three perfect things about JavaScript:
+
+1. It supports complete integration with CSS and HTML.
+2. It provides straightforward ways of doing simple things.
+3. It is supported by almost all the major browsers and is performed by default."
+---
 ---
 # 2021 Archive (HTML and CSS)
 #  When I publicly committed to another #100DaysofCode
