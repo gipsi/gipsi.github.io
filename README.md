@@ -3,7 +3,19 @@
 
 # 2022 JavaScript Journal
 ![My Octocat](githubavatar.png)
+<!--
 ## "Anyone who keeps the ability to see beauty never grows old." ~ Kafka 🪲
+## "I was warped early by Ray Bradbury and Edgar Allan Poe. I was very fond of Franz Kafka."
+-->
+## "If I waited for perfection... I would never write a word." ~ Margaret Attwood
+
+---
+## 08 03 2022 ~ Tuesday
+Proceeding to set up an [11ty](https://www.11ty.dev/docs/getting-started/) site. Started: 14:00 UK winter time.
+
+---
+## 29 02 2022 ~  ! Not secure [Flora](http://www.encyclopediaofukraine.com/display.asp?linkpath=pagesFLFlora.htm)
+
 ---
 ## 22 02 2022 ~ Tuesday
 Found an online book and read some reminders of reasons to Learn JavaScript [w3docs](https://www.w3docs.com/learn-javascript.html)
