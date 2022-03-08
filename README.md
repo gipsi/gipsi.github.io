@@ -3,10 +3,7 @@
 
 # 2022 JavaScript Journal
 ![My Octocat](githubavatar.png)
-<!--
-## "Anyone who keeps the ability to see beauty never grows old." ~ Kafka 🪲
-## "I was warped early by Ray Bradbury and Edgar Allan Poe. I was very fond of Franz Kafka."
--->
+
 ## "If I waited for perfection... I would never write a word." ~ Margaret Attwood
 
 ---
