@@ -5,6 +5,15 @@
 ![My Octocat](githubavatar.png)
 ## "Anyone who keeps the ability to see beauty never grows old." ~ Kafka 🪲
 ---
+## 22 02 2022 ~ Tuesday
+Found an online book and read some reminders of reasons to Learn JavaScript [w3docs](https://www.w3docs.com/learn-javascript.html)
+
+" There are at least three perfect things about JavaScript:
+
+1. It supports complete integration with CSS and HTML.
+2. It provides straightforward ways of doing simple things.
+3. It is supported by almost all the major browsers and is performed by default. "
+---
 ### Resources:
 
 #### MDN [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
