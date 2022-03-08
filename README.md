@@ -9,9 +9,12 @@
 ---
 ## 08 03 2022 ~ Tuesday
 Proceeding to set up an [11ty](https://www.11ty.dev/docs/getting-started/) site. Started: 14:00 UK winter time.
+By 18:40 the shiny new site said Hi! Browsersync serving the index.html file and README.md from: _site. Woohoo localhost:8080! The command line instuction to make the html file hadn't worked kept giving '< was unexpected at this time' error, so made the file in VS code in the browser instead.
+Rest of the evening figuring what to do next.. perused lots of [starter projects](https://www.11ty.dev/docs/starter/), reasons for using a [styleguide](https://www.zachleat.com/web/now-with-style-guide/), and a [poem](https://www.tatianamac.com/poetry/call-of-crows/).
+
 
 ---
-## 29 02 2022 ~  ! Not secure [Flora](http://www.encyclopediaofukraine.com/display.asp?linkpath=pagesFLFlora.htm)
+## 29 02 2022 ~  ! Not secure [Flora](http://www.encyclopediaofukraine.com/display.asp?linkpath=pagesFLFlora.htm) :ukraine:
 
 ---
 ## 22 02 2022 ~ Tuesday
