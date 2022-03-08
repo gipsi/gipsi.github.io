@@ -14,7 +14,7 @@ Rest of the evening figuring what to do next.. perused lots of [starter projects
 
 
 ---
-## 29 02 2022 ~  ! Not secure [Flora](http://www.encyclopediaofukraine.com/display.asp?linkpath=pagesFLFlora.htm) :ukraine:
+## 29 02 2022 ~  ! Not secure [Flora](http://www.encyclopediaofukraine.com/display.asp?linkpath=pagesFLFlora.htm) 🇺🇦
 
 ---
 ## 22 02 2022 ~ Tuesday
