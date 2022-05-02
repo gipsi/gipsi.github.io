@@ -5,7 +5,7 @@
 ![My Octocat](githubavatar.png)
 
 ## "If I waited for perfection... I would never write a word." ~ Margaret Attwood
-
+ 
 ---
 
 ## 02 05 2022 ~ Monday
