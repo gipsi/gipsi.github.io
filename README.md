@@ -5,6 +5,14 @@
 ![My Octocat](githubavatar.png)
 
 ## "If I waited for perfection... I would never write a word." ~ Margaret Attwood
+
+---
+
+## 02 05 2022 ~ Monday
+
+Why is front end development so hard?
+
+My favourite answer to the question: [quora](https://qr.ae/pvYR0G)
 ---
 
 ## 13 03 2022 ~ Monday [clock](https://gipsi.netlify.app/)
