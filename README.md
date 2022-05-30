@@ -7,6 +7,16 @@
 ## "If I waited for perfection... I would never write a word." ~ Margaret Attwood
  
 ---
+## 30 05 2022 ~ Monday
+
+## BBC's Global Experience language GEL
+### Design pattern how-to's.
+Understanding users.
+
+7 principles to help create great digital experiences for children.  
+How to [design for children](https://www.bbc.co.uk/gel/guidelines/how-to-design-for-children-2)
+
+---
 
 ## 09 05 2022 ~ Monday
 
