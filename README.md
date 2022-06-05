@@ -5,6 +5,15 @@
 ![My Octocat](githubavatar.png)
 
 ## "If I waited for perfection... I would never write a word." ~ Margaret Attwood
+
+---
+
+## 06 06 2022 ~ Monday
+
+## Be the browser’s mentor, not its micromanager.
+### How to build exellent websites. by Andy Bell
+CSS practice [Glitch remix](https://lackadaisical-fifth-split.glitch.me/)
+
  
 ---
 ## 30 05 2022 ~ Monday
