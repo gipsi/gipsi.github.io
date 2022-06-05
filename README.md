@@ -12,7 +12,9 @@
 
 ## Be the browser’s mentor, not its micromanager.
 ### How to build exellent websites. by Andy Bell
-CSS practice [Glitch remix](https://lackadaisical-fifth-split.glitch.me/)
+CSS practice [Glitch remix](https://lackadaisical-fifth-split.glitch.me/)  
+CSS is Awesome [CodePen](https://codepen.io/mandymichael/full/vYYLByj)
+
 
  
 ---
