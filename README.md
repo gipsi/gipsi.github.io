@@ -1,7 +1,7 @@
 <!--- [comment]: <> (This is a comment, it will not be included) --->
 
 
-# 2022 JavaScript Journal
+# 2022 HTML, CSS and JavaScript Journal
 ![My Octocat](githubavatar.png)
 
 ## "If I waited for perfection... I would never write a word." ~ Margaret Attwood
