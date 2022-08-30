@@ -11,6 +11,18 @@
 
 ---
 
+## 30 08 2022 ~ Tuesday
+
+## Learning Eleventy from scratch.
+### I have a terminal and Node v 16.14.2
+Starting from Scratch [Lesson 1 intro](https://learneleventyfromscratch.com/lesson/1.html#extra-setup-for-windows-users)  
+
+### Another True story
+It's gonna be [A Human Future](https://ahumanfuture.co/)
+
+
+---
+
 ## 06 06 2022 ~ Monday
 
 ## Be the browser’s mentor, not its micromanager.
